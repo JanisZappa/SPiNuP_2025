@@ -42,7 +42,7 @@ public class GameManager : Singleton<GameManager>
     public static event GameStart OnGameStart;
     
     
-    private void Awake()
+    private void Start()
     {
         ChangeState(GameState.ServerConnect);
     }
