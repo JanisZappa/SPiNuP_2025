@@ -1,17 +1,20 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
-using UnityEditor;
 
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
 public static class MeshDataOut
 {
+#if UNITY_EDITOR
     [MenuItem("MeshData/Out")]
     public static void GrabMeshData()
     {
         GetAndSave("DataOut");
     }
-    
+#endif
     
     public static void GetAndSave(string name)
     {
