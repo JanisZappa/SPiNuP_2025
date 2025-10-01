@@ -1,0 +1,2007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode_Creator_Selection.cs" line="105" />
+    <bookmark url="file://$PROJECT_DIR$/Assets/ZappaTools/BoolSwitch/_BoolSwitches.cs" line="19" />
+    <bookmark url="file://$PROJECT_DIR$/Assets/00_Scripts/UI/PlayerNameUI.cs" line="54" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87194c4e-7e83-4398-86b2-70952becd76b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/Temp/bin/" />
+    <ignored path="$PROJECT_DIR$/obj/" />
+    <ignored path="$PROJECT_DIR$/packages/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Shape.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/Shape.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="124" column="61" lean-forward="false" selection-start-line="124" selection-start-column="61" selection-end-line="124" selection-end-column="61" />
+              <folding>
+                <marker date="1517174103258" expanded="false" signature="6:33" ph="..." />
+                <marker date="1517174103258" expanded="true" signature="56:16792" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="89:4903" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="452:783" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="814:2099" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="1038:1263" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="1542:1970" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="2163:2420" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="2462:2699" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="2759:2996" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="3059:3302" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="3336:4130" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="3397:4120" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="4175:4637" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="4302:4627" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="4690:4897" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="4938:9900" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="4973:9894" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="5405:5498" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="5593:5688" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="5765:5865" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="5910:5972" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="6060:7507" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="6110:6232" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="6623:7493" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="6801:6962" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="6991:7152" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="7211:7475" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="7591:8230" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="8310:8423" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="8470:8551" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="8633:8736" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="8820:8940" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="9027:9150" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="9246:9702" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="9759:9884" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="9933:16790" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="9979:10401" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="10195:10357" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="10455:10688" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="10740:11731" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="11782:12643" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="12695:13397" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="13455:14301" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="14357:15480" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="15534:16147" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="15939:16103" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="16225:16784" ph="{...}" />
+                <marker date="1517174103258" expanded="true" signature="16305:16774" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DRAW.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="516">
+              <caret line="346" column="45" lean-forward="false" selection-start-line="346" selection-start-column="45" selection-end-line="346" selection-end-column="45" />
+              <folding>
+                <marker date="1517160104275" expanded="false" signature="6:88" ph="..." />
+                <marker date="1517160104275" expanded="true" signature="132:21252" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="229:914" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="255:641" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="455:606" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="653:908" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="1426:1992" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="1470:1986" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="1546:1719" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="1736:1976" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="2080:2304" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="2718:3843" ph="Setup" />
+                <marker date="1517160104275" expanded="true" signature="2870:3270" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="3309:3486" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="3398:3480" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="3525:3658" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="3707:3828" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="3996:4533" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="4540:6177" ph="Vector" />
+                <marker date="1517160104275" expanded="true" signature="4619:4727" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="4811:5308" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="5067:5270" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="5416:5796" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="5909:6162" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="6300:6757" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="6764:9017" ph="Arrow" />
+                <marker date="1517160104275" expanded="true" signature="6872:7866" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="8016:9006" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="9034:10593" ph="Circle" />
+                <marker date="1517160104275" expanded="true" signature="9124:9343" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="9465:9943" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="9772:9913" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="10063:10364" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="10448:10582" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="10613:10990" ph="Arc" />
+                <marker date="1517160104275" expanded="true" signature="10732:10979" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="11011:14190" ph="Rectangle" />
+                <marker date="1517160104275" expanded="true" signature="11112:11880" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="11979:13117" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="12150:12551" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="12688:13087" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="12872:13077" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="13256:14179" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="13435:13836" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="13939:14149" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="14207:14632" ph="Line" />
+                <marker date="1517160104275" expanded="true" signature="14266:14337" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="14394:14465" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="14550:14621" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="14637:16358" ph="Mesh" />
+                <marker date="1517160104275" expanded="true" signature="14721:14800" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="14900:16345" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="15033:16307" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="16453:17155" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="16561:16642" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="16671:16769" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="17202:17320" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="17355:17771" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="17827:18206" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="18253:18507" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="18520:21249" ph="Rendering" />
+                <marker date="1517160104275" expanded="true" signature="18569:18628" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="18661:18695" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="18726:18758" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="18813:20459" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="18912:19038" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="19239:19694" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="19472:19684" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="19792:20453" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="19960:20210" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="20532:21238" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="20587:21008" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="20758:20949" ph="{...}" />
+                <marker date="1517160104275" expanded="true" signature="21255:22357" ph="/* Vector3 p1 = pos + rot * (Vector3.right * -.5f * dimensions.x + Vector3.up * .5f * dimensions.y); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DRAW_Classes.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW_Classes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="257" column="21" lean-forward="false" selection-start-line="257" selection-start-column="21" selection-end-line="257" selection-end-column="21" />
+              <folding>
+                <marker date="1517160971331" expanded="false" signature="6:54" ph="..." />
+                <marker date="1517160971331" expanded="true" signature="82:11382" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="164:1015" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="182:1009" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="233:965" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="860:951" ph="/* _lineMaterial.SetInt(&quot;_ZTest&quot;, 4); ... */" />
+                <marker date="1517160971331" expanded="true" signature="1107:1391" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="1125:1385" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="1179:1338" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="1422:8488" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="1460:2026" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="1578:1765" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="1805:2016" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="2208:2379" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="2422:2535" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="2597:2979" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="3018:3487" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="3053:3447" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="3214:3376" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="3977:4080" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="4119:4295" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="4351:4471" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="4508:4860" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="4906:5002" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="5050:5224" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="5276:5459" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="5510:5649" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="5716:5855" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="5909:6227" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="6298:6420" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="6521:6758" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="6893:7291" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="7420:7677" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="7748:7885" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="7931:8127" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="8153:8482" ph="/* public static bool operator !=(Shape shapeA, Shape shapeB) ... */" />
+                <marker date="1517160971331" expanded="true" signature="8520:10404" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="8896:9172" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="9262:10315" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="9660:9843" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="10352:10398" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="10436:11380" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="10683:10851" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="10882:11078" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="10908:11068" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="11155:11374" ph="{...}" />
+                <marker date="1517160971331" expanded="true" signature="11252:11337" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeMesher.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeMesher.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+              <folding>
+                <marker date="1517173800203" expanded="true" signature="41:1811" ph="{...}" />
+                <marker date="1517173800203" expanded="true" signature="69:1809" ph="{...}" />
+                <marker date="1517173800203" expanded="true" signature="210:1690" ph="{...}" />
+                <marker date="1517173800203" expanded="true" signature="459:835" ph="{...}" />
+                <marker date="1517173800203" expanded="true" signature="617:830" ph="{...}" />
+                <marker date="1517173800203" expanded="true" signature="856:1065" ph="{...}" />
+                <marker date="1517173800203" expanded="true" signature="1250:1686" ph="{...}" />
+                <marker date="1517173800203" expanded="true" signature="1722:1806" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeTest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+              <folding>
+                <marker date="1517171665379" expanded="false" signature="6:36" ph="..." />
+                <marker date="1517171665379" expanded="true" signature="77:2157" ph="{...}" />
+                <marker date="1517171665379" expanded="true" signature="509:610" ph="{...}" />
+                <marker date="1517171665379" expanded="true" signature="637:1966" ph="{...}" />
+                <marker date="1517171665379" expanded="true" signature="716:823" ph="{...}" />
+                <marker date="1517171665379" expanded="true" signature="1476:1814" ph="{...}" />
+                <marker date="1517171665379" expanded="true" signature="1996:2155" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeLineDrawer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeLineDrawer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="92" lean-forward="false" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
+              <folding>
+                <marker date="1517171962305" expanded="true" signature="74:1097" ph="{...}" />
+                <marker date="1517171962305" expanded="true" signature="358:697" ph="{...}" />
+                <marker date="1517171962305" expanded="true" signature="460:624" ph="{...}" />
+                <marker date="1517171962305" expanded="true" signature="728:1094" ph="{...}" />
+                <marker date="1517171962305" expanded="true" signature="800:1090" ph="{...}" />
+                <marker date="1517171962305" expanded="true" signature="936:1085" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#if 5</find>
+      <find>gettot</find>
+      <find>contains</find>
+      <find>IDisp</find>
+      <find>using</find>
+      <find>!Application.isEditor</find>
+      <find>KEYS</find>
+      <find>mathf</find>
+      <find>resolution</find>
+      <find>boriz</find>
+      <find>Q</find>
+      <find>.parent =</find>
+      <find>rotate</find>
+      <find>rotatedeg</find>
+      <find>outputAudi</find>
+      <find>master</find>
+      <find>1 - iMargin * factor</find>
+      <find>touches</find>
+      <find>Application.isMobilePlatform</find>
+      <find>cursor</find>
+      <find>BugHunt</find>
+      <find>iteminfo</find>
+      <find>placementr</find>
+      <find>fbx</find>
+      <find>mathf.repeat</find>
+      <find>mathf.re</find>
+      <find>setup</find>
+      <find>//COOL</find>
+      <find>monobehaviour</find>
+      <find>Mode_Creator</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Screen</replace>
+      <replace>spinnerID</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Animators/BouncyMaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Animators/Shake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Animators/StickAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SourceFiles/andySM/invisible.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/FXAA/Scripts/FXAAPostEffectsBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/Shape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/FXAA/Shaders/Fxaa3_9.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SourceFiles/andySM/andy_Tex.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Generation/LevelSection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Generation/PathSearch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/24/a0c9b5e1/Renderer.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Generation/LevelSectionDraw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Generation/LevelSectionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/1d/68f99e45/BoneWeight.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/df/0e189a25/Debug.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Zmall/Analytics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Zmall/Augen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1F863D9-9421-4006-AED0-BD17AB690B95/34/3743f936/SByte.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Zmall/cloudmove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/403F52B1-10E8-4F31-A197-8B3778964372/69/bab75cbc/VisualStyleElement.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/CamManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/Frustum.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/MultiCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/14/4c3458bf/LayerMask.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/Culling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/CamDebug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/10/8de46065/Mathf.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/PauseCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/0a/c89d4902/ScriptableObject.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/BlurCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SourceFiles/andySM/BlurMS/BegaBlur.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/CamSkyColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/SideSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/7b/05032810/Profiler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Pooling/ReturnPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/7f/3712c222/Matrix4x4.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Camera/GameCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Pooling/GCPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CE073096-ED89-4F7E-B8BF-05628286ED96/6e/2ad61898/TimeSpan.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Pooling/Pool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/GPhysics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/Digit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/Crunch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/PROJECTS/AppDev/2018/BEGA/_Unity/BEGA_AR_Kit/Assets/BegaAR/BEGA_ARManager.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/SetVolume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/FileHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/60/aba72327/Vector2.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/EnumFilters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Static/Layers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/78/9a14f6c6/Camera.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CE073096-ED89-4F7E-B8BF-05628286ED96/1b/aa17fe02/RuntimeHelpers.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/MeshDrawTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CE073096-ED89-4F7E-B8BF-05628286ED96/20/850b92fb/Thread.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/af/3188a78d/Component.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Backend/ReplaySaveLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/BendTest/BendLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Backend/Locator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Backend/WebData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1F863D9-9421-4006-AED0-BD17AB690B95/d0/e6f12e5c/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/BendTest/ChordBend.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/32/c567e631/GameObject.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Backend/ScreenControll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/BendTest/SegmentBend.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Backend/WebGLMessageListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/921731DE-071B-4C05-9D01-75D7D990913F/d2/3eb60f5f/BodyPart.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Rectangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/1a/82a17f60/UnityAction.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Line.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/Damp_New/SliderMapping.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/921731DE-071B-4C05-9D01-75D7D990913F/57/828c8b4b/PreviewRenderUtility.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Quad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/MultiMesh/MultiMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ShaderForge/Editor/InternalResources/GPU Rendering/SFN_Fresnel/SFN_Fresnel_NRM_EXP.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Bounds2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Circle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/GeoMath/ShapeCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A7B213EE-4E11-43F1-AD95-705E2D5696C8/20/8be054ab/Button.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/Threading/ThreadingTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/09/6dcd8314/Quaternion.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Tri.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/AR Mapping/MapToARCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/3b/cf43b3c0/Color32.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/SourceFiles/Prefabs/Editor/ObjExporter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Plugins/SimpleJSON.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/AR Mapping/ArCamMovementTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/19/dc88c87e/Mesh.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/19/966e7618/Camera.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/SquashTest/SquashTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/921731DE-071B-4C05-9D01-75D7D990913F/a1/3ef9f1e9/ModelImporterMaterialName.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/UVTileTest/Color32AsCord.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Prediction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/2e/ca86643e/CombineInstance.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/UVTileTest/tiletest.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Spinner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/c4/d2128c28/RuntimeHelpers.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Proximity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/ClubMaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29A3756D-071F-4510-B4AF-11DADA4515AA/69/da65d09c/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/SpinnerDebug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/SP_Rig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/AllSpinner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55199264-913E-41BA-B490-D6A05964806E/87/3c0f46b6/Scene.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/ThreadClub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9FACBD76-75F5-45B1-86B6-BE0E55785D7F/2d/92986c27/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Animation/SP_Animator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Animation/Curves.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/04/5c7cca43/HeaderAttribute.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Jump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/55199264-913E-41BA-B490-D6A05964806E/9e/45a8d6cb/WWW.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Spawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_AirLaunch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/68/7385b92f/Application.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Anim_Swing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_None.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Dead.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E1F863D9-9421-4006-AED0-BD17AB690B95/4b/9f059f41/Single.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/ClipTypeFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Anim_Jump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/OtherScenes/Voronoi/GridRegions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DF586012-DB02-4BB9-9630-43343577C023/b4/3e3bebb2/Header.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/5e/a1eae95b/MeshFilter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ShaderForge/Editor/InternalResources/GPU Rendering/SFN_RgbToHsv/SFN_RgbToHsv.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Anim.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Swing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Bump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/OtherScenes/InterfaceTest/cool.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Run.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/OtherScenes/PerlinNoiseTest/PerlinNoiseCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Mth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_Edit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/QuaternionWrapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Emoji.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/SceneRestart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/CircleAllign/CircleAllign.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/CircleAllign/JointsOnChain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/CircleAllign/CircleIntersection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/StandaloneQuitOnEscapeKeyDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/PrintKeycode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/V3Volume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/CollisionTest/collisiontest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Tween.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/CollectionInit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/CollisionTest/bouncy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ShaderForge/Editor/InternalResources/GPU Rendering/SFN_SceneDepth/SFN_SceneDepth.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/FancyString.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Sin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/PathResourceInst.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Editor/GroupSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/AllignedRotationTest/RectRotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/vector2Ext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ShaderForge/Editor/InternalResources/Inspectors/ShaderForgeInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/floatExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/timespanExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/AngledFittingRectangle/FittingRectangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/listExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/collectionShift.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/intExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/boolExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/colorExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/rendererExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/vector3Ext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01_ScriptableObjects/_SoundPack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/LightManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01_ScriptableObjects/Scripts/_SceneLighting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/AppControll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/WallMaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/Settings/UserSave.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Mode_SpinUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode_Creator_Selection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode_Creator_Links.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/NewRig/EditRig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode_Creator_Draw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_Mode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_New_Copy_Delete.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_Misc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ShaderForge/Editor/InternalResources/Shader Presets/PresetParticleAlphaBlended.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/SubManagers/KeyRead.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/NewRig/LineTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/SubManagers/Tape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/SubManagers/BotControll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ShaderForge/Editor/InternalResources/Shader Presets/PresetCustomLighting.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Controll/Ctrl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Controll/Tap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Costumes/SP_Costume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Costumes/CostumeColors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/NewRig/Editor/RiggingMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Serialize/AnimData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/NewRig/Editor/EditRigEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Background/FloorExtend.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Background/FloorFilling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Background/BatchThis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Background/BatchAndScale.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/PROJECTS/AppDev/2018/BEGA/_Unity/BEGA_AR_Kit/Assets/BegaMain/Backend/Misc/Bega_LocalSettings.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Background/ScaleWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Background/WallAllign.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Networking/OnlineConnection/Database.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Networking/OnlineConnection/Leaderboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Networking/OnlineConnection/TableLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/EditorFullscreenControllerMenuItems.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3C98668-1A93-4CF9-A2CC-637F3FD01AA5/e3/770ae44c/Mathf.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/DebugDrawUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/StringDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/921731DE-071B-4C05-9D01-75D7D990913F/8d/aa48365b/EditMode.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/EditorFullscreenState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/EditorInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/EditorWindowExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/EditorFullscreenSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReplayLoadTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/DigitTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/multicolor.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/EditorCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/Display Detection/EditorDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/Display Detection/SystemDisplay.WindowsDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/SwapCostume.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/Display Detection/SystemDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/Frame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Internals/Extension Methods/RectExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/SmoothBind/SmoothBind.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GarbageEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/LevelSaveFile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Editor Window Fullscreen/Scripts/Editor/Controller/EditorFullscreenController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeLineDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/Editor/QuickBuild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/Editor/Simplify.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/SmoothBind/SmoothBindBounce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/Editor/~Editing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/Debugging/ShowJumpProblem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Camera Perspective Editor/Scripts/CameraPerspectiveEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/Debugging/Editor/ClearConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/serializeExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/Camera Perspective Editor/Scripts/Editor/CameraPerspectiveEditorEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/FovAdjust/FovAdjust.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/FovAdjust/Editor/FovAdjustEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/InfoPanel/InfoPanelUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/06_Tests/MaterialTest/wobble.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/ShakeRewind.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/EnableFXAA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/FPSCounter/BadFrame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/FPSCounter/FrameCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/FPSCounter/FrameTime/FrameTimeCalc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/TouchID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/ServerTime/ServerTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/EnableDRAW.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/MakeRigAnim.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CE073096-ED89-4F7E-B8BF-05628286ED96/20/b41e2767/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/SpinStick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/OldRig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/_Development/AppControllWindow/Editor/AppControllWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Environmentor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/vectorArrayExt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW_Classes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/CLog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/MakeRigBone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/Editor/+DRAW_Execution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/RigHelp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/COLOR/COLOR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/MakeRig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/MakeRigDebug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/StaticConstructor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/MakeRigCrap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/Shadows/Shadow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/COLOR/Editor/COLORWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/BodyPartMesh.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/Shadows/CastShadow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/MakeRigPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/ScoreUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/COLOR/Example/ShowCOLORs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/Height.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/BlankSpace/BlankSpace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/Shadows/andy_Projector.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/Score.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/CoreCount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/UI_Creator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/PlayerNameUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/BlankSpace/Editor/BlankSpaceEdit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/Shadows/SpinnerShadow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/UI_SpinUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/Shadows/ContactShadow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/UI_LevelList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/BoolSwitch/BoolSwitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/BoolSwitch/_BoolSwitches.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/Shadows/ShadowCam/ShadowCam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/UI_Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/BoolSwitch/Editor/BoolSwitchWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/GameColor/ColorPalette.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/TimeSliderUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/BoolSwitch/Editor/CreateEditorSwitches.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/GameColor/Editor/ColorPickerWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/GameColor/Editor/GameColorInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/UI/Touchable/TouchMe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Audio/MusicTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/LogDisplay/LogShow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Audio/MixerTypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/ScriptInfo/InspectorHeader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/GameColor/Editor/ColorValueDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Audio/MusicSideSpeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Audio/HeightAmbience.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/ScriptInfo/Editor/InspectorHeaderDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Audio/AudioTypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Audio/Sound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/LevelSeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Side.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/LevelDebug.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/LevelInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/LevelSaveLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/LevelList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Cell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeMesher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/Editor/AttributeImport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Import/Test/Editor/BodyPartMeshEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/QuickSelector/Editor/QuickSelector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Links/Link.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/QuickSelector/Editor/_QS_ProjectList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Links/PathLink.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/QuickSelector/Editor/QS_ListManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Links/WarpLink.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/QuickSelector/Scripts/QS_SceneList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Links/ViewLink.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Links/JumpLink.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Actors/ScoreStick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Actors/Bouncy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02_Systems/Editor Player Framing/EditorFrame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Actors/Stick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/Track.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ZappaTools/EditorSceneLayers/Editor/EditorSceneLayers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/MoveState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/AllTracks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/ItemWarpFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ThirdParty/ShaderForge/Editor/InternalResources/GPU Rendering/SFN_Lerp/SFN_Lerp.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/LevelElements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/ZAnim.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ReplayLoadTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Circle.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Spinner/Proximity.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/_Development/AppControllWindow/Editor/AppControllWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Spinner/SP_Rig.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/listExt.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Pooling/AutoPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Pooling/GCPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Pooling/ReturnPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Swing.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Spinner/Prediction.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Spinner/SpinnerDebug.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Jump.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Spinner/Spinner.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/ItemWarpFilter.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Pooling/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Cell.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/Track_Types.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/StaticConstructor.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/LevelElements.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/_Development/InfoPanel/InfoPanelUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/UI/UI_Creator.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/LevelDebug.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GTime.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_New_Copy_Delete.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_Mode.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/Track.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_Edit.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/TrackTypes.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_Misc.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Camera/GameCam.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/serializeExt.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/LevelSaveFile.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/Elements/AllTracks.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/UI/UI_LevelList.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/LevelSaveLoad.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/Level/LevelList.cs" />
+        <option value="$PROJECT_DIR$/Assets/ZappaTools/QuickSelector/Editor/QuickSelector.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/GeoMath/Bounds2D.cs" />
+        <option value="$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/00_Scripts/_General/Extensions/randomExt.cs" />
+        <option value="$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW.cs" />
+        <option value="$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/MeshDrawTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW_Classes.cs" />
+        <option value="$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeLineDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeMesher.cs" />
+        <option value="$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/Shape.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1216" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SPIN UP (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="shape&#9;null&#9;null&#10;shapet&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/03_Scenes/ShapeSegment/ShapeTest.cs&#10;shapem&#9;null&#9;null&#10;mul&#9;null&#9;null&#10;draw&#9;null&#9;null&#10;debug&#9;null&#9;null&#10;bend&#9;null&#9;null&#10;level&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Level/LevelList.cs&#10;quicks&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/ZappaTools/QuickSelector/Editor/QuickSelector.cs&#10;levell&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Level/LevelList.cs&#10;creat&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_New_Copy_Delete.cs&#10;gti&#9;null&#9;null&#10;creator&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/App&amp;Game/GameModes/Creator/Mode/Creator_Edit.cs&#10;DRAW&#9;null&#9;null&#10;ui&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/UI/UI_Creator.cs&#10;tr&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Level/Elements/TrackTypes.cs&#10;static&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/StaticConstructor.cs&#10;tra&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Level/Elements/TrackTypes.cs&#10;ele&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Level/Elements/LevelElements.cs&#10;thinking&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/05_TextFiles/Thinking.txt&#10;cli&#9;null&#9;null&#10;gc&#9;null&#9;null&#10;autop&#9;null&#9;null&#10;pool&#9;null&#9;null&#10;liste&#9;null&#9;null&#10;gcp&#9;null&#9;null&#10;todo&#9;ACTION&#9;ActivateTODOToolWindow&#10;bump&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Bump.cs&#10;power&#9;ACTION&#9;TogglePowerSave&#10;app&#9;null&#9;null&#10;item&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Level/Elements/Item.cs&#10;mode&#9;null&#9;null&#10;editmode&#9;null&#9;null&#10;bounds2&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/GeoMath/Bounds2D.cs&#10;bounds&#9;null&#9;null&#10;clip&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Bump.cs&#10;clip_j&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Jump.cs&#10;thi&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/05_TextFiles/Thinking.txt&#10;leveld&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Level/LevelDebug.cs&#10;fbx&#9;null&#9;null&#10;key&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/App&amp;Game/SubManagers/KeyRead.cs&#10;sou&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Audio/Sound.cs&#10;audio&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Audio/AudioTypes.cs&#10;clip_&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Swing.cs&#10;club&#9;null&#9;null&#10;tween&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/_General/Tween.cs&#10;sound&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Audio/Sound.cs&#10;clubm&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Spinner/ClubMaster.cs&#10;clip_sw&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/00_Scripts/Spinner/Clips &amp; Anims/Clip_Swing.cs&#10;clip_w&#9;FILE&#9;file://C:/Users/janis_zappa/Documents/UNITY_PROJEKTE/2018/SPIN UP/Assets/WebPlayerTemplates/Clip_Warp.cs" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="do_not_show_unity_auto_save_notification" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TicToc/ClockPuzzlePrototype/ClockPuzzlePrototype.sln" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug">
+      <method />
+    </configuration>
+  </component>
+  <component name="RuntimeDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87194c4e-7e83-4398-86b2-70952becd76b" name="Default" comment="" />
+      <created>1489924250046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489924250046</updated>
+      <workItem from="1489924253745" duration="2621000" />
+      <workItem from="1489926907252" duration="4254000" />
+      <workItem from="1489945456661" duration="886000" />
+      <workItem from="1489953125002" duration="479000" />
+      <workItem from="1490008281264" duration="287000" />
+      <workItem from="1490016634963" duration="9284000" />
+      <workItem from="1490084807236" duration="2042000" />
+      <workItem from="1490088345405" duration="872000" />
+      <workItem from="1490101009492" duration="276000" />
+      <workItem from="1490114166531" duration="3955000" />
+      <workItem from="1490118144358" duration="3606000" />
+      <workItem from="1490167747413" duration="11634000" />
+      <workItem from="1490184800889" duration="1519000" />
+      <workItem from="1490207718361" duration="9088000" />
+      <workItem from="1490254754321" duration="16127000" />
+      <workItem from="1490281089859" duration="1282000" />
+      <workItem from="1490282582276" duration="176000" />
+      <workItem from="1490290202682" duration="9055000" />
+      <workItem from="1490304255293" duration="812000" />
+      <workItem from="1490343216639" duration="2690000" />
+      <workItem from="1490347402574" duration="135000" />
+      <workItem from="1490347557198" duration="5494000" />
+      <workItem from="1490355072789" duration="2542000" />
+      <workItem from="1490361539105" duration="404000" />
+      <workItem from="1490367142178" duration="3389000" />
+      <workItem from="1490372077843" duration="8530000" />
+      <workItem from="1490389763270" duration="1549000" />
+      <workItem from="1490434352760" duration="7638000" />
+      <workItem from="1490456373278" duration="3824000" />
+      <workItem from="1490463066320" duration="3809000" />
+      <workItem from="1490519405191" duration="9866000" />
+      <workItem from="1490530081983" duration="4182000" />
+      <workItem from="1490535062201" duration="333000" />
+      <workItem from="1490535982268" duration="42000" />
+      <workItem from="1490541004558" duration="2394000" />
+      <workItem from="1490545264483" duration="134000" />
+      <workItem from="1490545417425" duration="6507000" />
+      <workItem from="1490630173113" duration="174000" />
+      <workItem from="1490690940490" duration="87000" />
+      <workItem from="1490691238759" duration="56000" />
+      <workItem from="1490788128363" duration="14000" />
+      <workItem from="1490860273643" duration="1770000" />
+      <workItem from="1490958147094" duration="5533000" />
+      <workItem from="1490968088370" duration="1747000" />
+      <workItem from="1491036293660" duration="850000" />
+      <workItem from="1491037547281" duration="58000" />
+      <workItem from="1491037968224" duration="617000" />
+      <workItem from="1491038923839" duration="252000" />
+      <workItem from="1491039756608" duration="12917000" />
+      <workItem from="1491071511949" duration="1707000" />
+      <workItem from="1491123198605" duration="568000" />
+      <workItem from="1491124541209" duration="3003000" />
+      <workItem from="1491159329261" duration="4213000" />
+      <workItem from="1491491132714" duration="773000" />
+      <workItem from="1491493748249" duration="184000" />
+      <workItem from="1492369385119" duration="299000" />
+      <workItem from="1493113488039" duration="1293000" />
+      <workItem from="1493143286265" duration="267000" />
+      <workItem from="1493143574813" duration="3132000" />
+      <workItem from="1493190127643" duration="239000" />
+      <workItem from="1493286679982" duration="3044000" />
+      <workItem from="1493368221903" duration="859000" />
+      <workItem from="1493372583955" duration="1543000" />
+      <workItem from="1493634085143" duration="692000" />
+      <workItem from="1494231148355" duration="433000" />
+      <workItem from="1494232095015" duration="1692000" />
+      <workItem from="1494235796619" duration="1689000" />
+      <workItem from="1494270204426" duration="1200000" />
+      <workItem from="1494276788722" duration="5107000" />
+      <workItem from="1494320078895" duration="30000" />
+      <workItem from="1494320238776" duration="1719000" />
+      <workItem from="1494322538130" duration="3883000" />
+      <workItem from="1494326449128" duration="3944000" />
+      <workItem from="1494333308749" duration="165000" />
+      <workItem from="1494340205479" duration="345000" />
+      <workItem from="1494352516971" duration="9612000" />
+      <workItem from="1494405951243" duration="162000" />
+      <workItem from="1494406668952" duration="274000" />
+      <workItem from="1494414149685" duration="822000" />
+      <workItem from="1494415038876" duration="2888000" />
+      <workItem from="1494417971398" duration="657000" />
+      <workItem from="1494441916479" duration="1075000" />
+      <workItem from="1494486827270" duration="1953000" />
+      <workItem from="1494495700872" duration="869000" />
+      <workItem from="1494519263041" duration="1874000" />
+      <workItem from="1494531323588" duration="5248000" />
+      <workItem from="1494540092069" duration="139000" />
+      <workItem from="1494575737847" duration="3083000" />
+      <workItem from="1494595582242" duration="1942000" />
+      <workItem from="1494751666467" duration="5585000" />
+      <workItem from="1494770289607" duration="2273000" />
+      <workItem from="1494780656314" duration="119000" />
+      <workItem from="1494836531212" duration="10393000" />
+      <workItem from="1494848016487" duration="52000" />
+      <workItem from="1494853591980" duration="1521000" />
+      <workItem from="1494856493167" duration="897000" />
+      <workItem from="1494868557153" duration="7223000" />
+      <workItem from="1494902192695" duration="4672000" />
+      <workItem from="1495032571362" duration="1793000" />
+      <workItem from="1495049112641" duration="6000" />
+      <workItem from="1495091683279" duration="11947000" />
+      <workItem from="1495105496892" duration="16000" />
+      <workItem from="1495183319450" duration="4345000" />
+      <workItem from="1495187978040" duration="848000" />
+      <workItem from="1495189159024" duration="120000" />
+      <workItem from="1495189308909" duration="592000" />
+      <workItem from="1495200604103" duration="677000" />
+      <workItem from="1495202170712" duration="935000" />
+      <workItem from="1495369621332" duration="752000" />
+      <workItem from="1495393661178" duration="3038000" />
+      <workItem from="1495440597807" duration="3398000" />
+      <workItem from="1495444312740" duration="4775000" />
+      <workItem from="1495480706034" duration="5849000" />
+      <workItem from="1496073524742" duration="651000" />
+      <workItem from="1496298902053" duration="11361000" />
+      <workItem from="1496316634466" duration="153000" />
+      <workItem from="1496342865744" duration="1201000" />
+      <workItem from="1496384200397" duration="3132000" />
+      <workItem from="1496387645929" duration="4777000" />
+      <workItem from="1496397217702" duration="1130000" />
+      <workItem from="1496398404295" duration="667000" />
+      <workItem from="1496399584261" duration="264000" />
+      <workItem from="1496399862104" duration="215000" />
+      <workItem from="1496662903868" duration="6751000" />
+      <workItem from="1496673878859" duration="2128000" />
+      <workItem from="1496687102391" duration="2567000" />
+      <workItem from="1496690094501" duration="1121000" />
+      <workItem from="1496695529301" duration="3146000" />
+      <workItem from="1496717638325" duration="915000" />
+      <workItem from="1496743084245" duration="6447000" />
+      <workItem from="1496752648634" duration="2476000" />
+      <workItem from="1496781463365" duration="4635000" />
+      <workItem from="1496789708245" duration="1852000" />
+      <workItem from="1496834265649" duration="3443000" />
+      <workItem from="1496841484691" duration="5632000" />
+      <workItem from="1496847154518" duration="5403000" />
+      <workItem from="1496855041805" duration="451000" />
+      <workItem from="1496855875761" duration="428000" />
+      <workItem from="1496856394452" duration="19000" />
+      <workItem from="1496856654196" duration="7667000" />
+      <workItem from="1496867574373" duration="438000" />
+      <workItem from="1496927068314" duration="112000" />
+      <workItem from="1496927277565" duration="692000" />
+      <workItem from="1496998665508" duration="8975000" />
+      <workItem from="1497014018234" duration="3377000" />
+      <workItem from="1497034298216" duration="4299000" />
+      <workItem from="1497173222213" duration="2530000" />
+      <workItem from="1497176102278" duration="9293000" />
+      <workItem from="1497186267892" duration="5185000" />
+      <workItem from="1497196192945" duration="4352000" />
+      <workItem from="1497253673063" duration="6828000" />
+      <workItem from="1497261220489" duration="1920000" />
+      <workItem from="1497516107489" duration="337000" />
+      <workItem from="1497603309104" duration="2106000" />
+      <workItem from="1497789562666" duration="396000" />
+      <workItem from="1498463258378" duration="3082000" />
+      <workItem from="1498469717758" duration="55000" />
+      <workItem from="1498469789285" duration="2215000" />
+      <workItem from="1498473970810" duration="1055000" />
+      <workItem from="1498547925973" duration="6904000" />
+      <workItem from="1498555277061" duration="3017000" />
+      <workItem from="1498558961764" duration="37000" />
+      <workItem from="1498559015097" duration="5694000" />
+      <workItem from="1498565457192" duration="25000" />
+      <workItem from="1498565557690" duration="2494000" />
+      <workItem from="1498576088030" duration="1206000" />
+      <workItem from="1498583184575" duration="5359000" />
+      <workItem from="1498588607549" duration="1570000" />
+      <workItem from="1498633855040" duration="4644000" />
+      <workItem from="1498639224387" duration="594000" />
+      <workItem from="1498675132759" duration="1803000" />
+      <workItem from="1498722066160" duration="436000" />
+      <workItem from="1498725074155" duration="2500000" />
+      <workItem from="1498728357195" duration="553000" />
+      <workItem from="1498728953485" duration="1212000" />
+      <workItem from="1498730266211" duration="8153000" />
+      <workItem from="1498741199139" duration="4304000" />
+      <workItem from="1498745608514" duration="1151000" />
+      <workItem from="1498746851333" duration="74000" />
+      <workItem from="1498762863113" duration="1944000" />
+      <workItem from="1498765465261" duration="4125000" />
+      <workItem from="1498774337477" duration="753000" />
+      <workItem from="1499001323110" duration="207000" />
+      <workItem from="1499008801774" duration="1854000" />
+      <workItem from="1499029176310" duration="2030000" />
+      <workItem from="1499324445192" duration="1348000" />
+      <workItem from="1499507132201" duration="2257000" />
+      <workItem from="1499509710509" duration="138000" />
+      <workItem from="1499509940502" duration="2573000" />
+      <workItem from="1499521075484" duration="3636000" />
+      <workItem from="1499538008010" duration="70000" />
+      <workItem from="1499538097092" duration="577000" />
+      <workItem from="1499538693453" duration="539000" />
+      <workItem from="1499539252463" duration="476000" />
+      <workItem from="1499539753709" duration="283000" />
+      <workItem from="1499540061755" duration="55000" />
+      <workItem from="1499540135761" duration="72000" />
+      <workItem from="1499540243773" duration="569000" />
+      <workItem from="1499540863623" duration="281000" />
+      <workItem from="1499541552450" duration="134000" />
+      <workItem from="1499542655064" duration="544000" />
+      <workItem from="1499543277480" duration="843000" />
+      <workItem from="1499595373730" duration="5045000" />
+      <workItem from="1499607371584" duration="2057000" />
+      <workItem from="1499837508186" duration="5125000" />
+      <workItem from="1499858421419" duration="641000" />
+      <workItem from="1499859678033" duration="1302000" />
+      <workItem from="1499861052508" duration="236000" />
+      <workItem from="1499877493370" duration="5771000" />
+      <workItem from="1499883363191" duration="634000" />
+      <workItem from="1499886073394" duration="1312000" />
+      <workItem from="1499887476040" duration="1037000" />
+      <workItem from="1499888531060" duration="131000" />
+      <workItem from="1499888680371" duration="3096000" />
+      <workItem from="1500289053694" duration="1249000" />
+      <workItem from="1500301565976" duration="1218000" />
+      <workItem from="1500320868208" duration="147000" />
+      <workItem from="1500321689673" duration="1641000" />
+      <workItem from="1500324827038" duration="1472000" />
+      <workItem from="1500362130722" duration="396000" />
+      <workItem from="1500363004731" duration="46000" />
+      <workItem from="1500363260863" duration="1473000" />
+      <workItem from="1500364759488" duration="5724000" />
+      <workItem from="1500370694227" duration="719000" />
+      <workItem from="1500372499837" duration="3282000" />
+      <workItem from="1500406633884" duration="643000" />
+      <workItem from="1500445930595" duration="3854000" />
+      <workItem from="1500449824512" duration="1725000" />
+      <workItem from="1500452694222" duration="9825000" />
+      <workItem from="1500463962437" duration="3667000" />
+      <workItem from="1500494332474" duration="4673000" />
+      <workItem from="1500539903052" duration="4788000" />
+      <workItem from="1500619138525" duration="3023000" />
+      <workItem from="1500622347113" duration="812000" />
+      <workItem from="1500625166851" duration="4602000" />
+      <workItem from="1500634087338" duration="352000" />
+      <workItem from="1500636059705" duration="2449000" />
+      <workItem from="1500650675805" duration="1552000" />
+      <workItem from="1500719427376" duration="3270000" />
+      <workItem from="1500803417455" duration="4528000" />
+      <workItem from="1500808138602" duration="4088000" />
+      <workItem from="1500821217802" duration="3544000" />
+      <workItem from="1500824785068" duration="1330000" />
+      <workItem from="1500833784741" duration="2949000" />
+      <workItem from="1500843265575" duration="322000" />
+      <workItem from="1500878974617" duration="7549000" />
+      <workItem from="1500887631810" duration="5946000" />
+      <workItem from="1500895385908" duration="7716000" />
+      <workItem from="1500908149732" duration="653000" />
+      <workItem from="1500915247541" duration="12035000" />
+      <workItem from="1500964078245" duration="49000" />
+      <workItem from="1500964141503" duration="1527000" />
+      <workItem from="1500965924057" duration="342000" />
+      <workItem from="1500966373100" duration="626000" />
+      <workItem from="1500992765813" duration="1546000" />
+      <workItem from="1501045440244" duration="2267000" />
+      <workItem from="1501051118596" duration="5843000" />
+      <workItem from="1501058897262" duration="6153000" />
+      <workItem from="1501067753336" duration="32000" />
+      <workItem from="1501072155892" duration="3534000" />
+      <workItem from="1501080905041" duration="17577000" />
+      <workItem from="1501099343949" duration="6369000" />
+      <workItem from="1501106213957" duration="930000" />
+      <workItem from="1501141632984" duration="2685000" />
+      <workItem from="1501146615177" duration="49000" />
+      <workItem from="1501171231674" duration="2769000" />
+      <workItem from="1501176263930" duration="981000" />
+      <workItem from="1501187205607" duration="1105000" />
+      <workItem from="1501225536442" duration="12158000" />
+      <workItem from="1501241434372" duration="26000" />
+      <workItem from="1501241475402" duration="483000" />
+      <workItem from="1501608920695" duration="5980000" />
+      <workItem from="1501660819579" duration="444000" />
+      <workItem from="1501671995510" duration="2946000" />
+      <workItem from="1501676771412" duration="5900000" />
+      <workItem from="1501683937972" duration="2039000" />
+      <workItem from="1501737847295" duration="6666000" />
+      <workItem from="1501744595164" duration="2826000" />
+      <workItem from="1501747508610" duration="305000" />
+      <workItem from="1501749811332" duration="13009000" />
+      <workItem from="1501765581438" duration="72000" />
+      <workItem from="1501830101171" duration="11987000" />
+      <workItem from="1501842613932" duration="2420000" />
+      <workItem from="1501857507209" duration="3947000" />
+      <workItem from="1501869837748" duration="850000" />
+      <workItem from="1501871107520" duration="1502000" />
+      <workItem from="1501879074465" duration="5641000" />
+      <workItem from="1501914567776" duration="1120000" />
+      <workItem from="1501939394903" duration="16220000" />
+      <workItem from="1501965454709" duration="4541000" />
+      <workItem from="1502003552005" duration="444000" />
+      <workItem from="1502008172158" duration="660000" />
+      <workItem from="1502010929371" duration="1847000" />
+      <workItem from="1502014453172" duration="3303000" />
+      <workItem from="1502025280515" duration="883000" />
+      <workItem from="1502026463572" duration="5685000" />
+      <workItem from="1502039198392" duration="3285000" />
+      <workItem from="1502050308431" duration="1713000" />
+      <workItem from="1502111963418" duration="634000" />
+      <workItem from="1502116555531" duration="2601000" />
+      <workItem from="1502255287528" duration="2165000" />
+      <workItem from="1502257663750" duration="3745000" />
+      <workItem from="1502317236539" duration="313000" />
+      <workItem from="1502393826283" duration="10892000" />
+      <workItem from="1502408630085" duration="4626000" />
+      <workItem from="1502438339745" duration="10589000" />
+      <workItem from="1502455240276" duration="3753000" />
+      <workItem from="1502477323901" duration="1815000" />
+      <workItem from="1502479792658" duration="4958000" />
+      <workItem from="1502514492693" duration="2107000" />
+      <workItem from="1502541905866" duration="3167000" />
+      <workItem from="1502560900745" duration="808000" />
+      <workItem from="1502635261481" duration="2496000" />
+      <workItem from="1502652801931" duration="2901000" />
+      <workItem from="1502656168313" duration="79000" />
+      <workItem from="1502698230124" duration="53000" />
+      <workItem from="1502698436410" duration="15974000" />
+      <workItem from="1502722655209" duration="2544000" />
+      <workItem from="1502726583000" duration="828000" />
+      <workItem from="1502739254580" duration="1218000" />
+      <workItem from="1502744163682" duration="1137000" />
+      <workItem from="1502811221624" duration="335000" />
+      <workItem from="1502817096821" duration="3519000" />
+      <workItem from="1502865149733" duration="2887000" />
+      <workItem from="1503139635350" duration="689000" />
+      <workItem from="1503145863793" duration="89000" />
+      <workItem from="1503145968483" duration="86000" />
+      <workItem from="1503146072152" duration="224000" />
+      <workItem from="1503146447797" duration="1620000" />
+      <workItem from="1503247677115" duration="688000" />
+      <workItem from="1503251088212" duration="4272000" />
+      <workItem from="1503301700675" duration="172000" />
+      <workItem from="1503343375726" duration="8461000" />
+      <workItem from="1503388875446" duration="1523000" />
+      <workItem from="1503602051442" duration="1188000" />
+      <workItem from="1503648226251" duration="74000" />
+      <workItem from="1503648920598" duration="917000" />
+      <workItem from="1503672537374" duration="452000" />
+      <workItem from="1503688040465" duration="4258000" />
+      <workItem from="1503695827293" duration="902000" />
+      <workItem from="1503729842098" duration="831000" />
+      <workItem from="1504078765146" duration="127000" />
+      <workItem from="1504078906223" duration="127000" />
+      <workItem from="1504079066686" duration="340000" />
+      <workItem from="1504079542497" duration="73000" />
+      <workItem from="1504079629024" duration="281000" />
+      <workItem from="1504079925983" duration="19000" />
+      <workItem from="1504082461450" duration="346000" />
+      <workItem from="1504161208750" duration="2860000" />
+      <workItem from="1504187735725" duration="309000" />
+      <workItem from="1504196608691" duration="2248000" />
+      <workItem from="1504198884837" duration="3054000" />
+      <workItem from="1504208170625" duration="1422000" />
+      <workItem from="1504209750973" duration="1464000" />
+      <workItem from="1504211278089" duration="418000" />
+      <workItem from="1504290285147" duration="4028000" />
+      <workItem from="1504295210747" duration="1234000" />
+      <workItem from="1504296695544" duration="269000" />
+      <workItem from="1504297112575" duration="5593000" />
+      <workItem from="1504303786115" duration="158000" />
+      <workItem from="1504342025983" duration="1410000" />
+      <workItem from="1504418779976" duration="2928000" />
+      <workItem from="1504432350171" duration="1840000" />
+      <workItem from="1504434215034" duration="2781000" />
+      <workItem from="1504453487346" duration="4901000" />
+      <workItem from="1504460762907" duration="113000" />
+      <workItem from="1504460890011" duration="1290000" />
+      <workItem from="1504480898589" duration="4444000" />
+      <workItem from="1504485534143" duration="484000" />
+      <workItem from="1504547325880" duration="3948000" />
+      <workItem from="1504551342139" duration="3325000" />
+      <workItem from="1504554824161" duration="539000" />
+      <workItem from="1504591343298" duration="613000" />
+      <workItem from="1504767578494" duration="1687000" />
+      <workItem from="1504800002573" duration="4908000" />
+      <workItem from="1504810413577" duration="3759000" />
+      <workItem from="1504815811020" duration="1579000" />
+      <workItem from="1504818178934" duration="2551000" />
+      <workItem from="1504820801891" duration="125000" />
+      <workItem from="1504858389006" duration="8710000" />
+      <workItem from="1504870509344" duration="4514000" />
+      <workItem from="1504880617089" duration="3703000" />
+      <workItem from="1504894032808" duration="1807000" />
+      <workItem from="1505007475072" duration="1571000" />
+      <workItem from="1505038364276" duration="1198000" />
+      <workItem from="1505048596673" duration="2455000" />
+      <workItem from="1505052546914" duration="229000" />
+      <workItem from="1505052832471" duration="315000" />
+      <workItem from="1505054706203" duration="7630000" />
+      <workItem from="1505063514506" duration="1273000" />
+      <workItem from="1505064894441" duration="970000" />
+      <workItem from="1505071776112" duration="147000" />
+      <workItem from="1505071960613" duration="496000" />
+      <workItem from="1505093955732" duration="3351000" />
+      <workItem from="1505127351227" duration="1871000" />
+      <workItem from="1505130849923" duration="3132000" />
+      <workItem from="1505134490014" duration="880000" />
+      <workItem from="1505135411598" duration="377000" />
+      <workItem from="1505143839656" duration="1466000" />
+      <workItem from="1505150817984" duration="1491000" />
+      <workItem from="1505158761220" duration="2789000" />
+      <workItem from="1505165445268" duration="142000" />
+      <workItem from="1505166215893" duration="92000" />
+      <workItem from="1505200040402" duration="1247000" />
+      <workItem from="1505240420214" duration="1879000" />
+      <workItem from="1505245025594" duration="212000" />
+      <workItem from="1505252171393" duration="92000" />
+      <workItem from="1505256715896" duration="388000" />
+      <workItem from="1505285198003" duration="7008000" />
+      <workItem from="1505294190004" duration="680000" />
+      <workItem from="1505308962630" duration="2278000" />
+      <workItem from="1505325656840" duration="1888000" />
+      <workItem from="1505371932333" duration="112000" />
+      <workItem from="1505376370301" duration="2287000" />
+      <workItem from="1505380837448" duration="1340000" />
+      <workItem from="1505383216321" duration="1185000" />
+      <workItem from="1505390972311" duration="1553000" />
+      <workItem from="1505460945277" duration="3611000" />
+      <workItem from="1505486720548" duration="4312000" />
+      <workItem from="1505492223934" duration="260000" />
+      <workItem from="1505550018947" duration="1893000" />
+      <workItem from="1505606521260" duration="668000" />
+      <workItem from="1505607423261" duration="152000" />
+      <workItem from="1505632475736" duration="44000" />
+      <workItem from="1505632537249" duration="98000" />
+      <workItem from="1505632665898" duration="13000" />
+      <workItem from="1505632693022" duration="511000" />
+      <workItem from="1505633269321" duration="103000" />
+      <workItem from="1505633386615" duration="59000" />
+      <workItem from="1505633460274" duration="12000" />
+      <workItem from="1505633495998" duration="160000" />
+      <workItem from="1505633677322" duration="5630000" />
+      <workItem from="1505639543194" duration="13000" />
+      <workItem from="1505641279795" duration="77000" />
+      <workItem from="1505641390327" duration="1512000" />
+      <workItem from="1505642932663" duration="752000" />
+      <workItem from="1505643711271" duration="80000" />
+      <workItem from="1505643826578" duration="21000" />
+      <workItem from="1505644845612" duration="228000" />
+      <workItem from="1505646278492" duration="1274000" />
+      <workItem from="1505647589965" duration="47000" />
+      <workItem from="1505655602321" duration="112000" />
+      <workItem from="1505655778205" duration="146000" />
+      <workItem from="1505674899248" duration="11000" />
+      <workItem from="1505805215454" duration="654000" />
+      <workItem from="1505817174962" duration="597000" />
+      <workItem from="1505818819120" duration="203000" />
+      <workItem from="1505820657065" duration="2480000" />
+      <workItem from="1505828881957" duration="634000" />
+      <workItem from="1505832908716" duration="4668000" />
+      <workItem from="1505845257709" duration="9100000" />
+      <workItem from="1505858107653" duration="118000" />
+      <workItem from="1505890039805" duration="2408000" />
+      <workItem from="1505892476001" duration="605000" />
+      <workItem from="1505893470728" duration="1695000" />
+      <workItem from="1505895802561" duration="258000" />
+      <workItem from="1505896077237" duration="599000" />
+      <workItem from="1505898675876" duration="598000" />
+      <workItem from="1505899764707" duration="70000" />
+      <workItem from="1505905992086" duration="637000" />
+      <workItem from="1506007135717" duration="1083000" />
+      <workItem from="1506008258003" duration="164000" />
+      <workItem from="1506008476119" duration="7000" />
+      <workItem from="1506008540419" duration="123000" />
+      <workItem from="1506009967771" duration="76000" />
+      <workItem from="1506072956825" duration="3678000" />
+      <workItem from="1506089297112" duration="2891000" />
+      <workItem from="1506101306560" duration="140000" />
+      <workItem from="1506111681926" duration="1692000" />
+      <workItem from="1506131157956" duration="189000" />
+      <workItem from="1506131360384" duration="14000" />
+      <workItem from="1506131393895" duration="9000" />
+      <workItem from="1506131420767" duration="282000" />
+      <workItem from="1506131786913" duration="1291000" />
+      <workItem from="1506151717513" duration="197000" />
+      <workItem from="1506152287476" duration="1836000" />
+      <workItem from="1506164710872" duration="454000" />
+      <workItem from="1506183225301" duration="2622000" />
+      <workItem from="1506189798264" duration="2260000" />
+      <workItem from="1506197529857" duration="2981000" />
+      <workItem from="1506244142411" duration="4532000" />
+      <workItem from="1506251237398" duration="2375000" />
+      <workItem from="1506254982654" duration="3517000" />
+      <workItem from="1506264098483" duration="1035000" />
+      <workItem from="1506265191239" duration="2517000" />
+      <workItem from="1506271164338" duration="4746000" />
+      <workItem from="1506278325219" duration="415000" />
+      <workItem from="1506279625493" duration="1813000" />
+      <workItem from="1506325759627" duration="1648000" />
+      <workItem from="1506328594353" duration="1036000" />
+      <workItem from="1506329889715" duration="687000" />
+      <workItem from="1506352022680" duration="3306000" />
+      <workItem from="1506357205317" duration="1454000" />
+      <workItem from="1506368982455" duration="586000" />
+      <workItem from="1506369784973" duration="342000" />
+      <workItem from="1506498389101" duration="191000" />
+      <workItem from="1506498861984" duration="614000" />
+      <workItem from="1506609136618" duration="808000" />
+      <workItem from="1506631945023" duration="658000" />
+      <workItem from="1507626870982" duration="4475000" />
+      <workItem from="1508635388186" duration="339000" />
+      <workItem from="1508962972867" duration="2835000" />
+      <workItem from="1508966327878" duration="345000" />
+      <workItem from="1509001118310" duration="2794000" />
+      <workItem from="1509006218917" duration="9774000" />
+      <workItem from="1509019570440" duration="3346000" />
+      <workItem from="1509023806765" duration="1926000" />
+      <workItem from="1509035033928" duration="6655000" />
+      <workItem from="1509112736433" duration="6485000" />
+      <workItem from="1509119469475" duration="771000" />
+      <workItem from="1509127385262" duration="820000" />
+      <workItem from="1509135408036" duration="543000" />
+      <workItem from="1509181822466" duration="2203000" />
+      <workItem from="1509204924832" duration="9276000" />
+      <workItem from="1509227068020" duration="803000" />
+      <workItem from="1509263169614" duration="2156000" />
+      <workItem from="1509293474063" duration="84000" />
+      <workItem from="1509293577917" duration="1059000" />
+      <workItem from="1509303575121" duration="1803000" />
+      <workItem from="1509306042406" duration="8651000" />
+      <workItem from="1509357101039" duration="4214000" />
+      <workItem from="1509379946824" duration="5928000" />
+      <workItem from="1509389881821" duration="299000" />
+      <workItem from="1509390248257" duration="859000" />
+      <workItem from="1509442636208" duration="321000" />
+      <workItem from="1509443016361" duration="3632000" />
+      <workItem from="1509452249273" duration="2101000" />
+      <workItem from="1509465173735" duration="2178000" />
+      <workItem from="1509536243090" duration="926000" />
+      <workItem from="1509556064233" duration="22000" />
+      <workItem from="1509557046594" duration="726000" />
+      <workItem from="1509595088024" duration="7893000" />
+      <workItem from="1509634098254" duration="1384000" />
+      <workItem from="1509701898809" duration="7959000" />
+      <workItem from="1509720276549" duration="2111000" />
+      <workItem from="1509729891962" duration="15974000" />
+      <workItem from="1509786479077" duration="4333000" />
+      <workItem from="1509796050339" duration="1108000" />
+      <workItem from="1509808545465" duration="1321000" />
+      <workItem from="1509817774321" duration="9248000" />
+      <workItem from="1509870686645" duration="6617000" />
+      <workItem from="1509898199529" duration="4789000" />
+      <workItem from="1509957730973" duration="11653000" />
+      <workItem from="1509996670748" duration="243000" />
+      <workItem from="1509997175114" duration="8713000" />
+      <workItem from="1510052033487" duration="2901000" />
+      <workItem from="1510055131476" duration="1167000" />
+      <workItem from="1510076062002" duration="11993000" />
+      <workItem from="1510128918014" duration="5930000" />
+      <workItem from="1510149920117" duration="10054000" />
+      <workItem from="1510203978946" duration="4239000" />
+      <workItem from="1510229866857" duration="3204000" />
+      <workItem from="1510248495087" duration="656000" />
+      <workItem from="1510692919249" duration="106000" />
+      <workItem from="1510726573973" duration="6424000" />
+      <workItem from="1510760693851" duration="424000" />
+      <workItem from="1510767923143" duration="2706000" />
+      <workItem from="1510770727609" duration="5382000" />
+      <workItem from="1510821080198" duration="7378000" />
+      <workItem from="1510865740720" duration="5262000" />
+      <workItem from="1510904916340" duration="8129000" />
+      <workItem from="1510934780974" duration="9222000" />
+      <workItem from="1511002271145" duration="2214000" />
+      <workItem from="1511029512970" duration="5838000" />
+      <workItem from="1511085360790" duration="2972000" />
+      <workItem from="1511102994058" duration="2854000" />
+      <workItem from="1511185045465" duration="3008000" />
+      <workItem from="1511212718839" duration="1463000" />
+      <workItem from="1511293100887" duration="10238000" />
+      <workItem from="1511345201258" duration="1582000" />
+      <workItem from="1511363679754" duration="25670000" />
+      <workItem from="1511424848700" duration="3101000" />
+      <workItem from="1511444335090" duration="1586000" />
+      <workItem from="1511455293865" duration="1681000" />
+      <workItem from="1511464239797" duration="18351000" />
+      <workItem from="1511512892210" duration="6251000" />
+      <workItem from="1511534963975" duration="2003000" />
+      <workItem from="1511539576305" duration="5122000" />
+      <workItem from="1511553030641" duration="6603000" />
+      <workItem from="1511559798384" duration="707000" />
+      <workItem from="1511561573006" duration="4107000" />
+      <workItem from="1511566415783" duration="34000" />
+      <workItem from="1511566573989" duration="288000" />
+      <workItem from="1511684670070" duration="599000" />
+      <workItem from="1511699209158" duration="1503000" />
+      <workItem from="1511701172572" duration="322000" />
+      <workItem from="1511701594073" duration="461000" />
+      <workItem from="1511706151442" duration="2667000" />
+      <workItem from="1511709058299" duration="2183000" />
+      <workItem from="1511715017171" duration="10721000" />
+      <workItem from="1511731982931" duration="60000" />
+      <workItem from="1511733078182" duration="3398000" />
+      <workItem from="1511736570427" duration="26000" />
+      <workItem from="1511772835021" duration="497000" />
+      <workItem from="1511773390755" duration="302000" />
+      <workItem from="1511801302475" duration="25248000" />
+      <workItem from="1511864282068" duration="113000" />
+      <workItem from="1511864412585" duration="4302000" />
+      <workItem from="1511871641041" duration="3489000" />
+      <workItem from="1511879100727" duration="1411000" />
+      <workItem from="1511947100130" duration="2639000" />
+      <workItem from="1511954689809" duration="2859000" />
+      <workItem from="1511959343310" duration="3748000" />
+      <workItem from="1511973318015" duration="9025000" />
+      <workItem from="1512032893384" duration="599000" />
+      <workItem from="1512046502603" duration="126000" />
+      <workItem from="1512046757219" duration="293000" />
+      <workItem from="1512054114896" duration="688000" />
+      <workItem from="1512057446670" duration="1358000" />
+      <workItem from="1512065247333" duration="3572000" />
+      <workItem from="1512102425328" duration="22547000" />
+      <workItem from="1512144022529" duration="51000" />
+      <workItem from="1512144093145" duration="120000" />
+      <workItem from="1512144241029" duration="42000" />
+      <workItem from="1512144309537" duration="368000" />
+      <workItem from="1512144700975" duration="124000" />
+      <workItem from="1512144849233" duration="751000" />
+      <workItem from="1512145623937" duration="325000" />
+      <workItem from="1512214410247" duration="10491000" />
+      <workItem from="1512235374882" duration="3273000" />
+      <workItem from="1512304150885" duration="413000" />
+      <workItem from="1512317557093" duration="13185000" />
+      <workItem from="1512339560389" duration="117000" />
+      <workItem from="1512369747839" duration="10434000" />
+      <workItem from="1512402931488" duration="37000" />
+      <workItem from="1512405761121" duration="1241000" />
+      <workItem from="1512409703699" duration="3255000" />
+      <workItem from="1512416239228" duration="5385000" />
+      <workItem from="1512566179713" duration="551000" />
+      <workItem from="1513005513252" duration="13405000" />
+      <workItem from="1513076088123" duration="10899000" />
+      <workItem from="1513106289952" duration="3558000" />
+      <workItem from="1513110033019" duration="7141000" />
+      <workItem from="1513122357323" duration="1293000" />
+      <workItem from="1513123807817" duration="1274000" />
+      <workItem from="1513159222721" duration="2596000" />
+      <workItem from="1513171678175" duration="3814000" />
+      <workItem from="1513180232952" duration="6862000" />
+      <workItem from="1513193453625" duration="12789000" />
+      <workItem from="1513277999584" duration="11472000" />
+      <workItem from="1513329715948" duration="2808000" />
+      <workItem from="1513345682350" duration="2439000" />
+      <workItem from="1513362001784" duration="2059000" />
+      <workItem from="1513452741978" duration="869000" />
+      <workItem from="1513458698457" duration="4073000" />
+      <workItem from="1513463687957" duration="236000" />
+      <workItem from="1513516749462" duration="345000" />
+      <workItem from="1513525844270" duration="443000" />
+      <workItem from="1513584919459" duration="1055000" />
+      <workItem from="1513616847975" duration="17313000" />
+      <workItem from="1513692979743" duration="90000" />
+      <workItem from="1513776657303" duration="662000" />
+      <workItem from="1514315475342" duration="1442000" />
+      <workItem from="1514325322391" duration="414000" />
+      <workItem from="1514371108427" duration="4238000" />
+      <workItem from="1514388252713" duration="3044000" />
+      <workItem from="1514402943506" duration="200000" />
+      <workItem from="1514546765788" duration="2441000" />
+      <workItem from="1514580452855" duration="5151000" />
+      <workItem from="1514588411142" duration="1478000" />
+      <workItem from="1514917430463" duration="1846000" />
+      <workItem from="1514919417861" duration="2804000" />
+      <workItem from="1514922259500" duration="1511000" />
+      <workItem from="1514978067763" duration="117000" />
+      <workItem from="1514978200291" duration="4947000" />
+      <workItem from="1514983961578" duration="1282000" />
+      <workItem from="1514986160109" duration="233000" />
+      <workItem from="1514995943708" duration="1543000" />
+      <workItem from="1515002722061" duration="454000" />
+      <workItem from="1515004681573" duration="331000" />
+      <workItem from="1515005146620" duration="743000" />
+      <workItem from="1515006160234" duration="581000" />
+      <workItem from="1515007019432" duration="19000" />
+      <workItem from="1515011849468" duration="2170000" />
+      <workItem from="1515015463761" duration="621000" />
+      <workItem from="1515168163721" duration="53000" />
+      <workItem from="1515168669108" duration="599000" />
+      <workItem from="1515171098763" duration="2000" />
+      <workItem from="1515171146603" duration="25000" />
+      <workItem from="1515174124685" duration="2377000" />
+      <workItem from="1515178314701" duration="11222000" />
+      <workItem from="1515230130823" duration="1258000" />
+      <workItem from="1515267854153" duration="1421000" />
+      <workItem from="1515269629736" duration="418000" />
+      <workItem from="1515270208678" duration="241000" />
+      <workItem from="1515270519648" duration="5359000" />
+      <workItem from="1515318703898" duration="907000" />
+      <workItem from="1515322527780" duration="767000" />
+      <workItem from="1515323493329" duration="713000" />
+      <workItem from="1515340475752" duration="11569000" />
+      <workItem from="1515533470778" duration="1346000" />
+      <workItem from="1515556153477" duration="1267000" />
+      <workItem from="1515605156093" duration="2882000" />
+      <workItem from="1515620267582" duration="3918000" />
+      <workItem from="1515660822008" duration="7039000" />
+      <workItem from="1515673503702" duration="95000" />
+      <workItem from="1515673727788" duration="1332000" />
+      <workItem from="1515705760817" duration="327000" />
+      <workItem from="1515735422671" duration="3735000" />
+      <workItem from="1515744739742" duration="1878000" />
+      <workItem from="1515747888652" duration="1917000" />
+      <workItem from="1515752791392" duration="2349000" />
+      <workItem from="1515783536275" duration="4462000" />
+      <workItem from="1515797011213" duration="3857000" />
+      <workItem from="1515832427355" duration="5364000" />
+      <workItem from="1515838083915" duration="644000" />
+      <workItem from="1515884649030" duration="644000" />
+      <workItem from="1515930396955" duration="3141000" />
+      <workItem from="1515939928014" duration="274000" />
+      <workItem from="1515940222066" duration="10503000" />
+      <workItem from="1515955149218" duration="6015000" />
+      <workItem from="1515963385199" duration="479000" />
+      <workItem from="1515993982266" duration="3590000" />
+      <workItem from="1516002842194" duration="1514000" />
+      <workItem from="1516008459645" duration="1985000" />
+      <workItem from="1516029613132" duration="922000" />
+      <workItem from="1516041263258" duration="1707000" />
+      <workItem from="1516050729392" duration="2738000" />
+      <workItem from="1516087184709" duration="5456000" />
+      <workItem from="1516104828851" duration="16000" />
+      <workItem from="1516104867618" duration="1229000" />
+      <workItem from="1516106328107" duration="3373000" />
+      <workItem from="1516122911666" duration="1267000" />
+      <workItem from="1516125204087" duration="11140000" />
+      <workItem from="1516176125338" duration="1564000" />
+      <workItem from="1516179373566" duration="4341000" />
+      <workItem from="1516183775297" duration="40000" />
+      <workItem from="1516183839505" duration="10000" />
+      <workItem from="1516183889947" duration="417000" />
+      <workItem from="1516194017912" duration="3191000" />
+      <workItem from="1516200923376" duration="9601000" />
+      <workItem from="1516211661222" duration="503000" />
+      <workItem from="1516214424863" duration="13820000" />
+      <workItem from="1516230623980" duration="756000" />
+      <workItem from="1516231477679" duration="1255000" />
+      <workItem from="1516269919630" duration="2455000" />
+      <workItem from="1516276448658" duration="1268000" />
+      <workItem from="1516279587687" duration="946000" />
+      <workItem from="1516288596840" duration="2699000" />
+      <workItem from="1516294278841" duration="738000" />
+      <workItem from="1516371932183" duration="270000" />
+      <workItem from="1516402404465" duration="1697000" />
+      <workItem from="1516404507715" duration="316000" />
+      <workItem from="1516433485487" duration="384000" />
+      <workItem from="1516433887299" duration="1299000" />
+      <workItem from="1516459397448" duration="5141000" />
+      <workItem from="1516537446162" duration="1347000" />
+      <workItem from="1516547388400" duration="2772000" />
+      <workItem from="1516560354257" duration="1545000" />
+      <workItem from="1516564254710" duration="1405000" />
+      <workItem from="1516565700161" duration="502000" />
+      <workItem from="1516571848494" duration="2722000" />
+      <workItem from="1516576514376" duration="574000" />
+      <workItem from="1516595414764" duration="1714000" />
+      <workItem from="1516597182794" duration="1557000" />
+      <workItem from="1516598910612" duration="372000" />
+      <workItem from="1516604312007" duration="895000" />
+      <workItem from="1516818058845" duration="59000" />
+      <workItem from="1516818764824" duration="138000" />
+      <workItem from="1516819772684" duration="158000" />
+      <workItem from="1516819955919" duration="26000" />
+      <workItem from="1516820003827" duration="40000" />
+      <workItem from="1516820356869" duration="274000" />
+      <workItem from="1516859339627" duration="6743000" />
+      <workItem from="1516876908776" duration="621000" />
+      <workItem from="1516884370130" duration="1409000" />
+      <workItem from="1516908153072" duration="9643000" />
+      <workItem from="1516952246868" duration="6997000" />
+      <workItem from="1516977871807" duration="7793000" />
+      <workItem from="1516993938194" duration="14623000" />
+      <workItem from="1517011671859" duration="165000" />
+      <workItem from="1517011911111" duration="1330000" />
+      <workItem from="1517013788231" duration="842000" />
+      <workItem from="1517046514577" duration="5386000" />
+      <workItem from="1517053235468" duration="1619000" />
+      <workItem from="1517068520280" duration="3523000" />
+      <workItem from="1517077957296" duration="6057000" />
+      <workItem from="1517084197888" duration="6145000" />
+      <workItem from="1517091075359" duration="599000" />
+      <workItem from="1517091804978" duration="725000" />
+      <workItem from="1517110482902" duration="7284000" />
+      <workItem from="1517117815192" duration="719000" />
+      <workItem from="1517119632095" duration="2062000" />
+      <workItem from="1517122016581" duration="2159000" />
+      <workItem from="1517141257135" duration="3798000" />
+      <workItem from="1517146347710" duration="401000" />
+      <workItem from="1517157826666" duration="954000" />
+      <workItem from="1517159195766" duration="3111000" />
+      <workItem from="1517168187784" duration="4551000" />
+      <workItem from="1517173450004" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2198330000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1216" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11742007" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.24972437" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31532526" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/Shape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517174103258" expanded="false" signature="6:33" ph="..." />
+            <marker date="1517174103258" expanded="true" signature="56:16792" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="89:4903" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="452:783" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="814:2099" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="1038:1263" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="1542:1970" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="2163:2420" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="2462:2699" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="2759:2996" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="3059:3302" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="3336:4130" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="3397:4120" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4175:4637" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4302:4627" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4690:4897" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4938:9900" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4973:9894" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5405:5498" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5593:5688" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5765:5865" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5910:5972" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6060:7507" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6110:6232" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6623:7493" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6801:6962" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6991:7152" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="7211:7475" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="7591:8230" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8310:8423" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8470:8551" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8633:8736" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8820:8940" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9027:9150" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9246:9702" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9759:9884" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9933:16790" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9979:10401" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="10195:10357" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="10455:10688" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="10740:11731" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="11782:12643" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="12695:13397" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="13455:14301" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="14357:15480" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="15534:16147" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="15939:16103" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="16225:16784" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="16305:16774" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <marker date="1517171665379" expanded="false" signature="6:36" ph="..." />
+            <marker date="1517171665379" expanded="true" signature="77:2157" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="509:610" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="637:1966" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="716:823" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="1476:1814" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="1996:2155" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeLineDrawer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="92" lean-forward="false" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
+          <folding>
+            <marker date="1517171962305" expanded="true" signature="74:1097" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="358:697" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="460:624" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="728:1094" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="800:1090" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="936:1085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeLineDrawer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="92" lean-forward="false" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
+          <folding>
+            <marker date="1517171962305" expanded="true" signature="74:1097" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="358:697" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="460:624" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="728:1094" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="800:1090" ph="{...}" />
+            <marker date="1517171962305" expanded="true" signature="936:1085" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <marker date="1517171665379" expanded="false" signature="6:36" ph="..." />
+            <marker date="1517171665379" expanded="true" signature="77:2157" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="509:610" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="637:1966" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="716:823" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="1476:1814" ph="{...}" />
+            <marker date="1517171665379" expanded="true" signature="1996:2155" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/ShapeMesher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <marker date="1517173800203" expanded="true" signature="41:1811" ph="{...}" />
+            <marker date="1517173800203" expanded="true" signature="69:1809" ph="{...}" />
+            <marker date="1517173800203" expanded="true" signature="210:1690" ph="{...}" />
+            <marker date="1517173800203" expanded="true" signature="459:835" ph="{...}" />
+            <marker date="1517173800203" expanded="true" signature="617:830" ph="{...}" />
+            <marker date="1517173800203" expanded="true" signature="856:1065" ph="{...}" />
+            <marker date="1517173800203" expanded="true" signature="1250:1686" ph="{...}" />
+            <marker date="1517173800203" expanded="true" signature="1722:1806" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="346" column="45" lean-forward="false" selection-start-line="346" selection-start-column="45" selection-end-line="346" selection-end-column="45" />
+          <folding>
+            <marker date="1517160104275" expanded="false" signature="6:88" ph="..." />
+            <marker date="1517160104275" expanded="true" signature="132:21252" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="229:914" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="255:641" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="455:606" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="653:908" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="1426:1992" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="1470:1986" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="1546:1719" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="1736:1976" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="2080:2304" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="2718:3843" ph="Setup" />
+            <marker date="1517160104275" expanded="true" signature="2870:3270" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="3309:3486" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="3398:3480" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="3525:3658" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="3707:3828" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="3996:4533" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="4540:6177" ph="Vector" />
+            <marker date="1517160104275" expanded="true" signature="4619:4727" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="4811:5308" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="5067:5270" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="5416:5796" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="5909:6162" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="6300:6757" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="6764:9017" ph="Arrow" />
+            <marker date="1517160104275" expanded="true" signature="6872:7866" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="8016:9006" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="9034:10593" ph="Circle" />
+            <marker date="1517160104275" expanded="true" signature="9124:9343" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="9465:9943" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="9772:9913" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="10063:10364" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="10448:10582" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="10613:10990" ph="Arc" />
+            <marker date="1517160104275" expanded="true" signature="10732:10979" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="11011:14190" ph="Rectangle" />
+            <marker date="1517160104275" expanded="true" signature="11112:11880" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="11979:13117" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="12150:12551" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="12688:13087" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="12872:13077" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="13256:14179" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="13435:13836" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="13939:14149" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="14207:14632" ph="Line" />
+            <marker date="1517160104275" expanded="true" signature="14266:14337" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="14394:14465" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="14550:14621" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="14637:16358" ph="Mesh" />
+            <marker date="1517160104275" expanded="true" signature="14721:14800" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="14900:16345" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="15033:16307" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="16453:17155" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="16561:16642" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="16671:16769" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="17202:17320" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="17355:17771" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="17827:18206" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="18253:18507" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="18520:21249" ph="Rendering" />
+            <marker date="1517160104275" expanded="true" signature="18569:18628" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="18661:18695" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="18726:18758" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="18813:20459" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="18912:19038" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="19239:19694" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="19472:19684" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="19792:20453" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="19960:20210" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="20532:21238" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="20587:21008" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="20758:20949" ph="{...}" />
+            <marker date="1517160104275" expanded="true" signature="21255:22357" ph="/* Vector3 p1 = pos + rot * (Vector3.right * -.5f * dimensions.x + Vector3.up * .5f * dimensions.y); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ZappaTools/DRAW/DRAW_Classes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="257" column="21" lean-forward="false" selection-start-line="257" selection-start-column="21" selection-end-line="257" selection-end-column="21" />
+          <folding>
+            <marker date="1517160971331" expanded="false" signature="6:54" ph="..." />
+            <marker date="1517160971331" expanded="true" signature="82:11382" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="164:1015" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="182:1009" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="233:965" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="860:951" ph="/* _lineMaterial.SetInt(&quot;_ZTest&quot;, 4); ... */" />
+            <marker date="1517160971331" expanded="true" signature="1107:1391" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="1125:1385" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="1179:1338" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="1422:8488" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="1460:2026" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="1578:1765" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="1805:2016" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="2208:2379" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="2422:2535" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="2597:2979" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="3018:3487" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="3053:3447" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="3214:3376" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="3977:4080" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="4119:4295" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="4351:4471" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="4508:4860" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="4906:5002" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="5050:5224" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="5276:5459" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="5510:5649" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="5716:5855" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="5909:6227" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="6298:6420" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="6521:6758" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="6893:7291" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="7420:7677" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="7748:7885" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="7931:8127" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="8153:8482" ph="/* public static bool operator !=(Shape shapeA, Shape shapeB) ... */" />
+            <marker date="1517160971331" expanded="true" signature="8520:10404" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="8896:9172" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="9262:10315" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="9660:9843" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="10352:10398" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="10436:11380" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="10683:10851" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="10882:11078" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="10908:11068" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="11155:11374" ph="{...}" />
+            <marker date="1517160971331" expanded="true" signature="11252:11337" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/03_Scenes/ShapeSegment/Shape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="124" column="61" lean-forward="false" selection-start-line="124" selection-start-column="61" selection-end-line="124" selection-end-column="61" />
+          <folding>
+            <marker date="1517174103258" expanded="false" signature="6:33" ph="..." />
+            <marker date="1517174103258" expanded="true" signature="56:16792" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="89:4903" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="452:783" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="814:2099" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="1038:1263" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="1542:1970" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="2163:2420" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="2462:2699" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="2759:2996" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="3059:3302" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="3336:4130" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="3397:4120" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4175:4637" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4302:4627" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4690:4897" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4938:9900" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="4973:9894" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5405:5498" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5593:5688" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5765:5865" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="5910:5972" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6060:7507" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6110:6232" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6623:7493" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6801:6962" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="6991:7152" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="7211:7475" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="7591:8230" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8310:8423" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8470:8551" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8633:8736" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="8820:8940" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9027:9150" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9246:9702" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9759:9884" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9933:16790" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="9979:10401" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="10195:10357" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="10455:10688" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="10740:11731" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="11782:12643" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="12695:13397" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="13455:14301" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="14357:15480" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="15534:16147" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="15939:16103" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="16225:16784" ph="{...}" />
+            <marker date="1517174103258" expanded="true" signature="16305:16774" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

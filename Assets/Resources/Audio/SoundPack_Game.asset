@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9afb496d4e991d44a9eaddbe2743af4, type: 3}
+  m_Name: SoundPack_Game
+  m_EditorClassIdentifier: 
+  musicClips:
+  - {fileID: 8300000, guid: b76cb607d092cf54ea887cfd8eab8a74, type: 3}
+  ambientClips: []
+  uiClips:
+  - {fileID: 8300000, guid: 1dd69ec1a110cae44956088cbc33facd, type: 3}
+  - {fileID: 8300000, guid: 9fd0f09741e34264da8ab7b650a2c865, type: 3}
+  - {fileID: 8300000, guid: 536df8752cb5cde43a3fa6d75992a21e, type: 3}
+  reactorClips:
+  - {fileID: 8300000, guid: 7b25452a491ebd14cbe05b636e29b65f, type: 3}
+  - {fileID: 8300000, guid: 7b650dd5d7da92e4c9c54a16081ba5f9, type: 3}
+  - {fileID: 8300000, guid: 73f130b9ddc6c174a9f1999032f4e022, type: 3}
+  soundClips:
+  - {fileID: 8300000, guid: cbc7e5048084a344e9b259a6d5c8a4f5, type: 3}
+  - {fileID: 8300000, guid: 97b473c6a953482468bd9f4786d66d1e, type: 3}
+  - {fileID: 8300000, guid: 5cea2bf2395750c4b88271b3c54e5589, type: 3}
+  - {fileID: 8300000, guid: 3d77f7c52dc0e554baf898bd8a605208, type: 3}
+  - {fileID: 8300000, guid: 66dff7f995587f340ae85a0c95776b9a, type: 3}

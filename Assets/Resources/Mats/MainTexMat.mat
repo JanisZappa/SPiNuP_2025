@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MainTexMat
+  m_Shader: {fileID: 4800000, guid: 4f205f49d3115a14592fdcb4a89a8e51, type: 3}
+  m_ShaderKeywords: USETEX_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - MainTex:
+        m_Texture: {fileID: 2800000, guid: 80690f2b8b633064bb09f5802a38b843, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - MatCap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ad554323d8474d14e8ac66cacae97aaf, type: 3}
+        m_Scale: {x: 0.16, y: 0.16}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Stripes:
+        m_Texture: {fileID: 2800000, guid: 9d53dd41605e47a44bad0057e0b023ba, type: 3}
+        m_Scale: {x: -1, y: 0.0625}
+        m_Offset: {x: 0.25, y: 0}
+    - _T2:
+        m_Texture: {fileID: 2800000, guid: 9d53dd41605e47a44bad0057e0b023ba, type: 3}
+        m_Scale: {x: -0.065, y: 0.065}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - SIMPLE: 0
+    - USETEX: 1
+    - _B: 0.155
+    - _ScaleX: 0.5
+    m_Colors:
+    - _Color: {r: 0.32612458, g: 0.37030402, b: 0.38235295, a: 1}
+    - _Color2: {r: 0.4632353, g: 0.4923935, b: 0.5, a: 1}
+    - _Color3: {r: 0, g: 0, b: 0, a: 1}
+    - _SunColor: {r: 0.9705882, g: 0.9636977, b: 0.72080445, a: 1}
+    - _SunDir: {r: -0.41940725, g: 0.7006167, b: -0.5772642, a: 0}

@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 1165e4b313bb20f47b8d8e92cdea5177
+timeCreated: 1440436177
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arms
+    100002: Body
+    100004: GuyRot1:polySurface1
+    100006: Head
+    100008: HipLean
+    100010: LeftArm
+    100012: LeftLeg
+    100014: Legs
+    100016: Main
+    100018: pasted__t
+    100020: pasted__t 1
+    100022: pasted__t 2
+    100024: pasted__t 3
+    100026: pasted__t 4
+    100028: RightArm
+    100030: RightLeg
+    100032: ShoulderLean
+    100034: //RootNode
+    100036: FootAnchor
+    100038: HandAnchor
+    400000: Arms
+    400002: Body
+    400004: GuyRot1:polySurface1
+    400006: Head
+    400008: HipLean
+    400010: LeftArm
+    400012: LeftLeg
+    400014: Legs
+    400016: Main
+    400018: pasted__t
+    400020: pasted__t 1
+    400022: pasted__t 2
+    400024: pasted__t 3
+    400026: pasted__t 4
+    400028: RightArm
+    400030: RightLeg
+    400032: ShoulderLean
+    400034: //RootNode
+    400036: FootAnchor
+    400038: HandAnchor
+    4300000: GuyRot1:polySurface1
+    7400000: nothing
+    7400002: leanhandback
+    7400004: leanhandfront
+    7400006: leanfeetback
+    7400008: leanfeetfront
+    7400010: leanback
+    7400012: leanback
+    7400014: leanfront
+    9500000: //RootNode
+    13700000: GuyRot1:polySurface1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: nothing
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GuyRot1:polySurface1
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/HandAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+          1
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+          2
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+          3
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+          4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: leanhandback
+      takeName: Take 001
+      firstFrame: 13
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GuyRot1:polySurface1
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/HandAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+          1
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+          2
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+          3
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+          4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: leanhandfront
+      takeName: Take 001
+      firstFrame: 23
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GuyRot1:polySurface1
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/HandAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+          1
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+          2
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+          3
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+          4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: leanfeetback
+      takeName: Take 001
+      firstFrame: 33
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GuyRot1:polySurface1
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/HandAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+          1
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+          2
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+          3
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+          4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: leanfeetfront
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GuyRot1:polySurface1
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/HandAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+          1
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+          2
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+          3
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+          4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: leanback
+      takeName: Take 001
+      firstFrame: 53
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GuyRot1:polySurface1
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/HandAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+          1
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+          2
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+          3
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+          4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: leanfront
+      takeName: Take 001
+      firstFrame: 63
+      lastFrame: 65
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GuyRot1:polySurface1
+        weight: 1
+      - path: Main
+        weight: 1
+      - path: Main/HandAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+          1
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+          2
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+          3
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+        weight: 1
+      - path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+          4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

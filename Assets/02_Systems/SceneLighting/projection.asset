@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca2794be90e947489189c568fe23765, type: 3}
+  m_Name: projection
+  m_EditorClassIdentifier: 
+  sunAngle: {x: 340, y: 0}
+  sunColor: {r: 0.99264705, g: 0.9221751, b: 0.84666955, a: 1}
+  sunIntensity: 0.475
+  skyColor: {r: 0, g: 0, b: 0, a: 1}
+  ambientColor: {r: 0.72718054, g: 0.6838235, b: 0.75, a: 1}
+  fogColor: {r: 0.04595588, g: 0.10210448, b: 0.125, a: 0.14901961}
+  shadowBrightness: 0.5
+  shadowVisibility: 1

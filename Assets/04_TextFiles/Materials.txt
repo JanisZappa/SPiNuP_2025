@@ -1,0 +1,67 @@
+BlurBg                           <- SpinUp/Blur2019                                 | Assets/00_Scripts/Camera/BlurMS/BlurBg.mat
+BlurBgSimple                     <- Unlit/Texture                                   | Assets/00_Scripts/Camera/BlurMS/BlurBgSimple.mat
+TestMat                          <- Unlit/Texture                                   | Assets/00_Scripts/_Development/FovAdjust/TestMat.mat
+Light                            <- LightweightPipeline/Standard (Physically Based) | Assets/02_Systems/Shadows/Light.mat
+RGBAShadow                       <- andy/RGBAShadow                                 | Assets/02_Systems/Shadows/RGBAShadow.mat
+RGBATrack                        <- andy/RGBATrack                                  | Assets/02_Systems/Shadows/RGBATrack.mat
+shadowGet                        <- Hidden/InternalErrorShader                      | Assets/02_Systems/Shadows/shadowGet.mat
+SpineShadow                      <- andy/SpineShadow                                | Assets/02_Systems/Shadows/SpineShadow.mat
+SpotLight                        <- andy/spotlight                                  | Assets/02_Systems/Shadows/SpotLight.mat
+BaryTest                         <- andy/Vertex_Basic                               | Assets/03_Scenes/Barycentric/BaryTest.mat
+ColorCheck                       <- Standard                                        | Assets/03_Scenes/Barycentric/ColorCheck.mat
+Andy_LightColorTest              <- Andy/LightColorTest                             | Assets/03_Scenes/ColorGeneration/Andy_LightColorTest.mat
+Color                            <- Unlit/Color                                     | Assets/03_Scenes/ColorGeneration/Color.mat
+ShowColorPalette                 <- Unlit/Transparent                               | Assets/03_Scenes/ColorGeneration/ShowColorPalette.mat
+ShowHuePalette                   <- Unlit/Texture                                   | Assets/03_Scenes/ColorGeneration/ShowHuePalette.mat
+ShowVerticeColor                 <- Andy/VertexColor                                | Assets/03_Scenes/ColorGeneration/ShowVerticeColor.mat
+ColorGenTest                     <- Unlit/Texture                                   | Assets/03_Scenes/ColorGenTest/ColorGenTest.mat
+FinalMatCap 1                    <- Andy/FinalMatCap                                | Assets/03_Scenes/Final Matcap/FinalMatCap 1.mat
+FinalMatCap 2                    <- Andy/FinalMatCap                                | Assets/03_Scenes/Final Matcap/FinalMatCap 2.mat
+FinalMatCap 3                    <- Andy/FinalMatCap                                | Assets/03_Scenes/Final Matcap/FinalMatCap 3.mat
+FinalMatCap Dull                 <- Andy/FinalMatCap                                | Assets/03_Scenes/Final Matcap/FinalMatCap Dull.mat
+FinalMatCap                      <- Andy/FinalMatCap                                | Assets/03_Scenes/Final Matcap/FinalMatCap.mat
+TwoColorBG                       <- Andy/TwoColorBG                                 | Assets/03_Scenes/Final Matcap/BG/TwoColorBG.mat
+MainVertexInstancing             <- andy/MainMat_Instancing                         | Assets/03_Scenes/InstancingTest/MainVertexInstancing.mat
+4ChannelMatcap 1                 <- andy/4ChannelMatcap                             | Assets/03_Scenes/MaterialTest/4ChannelMatcap 1.mat
+4ChannelMatcap 2                 <- andy/4ChannelMatcap                             | Assets/03_Scenes/MaterialTest/4ChannelMatcap 2.mat
+4ChannelMatcap 3                 <- andy/4ChannelMatcap                             | Assets/03_Scenes/MaterialTest/4ChannelMatcap 3.mat
+4ChannelMatcap 4                 <- andy/4ChannelMatcap                             | Assets/03_Scenes/MaterialTest/4ChannelMatcap 4.mat
+4ChannelMatcap 5                 <- andy/4ChannelMatcap                             | Assets/03_Scenes/MaterialTest/4ChannelMatcap 5.mat
+4ChannelMatcap                   <- andy/4ChannelMatcap                             | Assets/03_Scenes/MaterialTest/4ChannelMatcap.mat
+4ChannelMatcapVertexColor        <- andy/4ChannelMatcapVertexColor                  | Assets/03_Scenes/MaterialTest/4ChannelMatcapVertexColor.mat
+4Channel_Purple 1                <- andy/4CMBetter                                  | Assets/03_Scenes/MaterialTest/4Channel_Purple 1.mat
+4Channel_Purple 2                <- andy/4CMBetter                                  | Assets/03_Scenes/MaterialTest/4Channel_Purple 2.mat
+4Channel_Purple 3                <- andy/4CMBetter                                  | Assets/03_Scenes/MaterialTest/4Channel_Purple 3.mat
+4Channel_Purple                  <- andy/4CMBetter                                  | Assets/03_Scenes/MaterialTest/4Channel_Purple.mat
+andy_4Chan                       <- andy/4CMBetter                                  | Assets/03_Scenes/MaterialTest/andy_4Chan.mat
+pipetest                         <- Shader Forge/vertecolorgreymap                  | Assets/03_Scenes/MaterialTest/pipetest.mat
+Shader Forge_intersect           <- Shader Forge/intersect                          | Assets/03_Scenes/MaterialTest/Shader Forge_intersect.mat
+Shader Forge_mappingtest 1       <- Shader Forge/vertecolorgreymap                  | Assets/03_Scenes/MaterialTest/Shader Forge_mappingtest 1.mat
+Shader Forge_mappingtest 2       <- Shader Forge/mappingtest                        | Assets/03_Scenes/MaterialTest/Shader Forge_mappingtest 2.mat
+Shader Forge_mappingtest         <- Shader Forge/mappingtest                        | Assets/03_Scenes/MaterialTest/Shader Forge_mappingtest.mat
+Shader Forge_mappingtest2        <- Shader Forge/vertecolorgreymap                  | Assets/03_Scenes/MaterialTest/Shader Forge_mappingtest2.mat
+Shader Forge_vertecolorgreymap   <- Shader Forge/vertecolorgreymap                  | Assets/03_Scenes/MaterialTest/MatGrey/Shader Forge_vertecolorgreymap.mat
+metal                            <- Shader Forge/metal                              | Assets/03_Scenes/MetalShader/metal.mat
+Andy_ringtest                    <- Andy/ringtest                                   | Assets/03_Scenes/PumpRing/Andy_ringtest.mat
+Shader Forge_meshshader          <- Shader Forge/meshshader                         | Assets/03_Scenes/ShapeSegment/EdgeMesh/Shader Forge_meshshader.mat
+Sky                              <- andy/Sky                                        | Assets/03_Scenes/SkySystem/Sky.mat
+Tex                              <- Unlit/Texture                                   | Assets/03_Scenes/SkySystem/Tex.mat
+TrackTest                        <- Shader Forge/tracktest                          | Assets/03_Scenes/TrackTest/TrackTest.mat
+tiletest                         <- andy/tiletest                                   | Assets/03_Scenes/UVTileTest/tiletest.mat
+Shader Forge_VertexShadowing     <- Shader Forge/VertexShadowingSimple              | Assets/03_Scenes/VertexShadowing/Shader Forge_VertexShadowing.mat
+MoonMat                          <- Andy/Moon                                       | Assets/03_Scenes/_OTHER/Moon/MoonMat.mat
+Add                              <- Particles/Additive                              | Assets/03_Scenes/_OTHER/Ocean/Add.mat
+Ocean                            <- andy/Ocean                                      | Assets/03_Scenes/_OTHER/Ocean/Ocean.mat
+Subtract                         <- Particles/Multiply                              | Assets/03_Scenes/_OTHER/Ocean/Subtract.mat
+WaterHeight                      <- andy/WaterHeight                                | Assets/03_Scenes/_OTHER/Ocean/WaterHeight.mat
+BG                               <- LightweightPipeline/Standard (Physically Based) | Assets/Import/Test/_Old/BG.mat
+andyVertex                       <- andy/Vertex_WallLerp                            | Assets/Materials/andyVertex.mat
+BGRaster                         <- andy/multicolor                                 | Assets/Materials/BGRaster.mat
+Black                            <- Unlit/Color                                     | Assets/Materials/Black.mat
+MainTexMat                       <- andy/MainMat                                    | Assets/Resources/Mats/MainTexMat.mat
+MainVertexMat                    <- andy/MainMat                                    | Assets/Resources/Mats/MainVertexMat.mat
+andy_ShowA                       <- andy/ShowA                                      | Assets/Shaders/andy_ShowA.mat
+MyVertexColor                    <- andy/MyVertexColor                              | Assets/Shaders/MyVertexColor.mat
+RGBA                             <- andy/RGBA                                       | Assets/Shaders/RGBA.mat
+LiberationSans SDF - Drop Shadow <- TextMeshPro/Mobile/Distance Field               | Assets/ThirdParty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+LiberationSans SDF - Outline     <- TextMeshPro/Mobile/Distance Field               | Assets/ThirdParty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat

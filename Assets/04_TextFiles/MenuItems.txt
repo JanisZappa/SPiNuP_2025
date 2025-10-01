@@ -1,0 +1,18 @@
+Assets/Create/BlankSpace After          %DOWN
+Assets/Create/BlankSpace Before         %UP
+Edit/Clear Console                      _^
+Edit/Copy Color to C#                   &c
+Edit/Copy Color to JS                   &x
+Edit/Create C#                          %&C
+Edit/Group Items                        %g
+Edit/Name GameObject like Script        %9
+Edit/QuickBuild/Current Scene PC Build  #&F5
+Edit/QuickBuild/Mobile Build            #&F6
+Edit/QuickBuild/Mobile DevBuild         #&F7
+Edit/Zero Transform                     %0
+Setup/Simplify Selected MeshRenderer    %m
+Tools/Merge Level Mesh                  %&m
+Tools/Mesh/Log Vertice Colors           %#F10
+Tools/SceneLayers/Show All              #&l
+Tools/SceneLayers/Show Scene Layers     &l
+Window/ToggleLayout                     &F1

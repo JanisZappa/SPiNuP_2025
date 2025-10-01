@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fcf797ae520db548915da7e2cd43873, type: 3}
+  m_Name: StoneWall
+  m_EditorClassIdentifier: 
+  minArea: 20
+  xShift: 1.5
+  debugColor: {r: 0.21266466, g: 0.764151, b: 0.55802494, a: 1}
+  windows: 1
+  extrudePadRules:
+    top: 2
+    sides: 2
+    bottom: 1
+  elementPad: 5

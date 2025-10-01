@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eca2794be90e947489189c568fe23765, type: 3}
+  m_Name: newStandard
+  m_EditorClassIdentifier: 
+  sunAngle: {x: 44.476494, y: 36.000008}
+  sunColor: {r: 1, g: 0.8567564, b: 0.45923448, a: 1}
+  sunIntensity: 0.5
+  skyColor: {r: 0.25713667, g: 0.4604559, b: 0.85294116, a: 1}
+  ambientColor: {r: 0.8011245, g: 0.769788, b: 0.9264706, a: 1}
+  fogColor: {r: 0.7794118, g: 0.93610555, b: 1, a: 0.14901961}
+  shadowBrightness: 0.5
+  shadowVisibility: 1

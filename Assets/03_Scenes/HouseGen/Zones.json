@@ -1,0 +1,29 @@
+{
+  "Zones": 
+  [
+    {
+      "name"  : "Dirt",
+      "id"    : 1
+    },
+    {
+      "name"  : "DirtWall_Extrude",
+      "id"    : 2
+    },
+    {
+      "name"  : "Cliff",
+      "id"    : 3
+    },
+    {
+      "name"  : "Cliff_Extrude",
+      "id"    : 4
+    },
+    {
+      "name"  : "City",
+      "id"    : 5
+    },
+    {
+      "name"  : "City_Extrude",
+      "id"    : 6
+    }
+  ]
+}

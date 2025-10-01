@@ -1,0 +1,42 @@
+World.SpinMulti is 35
+The default Spin Speed is 14.5f
+This means the Spinner turns 507,5° per Second
+Which is the real Spinspeed 507,5°/Second
+Which means 1.4 Revolutions/ Second
+Which is 8.857546f Radians/Second
+
+X = 14.5f / 8.857546f = 1.637022f
+
+SpinMultiHunt
+	
+	+	World.SpinAngle_Deg ( * SpinMulti )
+		-	JumpData.Get_Angle
+		-	SwingData.GetAnimLerp
+		-	Prediction (	unchangedRotationAtImpact	)
+		-	SpinnerDebug	(	2x	)
+	
+	+	SwingData.AccelSpin
+
+	----------------------------------------------------
+	+	JumpData.startSpin
+		-	JumpData.Get_Angle
+		-	JumpAnimation.CalulateLeanAnim
+		-	SpinnerDebug.GetPath
+		-	SwingData.Constructor	(	* c_spinConnectionFactor	)
+
+	+	SwingData.startSpinSpeed
+		-	SwingData.Constructor
+		-	SwingAnimation.CalculateConnectionSwing	(speedChange * X)
+
+	+	SwingData.spinSpeed
+		-	SwingData.GetActualSpeed
+		-	SwingData.AccelSpin
+		-	SwingData.Constructor
+			-	gravitySpin	(	* X	)
+
+		-	GetForceV	<	GetActualSpeed	
+						<	Get_Angle	<	GetAnimLerp
+
+
+		-	SwingAnimation.CalculateConnectionSwing	(speedChange * X)
+			-	lerpFactor	(	* X )

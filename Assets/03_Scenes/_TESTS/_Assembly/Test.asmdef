@@ -1,0 +1,13 @@
+{
+	"name": "Test",
+	"references": ["Shared", "Unity.TextMeshPro", "Palette"],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}

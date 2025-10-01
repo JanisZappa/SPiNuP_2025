@@ -1,0 +1,134 @@
+		if (Input.GetKeyDown(KeyCode.S))
+        if (!Paused && Input.GetKeyDown(KeyCode.LeftShift))
+        if (Input.GetKeyDown(KeyCode.Pause))
+            if(Input.GetKeyDown(keys[e]))
+            if (Input.GetKey(keys[e]))
+            if(Input.GetKeyUp(keys[e]))
+        if (Input.GetKeyDown(keyA))
+        if (keyB != Null && Input.GetKeyDown(keyB))
+        if (keyC != Null && Input.GetKeyDown(keyC))
+        return keyD != Null && Input.GetKeyDown(keyD);
+        if (Input.GetKey(keyA))
+        if (keyB != Null && Input.GetKey(keyB))
+        if (keyC != Null && Input.GetKey(keyC))
+        return keyD != Null && Input.GetKey(keyD);
+        if (Input.GetKeyUp(keyA))
+        if (keyB != Null && Input.GetKeyUp(keyB))
+        if (keyC != Null && Input.GetKeyUp(keyC))
+        return keyD != Null && Input.GetKeyUp(keyD);
+                if (Input.GetKeyDown(code))
+		if (Input.GetKeyDown(KeyCode.Alpha5))
+            if (Input.GetKey(KeyCode.T))
+        if (Input.GetKeyDown(KeyCode.Backspace) && active)
+		if (UI_Manager.HitUI || Input.GetKey(KeyCode.LeftAlt))
+        if (Input.GetKeyDown(KeyCode.L))
+        if (Input.GetKeyDown(KeyCode.Delete))
+        if(Input.GetKeyDown(KeyCode.O))
+        if (!Input.GetKeyDown(KeyCode.Keypad3))
+        if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKeyDown(KeyCode.Home))
+        if (Input.GetKeyDown(KeyCode.C) && !Input.GetKey(KeyCode.LeftControl))
+        if (Input.GetKeyDown(KeyCode.KeypadEnter))
+            if (!Input.GetKey(KeyCode.LeftAlt))
+                    if (Input.GetKey(KeyCode.T))
+        if (!Input.GetKeyDown(KeyCode.Space) || Input.GetKey(KeyCode.LeftControl))
+        if (!Input.GetKeyDown(KeyCode.Delete))
+        if (Input.GetKeyDown(KeyCode.Space) && Input.GetKey(KeyCode.LeftControl))
+        if (Input.GetKeyDown(KeyCode.V))
+		if(GameManager.Running && Input.GetKeyDown(KeyCode.H))
+			if (!swiping && (GTime.Paused || GameManager.Mode == Mode.Creator && Input.GetKey(KeyCode.LeftAlt)))
+		if (GameManager.Mode != Mode.Creator || Input.GetKey(KeyCode.LeftAlt))
+                if(lines[e].Contains("Input.GetKey"))
+        if(meshCounter && Application.isEditor && Input.GetKeyDown(KeyCode.C))
+        if (UI_Manager.HitUI || Input.GetKey(KeyCode.LeftAlt))
+        if ( Input.GetKeyDown(KeyCode.Space) && !auto)
+        if ( Input.GetKeyDown(KeyCode.P) )
+        if (activeCount > 1 && Input.GetKeyDown(KeyCode.Tab))
+		if (!Application.isMobilePlatform && Input.GetKeyDown(KeyCode.N))
+		if (Input.GetKeyDown(KeyCode.LeftShift))
+        if (!Input.GetKey(KeyCode.T))
+            if(Input.GetKeyDown(KeyCode.Alpha1)) SetCategory(0);
+            if(Input.GetKeyDown(KeyCode.Alpha2)) SetCategory(1);
+            if(Input.GetKeyDown(KeyCode.Alpha3)) SetCategory(2);
+            if(Input.GetKeyDown(KeyCode.Alpha4)) SetCategory(3);  
+		if(GameManager.Running && Input.GetKeyDown(KeyCode.P) && !GTime.Paused)
+		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.P))
+        if(Input.GetKeyDown(KeyCode.Escape))
+        if(Input.GetKeyDown(KeyCode.F11))
+		if (down ? Input.GetKeyDown(key) : Input.GetKeyUp(key))
+				if (Input.GetKeyDown(key))
+		if(Input.GetKeyDown(keycode))
+        return (down? Input.GetKeyDown(key) : Input.GetKeyUp(key))? !value : value;
+        return Input.GetKey(key) ? value + Time.deltaTime * multi : value;
+        return (down? Input.GetKeyDown(key) : Input.GetKeyUp(key)) ? newValue : value;
+		if(Input.GetKeyDown(KeyCode.F))
+        if(Input.GetKeyDown(KeyCode.F12))
+        if ( Input.GetKeyDown(KeyCode.F11) )
+		if (Input.GetKeyDown(KeyCode.O))
+		/*if (Input.GetKeyDown(KeyCode.Space))
+        if(Input.GetKeyDown(KeyCode.Space))
+		//if (Input.GetKeyDown(KeyCode.Space))
+		if(Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKey(KeyCode.LeftControl) && Input.GetKeyDown(KeyCode.W))
+        if(!falling && Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.Space))
+            if ( Input.GetKeyDown(KeyCode.Mouse0) )
+        if (Input.GetKeyDown(KeyCode.Slash))
+        if (Input.GetKeyDown(KeyCode.Quote))
+        if (Input.GetKeyDown(KeyCode.BackQuote))
+        /*if (Input.GetKeyDown(KeyCode.N))
+		if (Input.GetKeyDown(KeyCode.T))
+		if (Input.GetKey(KeyCode.Alpha1))
+		if (Input.GetKey(KeyCode.Alpha3))
+		if (Input.GetKey(KeyCode.Alpha4))
+		if (Input.GetKey(KeyCode.Alpha6))
+		if (Input.GetKey(KeyCode.Alpha2))
+		if (Input.GetKey(KeyCode.Alpha5))
+		if (Input.GetKeyDown(KeyCode.Space))	NewShape(Random.Range(0, 10));
+		if (Input.GetKeyDown(KeyCode.Alpha0))	NewShape(0);
+		if (Input.GetKeyDown(KeyCode.Alpha1))	NewShape(1);
+		if (Input.GetKeyDown(KeyCode.Alpha2))	NewShape(2);
+		if (Input.GetKeyDown(KeyCode.Alpha3))	NewShape(3);
+		if (Input.GetKeyDown(KeyCode.Alpha4))	NewShape(4);
+		if (Input.GetKeyDown(KeyCode.Alpha5))	NewShape(5);
+		if (Input.GetKeyDown(KeyCode.Alpha6))	NewShape(6);
+		if (Input.GetKeyDown(KeyCode.Alpha7))	NewShape(7);
+		if (Input.GetKeyDown(KeyCode.Alpha8))	NewShape(8);
+		if (Input.GetKeyDown(KeyCode.Alpha9))	NewShape(9);
+		if (Input.GetKeyDown(KeyCode.Backspace))	Undo();
+			float rad = (Input.GetKey(KeyCode.Q)? 1 : 0) + (Input.GetKey(KeyCode.Q)? -1 : 0);
+		drawBounds.Set(Input.GetKeyDown(KeyCode.B) ? (drawBounds + 1) % 3 : drawBounds);
+			Vector2 movement = new Vector2((Input.GetKey(KeyCode.RightArrow) ? 1 : 0) + (Input.GetKey(KeyCode.LeftArrow) ? -1 : 0), 
+				                           (Input.GetKey(KeyCode.UpArrow)    ? 1 : 0) + (Input.GetKey(KeyCode.DownArrow) ? -1 : 0));
+			float rad = (Input.GetKey(KeyCode.Z)? 1 : 0) + (Input.GetKey(KeyCode.X)? -1 : 0);
+		drawSnake.Set(Input.GetKeyDown(KeyCode.S) ? (drawSnake + 1) % 3 : drawSnake);
+		if (Input.GetKey(KeyCode.Alpha1))
+		if (Input.GetKey(KeyCode.Alpha3))
+		if (Input.GetKey(KeyCode.Alpha4))
+		if (Input.GetKey(KeyCode.Alpha6))
+		if (Input.GetKey(KeyCode.Alpha2))
+		if (Input.GetKey(KeyCode.Alpha5))
+		if (Input.GetKeyDown(KeyCode.R))
+		if (Input.GetKeyDown(KeyCode.Mouse0))
+		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.Space))
+		if(Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.H))
+		if (Input.GetKeyDown(KeyCode.H))
+		if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetMouseButtonDown(0) && Input.mousePosition.x <= Screen.width * .5f)
+		if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetMouseButtonDown(0) && Input.mousePosition.x > Screen.width * .5f)
+		if (Input.GetKeyDown(KeyCode.U))
+		if (Input.GetKeyDown(KeyCode.Backspace))
+	if (Input.GetKeyDown(KeyCode.Return))
+		if(Input.GetKeyDown(KeyCode.Space))
+		xMove = Mathf.Lerp(xMove, Input.GetKey(KeyCode.LeftArrow) ? -1 : Input.GetKey(KeyCode.RightArrow)? 1 : 0, Time.deltaTime * accel);
+		yMove = Mathf.Lerp(yMove, Input.GetKey(KeyCode.DownArrow) ? -1 : Input.GetKey(KeyCode.UpArrow)? 1 : 0, Time.deltaTime * accel);
+		if (Input.GetKeyDown(KeyCode.Alpha3))
+		if (Input.GetKeyDown(KeyCode.Alpha1))
+		if (Input.GetKeyDown(KeyCode.Alpha2))
+			if (Input.GetKeyDown(KeyCode.Space))
+		if (Input.GetKeyDown(KeyCode.P))

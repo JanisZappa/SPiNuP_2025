@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 443f8bd17f5b82c499b9d8e409527694, type: 3}
+  m_Name: CostumeColor_OrangeRed
+  m_EditorClassIdentifier: 
+  colors:
+  - partType: 1
+    colorID: 4056
+    matCap: 0
+    realColor: {r: 0.8310986, g: 0.9067384, b: 0.9264706, a: 1}
+  - partType: 0
+    colorID: 4071
+    matCap: 0
+    realColor: {r: 1, g: 0.84198785, b: 0.6985294, a: 1}
+  - partType: 14
+    colorID: 4072
+    matCap: 2
+    realColor: {r: 0.9191176, g: 0.4933499, b: 0.4933499, a: 1}
+  - partType: 9
+    colorID: 4073
+    matCap: 0
+    realColor: {r: 1, g: 0.67870176, b: 0.4705882, a: 1}
+  - partType: 7
+    colorID: 4074
+    matCap: 2
+    realColor: {r: 0.80392164, g: 0.43137258, b: 0.43137258, a: 1}
+  - partType: 10
+    colorID: 4075
+    matCap: 0
+    realColor: {r: 0.9117647, g: 0.49872723, b: 0.4290657, a: 1}
+  - partType: 2
+    colorID: 3906
+    matCap: 2
+    realColor: {r: 0, g: 0, b: 0, a: 1}

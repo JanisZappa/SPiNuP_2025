@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\janis_zappa\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_SPIN UP.-1111071750.00" t="ExcludeRecursive" />
+    <e p="C:\Users\janis_zappa\Documents\UNITY_PROJEKTE\2018\SPIN UP" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="00_Scripts" t="Include">
+          <e p="_Development" t="Include">
+            <e p="AppControllWindow" t="Include">
+              <e p="AppControllSettings.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="AppControllWindow.cs" t="Include" />
+              </e>
+            </e>
+            <e p="DebugDrawUpdate.cs" t="Include" />
+            <e p="Debugging" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ClearConsole.cs" t="Include" />
+              </e>
+              <e p="ShowJumpProblem.cs" t="Include" />
+            </e>
+            <e p="DigitTest.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="LayoutToggle.cs" t="Include" />
+              <e p="QuickBuild.cs" t="Include" />
+              <e p="Simplify.cs" t="Include" />
+              <e p="~Editing.cs" t="Include" />
+            </e>
+            <e p="EditorCoroutine.cs" t="Include" />
+            <e p="FovAdjust" t="Include">
+              <e p="Editor" t="Include">
+                <e p="FovAdjustEditor.cs" t="Include" />
+              </e>
+              <e p="FovAdjust.cs" t="Include" />
+            </e>
+            <e p="FPSCounter" t="Include">
+              <e p="BadFrame.cs" t="Include" />
+              <e p="FrameCounter.cs" t="Include" />
+              <e p="FrameTime" t="Include">
+                <e p="FirstUpdate.cs" t="Include" />
+                <e p="FrameTimeCalc.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Frame.cs" t="Include" />
+            <e p="InfoPanel" t="Include">
+              <e p="InfoPanelUpdate.cs" t="Include" />
+            </e>
+            <e p="ServerTime" t="Include">
+              <e p="ServerTime.cs" t="Include" />
+            </e>
+            <e p="StringDisplay.cs" t="Include" />
+            <e p="SwapCostume.cs" t="Include" />
+            <e p="VertexFun" t="Include">
+              <e p="Editor" t="Include">
+                <e p="VertexFun.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="_General" t="Include">
+            <e p="CollectionInit.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="GroupSelection.cs" t="Include" />
+            </e>
+            <e p="Emoji.cs" t="Include" />
+            <e p="Encryption.cs" t="Include" />
+            <e p="Extensions" t="Include">
+              <e p="boolExt.cs" t="Include" />
+              <e p="collectionShift.cs" t="Include" />
+              <e p="colorExt.cs" t="Include" />
+              <e p="floatExt.cs" t="Include" />
+              <e p="intExt.cs" t="Include" />
+              <e p="listExt.cs" t="Include" />
+              <e p="rendererExt.cs" t="Include" />
+              <e p="serializeExt.cs" t="Include" />
+              <e p="timespanExt.cs" t="Include" />
+              <e p="vector2Ext.cs" t="Include" />
+              <e p="vector3Ext.cs" t="Include" />
+            </e>
+            <e p="FancyString.cs" t="Include" />
+            <e p="Mth.cs" t="Include" />
+            <e p="PathResourceInst.cs" t="Include" />
+            <e p="PrintKeycode.cs" t="Include" />
+            <e p="QuaternionWrapper.cs" t="Include" />
+            <e p="Run.cs" t="Include" />
+            <e p="SceneRestart.cs" t="Include" />
+            <e p="SignRandom.cs" t="Include" />
+            <e p="Sin.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+            <e p="StandaloneQuitOnEscapeKeyDown.cs" t="Include" />
+            <e p="Tween.cs" t="Include" />
+            <e p="V2.cs" t="Include" />
+            <e p="V3.cs" t="Include" />
+            <e p="V3Volume.cs" t="Include" />
+          </e>
+          <e p="_Unused" t="Include">
+            <e p="Collectable.cs" t="Include" />
+            <e p="DeviceSize.cs" t="Include" />
+          </e>
+          <e p="App&amp;Game" t="Include">
+            <e p="AppControll.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameModes" t="Include">
+              <e p="Creator" t="Include">
+                <e p="Mode" t="Include">
+                  <e p="Creator_Edit.cs" t="Include" />
+                  <e p="Creator_Misc.cs" t="Include" />
+                  <e p="Creator_Mode.cs" t="Include" />
+                  <e p="Creator_New_Copy_Delete.cs" t="Include" />
+                </e>
+                <e p="Mode_Creator_Draw.cs" t="Include" />
+                <e p="Mode_Creator_Links.cs" t="Include" />
+                <e p="Mode_Creator_Selection.cs" t="Include" />
+              </e>
+              <e p="Mode_SpinUp.cs" t="Include" />
+            </e>
+            <e p="GTime.cs" t="Include" />
+            <e p="LightManager.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="Settings" t="Include">
+              <e p="UserSave.cs" t="Include" />
+            </e>
+            <e p="SubManagers" t="Include">
+              <e p="BotControll.cs" t="Include" />
+              <e p="KeyRead.cs" t="Include" />
+              <e p="Tape.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Audio" t="Include">
+            <e p="AudioTypes.cs" t="Include" />
+            <e p="HeightAmbience.cs" t="Include" />
+            <e p="MixerTypes.cs" t="Include" />
+            <e p="MusicSideSpeed.cs" t="Include" />
+            <e p="MusicTest.cs" t="Include" />
+            <e p="Sound.cs" t="Include" />
+          </e>
+          <e p="Backend" t="Include">
+            <e p="Locator.cs" t="Include" />
+            <e p="ReplaySaveLoad.cs" t="Include" />
+            <e p="ScreenControll.cs" t="Include" />
+            <e p="WebData.cs" t="Include" />
+            <e p="WebGLMessageListener.cs" t="Include" />
+          </e>
+          <e p="Background" t="Include">
+            <e p="BatchAndScale.cs" t="Include" />
+            <e p="BatchThis.cs" t="Include" />
+            <e p="FloorExtend.cs" t="Include" />
+            <e p="FloorFilling.cs" t="Include" />
+            <e p="ScaleWall.cs" t="Include" />
+            <e p="WallAllign.cs" t="Include" />
+          </e>
+          <e p="Camera" t="Include">
+            <e p="BlurCam.cs" t="Include" />
+            <e p="CamDebug.cs" t="Include" />
+            <e p="CamManager.cs" t="Include" />
+            <e p="CamSkyColor.cs" t="Include" />
+            <e p="Culling.cs" t="Include" />
+            <e p="Frustum.cs" t="Include" />
+            <e p="GameCam.cs" t="Include" />
+            <e p="MultiCam.cs" t="Include" />
+            <e p="PauseCam.cs" t="Include" />
+            <e p="SideSwitcher.cs" t="Include" />
+          </e>
+          <e p="Controll" t="Include">
+            <e p="Ctrl.cs" t="Include" />
+            <e p="Tap.cs" t="Include" />
+          </e>
+          <e p="Costumes" t="Include">
+            <e p="CostumeColors.cs" t="Include" />
+            <e p="SP_Costume.cs" t="Include" />
+          </e>
+          <e p="EnableFXAA.cs" t="Include" />
+          <e p="Environmentor.cs" t="Include" />
+          <e p="GeoMath" t="Include">
+            <e p="Bounds2D.cs" t="Include" />
+            <e p="Circle.cs" t="Include" />
+            <e p="Line.cs" t="Include" />
+            <e p="Quad.cs" t="Include" />
+            <e p="Rectangle.cs" t="Include" />
+            <e p="ShapeCollision.cs" t="Include" />
+            <e p="Tri.cs" t="Include" />
+          </e>
+          <e p="Level" t="Include">
+            <e p="Actors" t="Include">
+              <e p="Bouncy.cs" t="Include" />
+              <e p="ScoreStick.cs" t="Include" />
+              <e p="Stick.cs" t="Include" />
+            </e>
+            <e p="Animators" t="Include">
+              <e p="BouncyMaster.cs" t="Include" />
+              <e p="Shake.cs" t="Include" />
+              <e p="StickAnimator.cs" t="Include" />
+            </e>
+            <e p="Cell.cs" t="Include" />
+            <e p="Elements" t="Include">
+              <e p="AllTracks.cs" t="Include" />
+              <e p="Item.cs" t="Include" />
+              <e p="ItemWarpFilter.cs" t="Include" />
+              <e p="LevelElements.cs" t="Include" />
+              <e p="MoveState.cs" t="Include" />
+              <e p="Track.cs" t="Include" />
+              <e p="ZAnim.cs" t="Include" />
+            </e>
+            <e p="Generation" t="Include">
+              <e p="Bezier.cs" t="Include" />
+              <e p="LevelSection.cs" t="Include" />
+              <e p="LevelSectionDraw.cs" t="Include" />
+              <e p="LevelSectionTest.cs" t="Include" />
+              <e p="MoveCam.cs" t="Include" />
+              <e p="New_LevelBrain.cs" t="Include" />
+              <e p="NumGen.cs" t="Include" />
+              <e p="PathSearch.cs" t="Include" />
+            </e>
+            <e p="Level.cs" t="Include" />
+            <e p="LevelDebug.cs" t="Include" />
+            <e p="LevelInfo.cs" t="Include" />
+            <e p="LevelList.cs" t="Include" />
+            <e p="LevelSaveFile.cs" t="Include" />
+            <e p="LevelSaveLoad.cs" t="Include" />
+            <e p="LevelSeed.cs" t="Include" />
+            <e p="Links" t="Include">
+              <e p="JumpLink.cs" t="Include" />
+              <e p="Link.cs" t="Include" />
+              <e p="PathLink.cs" t="Include" />
+              <e p="ViewLink.cs" t="Include" />
+              <e p="WarpLink.cs" t="Include" />
+            </e>
+            <e p="Side.cs" t="Include" />
+          </e>
+          <e p="Networking" t="Include">
+            <e p="OnlineConnection" t="Include">
+              <e p="Database.cs" t="Include" />
+              <e p="Leaderboard.cs" t="Include" />
+              <e p="TableLine.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Editor" t="Include">
+              <e p="JetBrains" t="Include">
+                <e p="Unity3DRider.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SimpleJSON.cs" t="Include" />
+          </e>
+          <e p="Pooling" t="Include">
+            <e p="GCPool.cs" t="Include" />
+            <e p="Pool.cs" t="Include" />
+            <e p="PoolDebug.cs" t="Include" />
+            <e p="ReturnPool.cs" t="Include" />
+          </e>
+          <e p="RigHelp.cs" t="Include" />
+          <e p="Serialize" t="Include">
+            <e p="AnimData.cs" t="Include" />
+          </e>
+          <e p="ShakeRewind.cs" t="Include" />
+          <e p="Spinner" t="Include">
+            <e p="AllSpinner.cs" t="Include" />
+            <e p="Animation" t="Include">
+              <e p="Curves.cs" t="Include" />
+              <e p="SP_Animator.cs" t="Include" />
+            </e>
+            <e p="Clips &amp; Anims" t="Include">
+              <e p="Anim.cs" t="Include" />
+              <e p="Anim_Jump.cs" t="Include" />
+              <e p="Anim_Swing.cs" t="Include" />
+              <e p="Clip.cs" t="Include" />
+              <e p="Clip_AirLaunch.cs" t="Include" />
+              <e p="Clip_Bump.cs" t="Include" />
+              <e p="Clip_Dead.cs" t="Include" />
+              <e p="Clip_Jump.cs" t="Include" />
+              <e p="Clip_None.cs" t="Include" />
+              <e p="Clip_Spawn.cs" t="Include" />
+              <e p="Clip_Swing.cs" t="Include" />
+              <e p="ClipTypeFilter.cs" t="Include" />
+            </e>
+            <e p="ClubMaster.cs" t="Include" />
+            <e p="Prediction.cs" t="Include" />
+            <e p="Proximity.cs" t="Include" />
+            <e p="SP_Rig.cs" t="Include" />
+            <e p="Spinner.cs" t="Include" />
+            <e p="SpinnerDebug.cs" t="Include" />
+            <e p="ThreadClub.cs" t="Include" />
+          </e>
+          <e p="Static" t="Include">
+            <e p="Crunch.cs" t="Include" />
+            <e p="Digit.cs" t="Include" />
+            <e p="EnumFilters.cs" t="Include" />
+            <e p="Extensions.cs" t="Include" />
+            <e p="FileHandler.cs" t="Include" />
+            <e p="GPhysics.cs" t="Include" />
+            <e p="Layers.cs" t="Include" />
+            <e p="SetVolume.cs" t="Include" />
+          </e>
+          <e p="StaticConstructor.cs" t="Include" />
+          <e p="TouchID.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="CoreCount.cs" t="Include" />
+            <e p="Fade.cs" t="Include" />
+            <e p="Height.cs" t="Include" />
+            <e p="InterfaceAnim.cs" t="Include" />
+            <e p="PlayerNameUI.cs" t="Include" />
+            <e p="Score.cs" t="Include" />
+            <e p="ScoreUI.cs" t="Include" />
+            <e p="TimeSliderUI.cs" t="Include" />
+            <e p="Touchable" t="Include">
+              <e p="TouchMe.cs" t="Include" />
+            </e>
+            <e p="UI_Creator.cs" t="Include" />
+            <e p="UI_LevelList.cs" t="Include" />
+            <e p="UI_Manager.cs" t="Include" />
+            <e p="UI_SpinUp.cs" t="Include" />
+          </e>
+          <e p="Zmall" t="Include">
+            <e p="Analytics.cs" t="Include" />
+            <e p="Augen.cs" t="Include" />
+            <e p="bodyRot.cs" t="Include" />
+            <e p="cloudmove.cs" t="Include" />
+          </e>
+        </e>
+        <e p="01_ScriptableObjects" t="Include">
+          <e p="_SoundPack.cs" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="_DatabaseTicket.cs" t="Include" />
+            <e p="_SceneLighting.cs" t="Include" />
+          </e>
+        </e>
+        <e p="02_Systems" t="Include">
+          <e p="CLog.cs" t="Include" />
+          <e p="Editor Player Framing" t="Include">
+            <e p="EditorFrame.cs" t="Include" />
+          </e>
+          <e p="GameColor" t="Include">
+            <e p="ColorPalette.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="ColorPickerWindow.cs" t="Include" />
+              <e p="ColorValueDrawer.cs" t="Include" />
+              <e p="GameColorInspector.cs" t="Include" />
+            </e>
+          </e>
+          <e p="PartLibrary" t="Include">
+            <e p="CostumeParts.cs" t="Include" />
+          </e>
+          <e p="Shadows" t="Include">
+            <e p="andy_Projector.shader" t="Include" />
+            <e p="CastShadow.cs" t="Include" />
+            <e p="ContactShadow.cs" t="Include" />
+            <e p="RGBShadow.shader" t="Include" />
+            <e p="Shadow.cs" t="Include" />
+            <e p="ShadowCam" t="Include">
+              <e p="ShadowCam.cs" t="Include" />
+            </e>
+            <e p="SpinnerShadow.cs" t="Include" />
+          </e>
+        </e>
+        <e p="03_Scenes" t="Include">
+          <e p="AllignedRotationTest" t="Include">
+            <e p="RectRotation.cs" t="Include" />
+          </e>
+          <e p="AngledFittingRectangle" t="Include">
+            <e p="FittingRectangle.cs" t="Include" />
+          </e>
+          <e p="AR Mapping" t="Include">
+            <e p="ArCamMovementTest.cs" t="Include" />
+            <e p="MapToARCam.cs" t="Include" />
+          </e>
+          <e p="BendTest" t="Include">
+            <e p="BendLine.cs" t="Include" />
+            <e p="ChordBend.cs" t="Include" />
+            <e p="SegmentBend.cs" t="Include" />
+          </e>
+          <e p="CircleAllign" t="Include">
+            <e p="CapsuleRadius.cs" t="Include" />
+            <e p="CircleAllign.cs" t="Include" />
+            <e p="CircleIntersection.cs" t="Include" />
+            <e p="JointsOnChain.cs" t="Include" />
+          </e>
+          <e p="CollisionTest" t="Include">
+            <e p="Bouncy.cs" t="Include" />
+            <e p="collisiontest.cs" t="Include" />
+          </e>
+          <e p="Damp_New" t="Include">
+            <e p="SliderMapping.cs" t="Include" />
+          </e>
+          <e p="MetalShader" t="Include">
+            <e p="metal.shader" t="Include" />
+          </e>
+          <e p="MultiMesh" t="Include">
+            <e p="MultiMesh.cs" t="Include" />
+          </e>
+          <e p="OtherScenes" t="Include">
+            <e p="BotPlayers.cs" t="Include" />
+            <e p="InterfaceTest" t="Include">
+              <e p="AnimationHandler.cs" t="Include" />
+              <e p="cool.shader" t="Include" />
+              <e p="InterfaceTest.cs" t="Include" />
+            </e>
+            <e p="PerlinNoiseTest" t="Include">
+              <e p="PerlinNoiseCheck.cs" t="Include" />
+            </e>
+            <e p="Voronoi" t="Include">
+              <e p="GridRegions.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ShapeSegment" t="Include">
+            <e p="MeshDrawTest.cs" t="Include" />
+            <e p="Shape.cs" t="Include" />
+            <e p="ShapeLineDrawer.cs" t="Include" />
+            <e p="ShapeMesher.cs" t="Include" />
+            <e p="ShapeTest.cs" t="Include" />
+          </e>
+          <e p="SquashTest" t="Include">
+            <e p="SquashTest.cs" t="Include" />
+          </e>
+          <e p="Threading" t="Include">
+            <e p="ThreadingTest.cs" t="Include" />
+          </e>
+          <e p="UVTileTest" t="Include">
+            <e p="Color32AsCord.cs" t="Include" />
+            <e p="tiletest.shader" t="Include" />
+          </e>
+        </e>
+        <e p="05_TextFiles" t="Include">
+          <e p="C#Symbols.txt" t="Include" />
+          <e p="Rig.txt" t="Include" />
+          <e p="Spin_Rad_Degrees.txt" t="Include" />
+          <e p="Thinking.txt" t="Include" />
+        </e>
+        <e p="06_Tests" t="Include">
+          <e p="MaterialTest" t="Include">
+            <e p="4Chan.shader" t="Include" />
+            <e p="4ChannelMatcap.shader" t="Include" />
+            <e p="4ChannelMatcapVertexColor.shader" t="Include" />
+            <e p="4CMBetter.shader" t="Include" />
+            <e p="intersect.shader" t="Include" />
+            <e p="mappingtest.shader" t="Include" />
+            <e p="MatGrey" t="Include">
+              <e p="colormap.shader" t="Include" />
+              <e p="vertexgreymap.shader" t="Include" />
+              <e p="vertexgreymapalpha.shader" t="Include" />
+            </e>
+            <e p="wobble.cs" t="Include" />
+          </e>
+          <e p="NewRig" t="Include">
+            <e p="Editor" t="Include">
+              <e p="EditRigEditor.cs" t="Include" />
+              <e p="RiggingMenu.cs" t="Include" />
+            </e>
+            <e p="EditPart.cs" t="Include" />
+            <e p="EditRig.cs" t="Include" />
+            <e p="LineTest.cs" t="Include" />
+            <e p="PartLib.cs" t="Include" />
+            <e p="RiggingNamespace.cs" t="Include" />
+          </e>
+          <e p="SmoothBind" t="Include">
+            <e p="SmoothBind.cs" t="Include" />
+            <e p="SmoothBindBounce.cs" t="Include" />
+            <e p="Vertex_Basic.shader" t="Include" />
+          </e>
+          <e p="WallMaster.cs" t="Include" />
+        </e>
+        <e p="GarbageEvent.cs" t="Include" />
+        <e p="Import" t="Include">
+          <e p="Test" t="Include">
+            <e p="BodyPartMesh.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="AttributeImport.cs" t="Include" />
+              <e p="BodyPartMeshEditor.cs" t="Include" />
+            </e>
+            <e p="MakeRig.cs" t="Include" />
+            <e p="MakeRigAnim.cs" t="Include" />
+            <e p="MakeRigBone.cs" t="Include" />
+            <e p="MakeRigCrap.cs" t="Include" />
+            <e p="MakeRigDebug.cs" t="Include" />
+            <e p="MakeRigPart.cs" t="Include" />
+            <e p="OldRig.cs" t="Include" />
+            <e p="SpinStick.cs" t="Include" />
+          </e>
+        </e>
+        <e p="multicolor.shader" t="Include" />
+        <e p="ReplayLoadTest.cs" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="Backend" t="Include">
+            <e p="levelrange.txt" t="Include" />
+          </e>
+          <e p="Names.txt" t="Include" />
+        </e>
+        <e p="SourceFiles" t="Include">
+          <e p="andySM" t="Include">
+            <e p="andy_Color.shader" t="Include" />
+            <e p="andy_ColorHole.shader" t="Include" />
+            <e p="andy_NoLightVertex.shader" t="Include" />
+            <e p="andy_ShadowMulti.shader" t="Include" />
+            <e p="andy_stripes.shader" t="Include" />
+            <e p="andy_Tex.shader" t="Include" />
+            <e p="andy_TexGlobal.shader" t="Include" />
+            <e p="andy_TexGlobalDepth.shader" t="Include" />
+            <e p="andy_Vertex.shader" t="Include" />
+            <e p="andy_VertexBehind.shader" t="Include" />
+            <e p="andy_VertexShade.shader" t="Include" />
+            <e p="BlurMS" t="Include">
+              <e p="andy_bgBlur_mT.shader" t="Include" />
+              <e p="BegaBlur.shader" t="Include" />
+              <e p="pixelblur.shader" t="Include" />
+            </e>
+            <e p="invisible.shader" t="Include" />
+          </e>
+          <e p="Prefabs" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ObjExporter.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="andy_Fog.shader" t="Include" />
+            <e p="depthmask.shader" t="Include" />
+            <e p="gridshader.shader" t="Include" />
+            <e p="interface.shader" t="Include" />
+            <e p="shade.shader" t="Include" />
+            <e p="wallsplit.shader" t="Include" />
+            <e p="water.shader" t="Include" />
+            <e p="zone.shader" t="Include" />
+          </e>
+        </e>
+        <e p="ThirdParty" t="Include">
+          <e p="Camera Perspective Editor" t="Include">
+            <e p="Read Me.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="CameraPerspectiveEditor.cs" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="CameraPerspectiveEditorEditor.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Editor Window Fullscreen" t="Include">
+            <e p="Readme.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Controller" t="Include">
+                  <e p="EditorFullscreenController.cs" t="Include" />
+                </e>
+                <e p="Internals" t="Include">
+                  <e p="CustomSceneView.cs" t="Include" />
+                  <e p="Display Detection" t="Include">
+                    <e p="EditorDisplay.cs" t="Include" />
+                    <e p="SystemDisplay.cs" t="Include" />
+                    <e p="SystemDisplay.WindowsDisplay.cs" t="Include" />
+                  </e>
+                  <e p="EditorFullscreenControllerMenuItems.cs" t="Include" />
+                  <e p="EditorFullscreenSettings.cs" t="Include" />
+                  <e p="EditorFullscreenSettingsWindow.cs" t="Include" />
+                  <e p="EditorFullscreenState.cs" t="Include" />
+                  <e p="EditorInput.cs" t="Include" />
+                  <e p="EditorMainWindow.cs" t="Include" />
+                  <e p="EditorWindowExtensions.cs" t="Include" />
+                  <e p="Extension Methods" t="Include">
+                    <e p="RectExtensions.cs" t="Include" />
+                    <e p="Vector2Extensions.cs" t="Include" />
+                  </e>
+                  <e p="SerializerUtility.cs" t="Include" />
+                  <e p="WindowLayoutUtility.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="FXAA" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="FXAA.cs" t="Include" />
+              <e p="FXAAPostEffectsBase.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Fxaa3.shader" t="Include" />
+              <e p="Fxaa3_9.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="ShaderForge" t="Include">
+            <e p="Editor" t="Include">
+              <e p="InternalResources" t="Include">
+                <e p="GPU Rendering" t="Include">
+                  <e p="Common" t="Include">
+                    <e p="ExtractChannel.shader" t="Include" />
+                    <e p="FillColor.shader" t="Include" />
+                    <e p="ReadPackedData.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Abs" t="Include">
+                    <e p="SFN_Abs.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Add" t="Include">
+                    <e p="SFN_Add_2.shader" t="Include" />
+                    <e p="SFN_Add_3.shader" t="Include" />
+                    <e p="SFN_Add_4.shader" t="Include" />
+                    <e p="SFN_Add_5.shader" t="Include" />
+                  </e>
+                  <e p="SFN_AmbientLight" t="Include">
+                    <e p="SFN_AmbientLight.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Append" t="Include">
+                    <e p="SFN_Append.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ArcCos" t="Include">
+                    <e p="SFN_ArcCos.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ArcSin" t="Include">
+                    <e p="SFN_ArcSin.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ArcTan" t="Include">
+                    <e p="SFN_ArcTan.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ArcTan2" t="Include">
+                    <e p="SFN_ArcTan2_NOTO.shader" t="Include" />
+                    <e p="SFN_ArcTan2_NPTP.shader" t="Include" />
+                    <e p="SFN_ArcTan2_ZTO.shader" t="Include" />
+                    <e p="SFN_ArcTan2_ZTOW.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Bitangent" t="Include">
+                    <e p="SFN_Bitangent.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Blend" t="Include">
+                    <e p="SFN_Blend_ColorBurn.shader" t="Include" />
+                    <e p="SFN_Blend_ColorDodge.shader" t="Include" />
+                    <e p="SFN_Blend_Darken.shader" t="Include" />
+                    <e p="SFN_Blend_Difference.shader" t="Include" />
+                    <e p="SFN_Blend_Divide.shader" t="Include" />
+                    <e p="SFN_Blend_Exclusion.shader" t="Include" />
+                    <e p="SFN_Blend_HardLight.shader" t="Include" />
+                    <e p="SFN_Blend_HardMix.shader" t="Include" />
+                    <e p="SFN_Blend_Lighten.shader" t="Include" />
+                    <e p="SFN_Blend_LinearBurn.shader" t="Include" />
+                    <e p="SFN_Blend_LinearDodge.shader" t="Include" />
+                    <e p="SFN_Blend_LinearLight.shader" t="Include" />
+                    <e p="SFN_Blend_Multiply.shader" t="Include" />
+                    <e p="SFN_Blend_Overlay.shader" t="Include" />
+                    <e p="SFN_Blend_PinLight.shader" t="Include" />
+                    <e p="SFN_Blend_Screen.shader" t="Include" />
+                    <e p="SFN_Blend_Subtract.shader" t="Include" />
+                    <e p="SFN_Blend_VividLight.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Ceil" t="Include">
+                    <e p="SFN_Ceil.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ChannelBlend" t="Include">
+                    <e p="SFN_ChannelBlend.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Clamp" t="Include">
+                    <e p="SFN_Clamp.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Clamp01" t="Include">
+                    <e p="SFN_Clamp01.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Code" t="Include">
+                    <e p="SFN_Code.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ComponentMask" t="Include">
+                    <e p="SFN_ComponentMask_CC1.shader" t="Include" />
+                    <e p="SFN_ComponentMask_CC2.shader" t="Include" />
+                    <e p="SFN_ComponentMask_CC3.shader" t="Include" />
+                    <e p="SFN_ComponentMask_CC4.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ConstantClamp" t="Include">
+                    <e p="SFN_ConstantClamp.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ConstantLerp" t="Include">
+                    <e p="SFN_ConstantLerp.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Cos" t="Include">
+                    <e p="SFN_Cos.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Cross" t="Include">
+                    <e p="SFN_Cross.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Cubemap" t="Include">
+                    <e p="SFN_Cubemap.shader" t="Include" />
+                  </e>
+                  <e p="SFN_DDX" t="Include">
+                    <e p="SFN_DDX.shader" t="Include" />
+                  </e>
+                  <e p="SFN_DDXY" t="Include">
+                    <e p="SFN_DDXY.shader" t="Include" />
+                  </e>
+                  <e p="SFN_DDY" t="Include">
+                    <e p="SFN_DDY.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Depth" t="Include">
+                    <e p="SFN_Depth.shader" t="Include" />
+                  </e>
+                  <e p="SFN_DepthBlend" t="Include">
+                    <e p="SFN_DepthBlend.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Desaturate" t="Include">
+                    <e p="SFN_Desaturate_DES.shader" t="Include" />
+                    <e p="SFN_Desaturate_REQONLY.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Distance" t="Include">
+                    <e p="SFN_Distance.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Divide" t="Include">
+                    <e p="SFN_Divide.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Dot" t="Include">
+                    <e p="SFN_Dot_ABS.shader" t="Include" />
+                    <e p="SFN_Dot_NEG.shader" t="Include" />
+                    <e p="SFN_Dot_NRM.shader" t="Include" />
+                    <e p="SFN_Dot_POS.shader" t="Include" />
+                    <e p="SFN_Dot_STD.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Exp" t="Include">
+                    <e p="SFN_Exp.shader" t="Include" />
+                  </e>
+                  <e p="SFN_FaceSign" t="Include">
+                    <e p="SFN_FaceSign.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Floor" t="Include">
+                    <e p="SFN_Floor.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Fmod" t="Include">
+                    <e p="SFN_Fmod.shader" t="Include" />
+                  </e>
+                  <e p="SFN_FogColor" t="Include">
+                    <e p="SFN_FogColor.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Frac" t="Include">
+                    <e p="SFN_Frac.shader" t="Include" />
+                  </e>
+                  <e p="SFN_FragmentPosition" t="Include">
+                    <e p="SFN_FragmentPosition.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Fresnel" t="Include">
+                    <e p="SFN_Fresnel_EXP.shader" t="Include" />
+                    <e p="SFN_Fresnel_NRM.shader" t="Include" />
+                    <e p="SFN_Fresnel_NRM_EXP.shader" t="Include" />
+                    <e p="SFN_Fresnel_REQONLY.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Get" t="Include">
+                    <e p="SFN_Get.shader" t="Include" />
+                  </e>
+                  <e p="SFN_HalfVector" t="Include">
+                    <e p="SFN_HalfVector.shader" t="Include" />
+                  </e>
+                  <e p="SFN_HsvToRgb" t="Include">
+                    <e p="SFN_HsvToRgb.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Hue" t="Include">
+                    <e p="SFN_Hue.shader" t="Include" />
+                  </e>
+                  <e p="SFN_If" t="Include">
+                    <e p="SFN_If.shader" t="Include" />
+                  </e>
+                  <e p="SFN_InverseLerp" t="Include">
+                    <e p="SFN_InverseLerp.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Length" t="Include">
+                    <e p="SFN_Length.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Lerp" t="Include">
+                    <e p="SFN_Lerp.shader" t="Include" />
+                  </e>
+                  <e p="SFN_LightAttenuation" t="Include">
+                    <e p="SFN_LightAttenuation.shader" t="Include" />
+                  </e>
+                  <e p="SFN_LightColor" t="Include">
+                    <e p="SFN_LightColor.shader" t="Include" />
+                  </e>
+                  <e p="SFN_LightPosition" t="Include">
+                    <e p="SFN_LightPosition.shader" t="Include" />
+                  </e>
+                  <e p="SFN_LightVector" t="Include">
+                    <e p="SFN_LightVector.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Log" t="Include">
+                    <e p="SFN_Log_LOG.shader" t="Include" />
+                    <e p="SFN_Log_LOG10.shader" t="Include" />
+                    <e p="SFN_Log_LOG2.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Matrix4x4" t="Include">
+                    <e p="SFN_Matrix4x4.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Matrix4x4Property" t="Include">
+                    <e p="SFN_Matrix4x4Property.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Max" t="Include">
+                    <e p="SFN_Max_2.shader" t="Include" />
+                    <e p="SFN_Max_3.shader" t="Include" />
+                    <e p="SFN_Max_4.shader" t="Include" />
+                    <e p="SFN_Max_5.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Min" t="Include">
+                    <e p="SFN_Min_2.shader" t="Include" />
+                    <e p="SFN_Min_3.shader" t="Include" />
+                    <e p="SFN_Min_4.shader" t="Include" />
+                    <e p="SFN_Min_5.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Multiply" t="Include">
+                    <e p="SFN_Multiply_2.shader" t="Include" />
+                    <e p="SFN_Multiply_3.shader" t="Include" />
+                    <e p="SFN_Multiply_4.shader" t="Include" />
+                    <e p="SFN_Multiply_5.shader" t="Include" />
+                  </e>
+                  <e p="SFN_MultiplyMatrix" t="Include">
+                    <e p="SFN_MultiplyMatrix.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Negate" t="Include">
+                    <e p="SFN_Negate.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Noise" t="Include">
+                    <e p="SFN_Noise.shader" t="Include" />
+                  </e>
+                  <e p="SFN_NormalBlend" t="Include">
+                    <e p="SFN_NormalBlend.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Normalize" t="Include">
+                    <e p="SFN_Normalize.shader" t="Include" />
+                  </e>
+                  <e p="SFN_NormalVector" t="Include">
+                    <e p="SFN_NormalVector.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ObjectPosition" t="Include">
+                    <e p="SFN_ObjectPosition.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ObjectScale" t="Include">
+                    <e p="SFN_ObjectScale_Default.shader" t="Include" />
+                    <e p="SFN_ObjectScale_Reciprocal.shader" t="Include" />
+                  </e>
+                  <e p="SFN_OneMinus" t="Include">
+                    <e p="SFN_OneMinus.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Panner" t="Include">
+                    <e p="SFN_Panner_DIST.shader" t="Include" />
+                    <e p="SFN_Panner_REQONLY.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Parallax" t="Include">
+                    <e p="SFN_Parallax_DEP.shader" t="Include" />
+                    <e p="SFN_Parallax_DEP_REF.shader" t="Include" />
+                    <e p="SFN_Parallax_REF.shader" t="Include" />
+                    <e p="SFN_Parallax_REQONLY.shader" t="Include" />
+                    <e p="SFN_Parallax_UV.shader" t="Include" />
+                    <e p="SFN_Parallax_UV_DEP.shader" t="Include" />
+                    <e p="SFN_Parallax_UV_DEP_REF.shader" t="Include" />
+                    <e p="SFN_Parallax_UV_REF.shader" t="Include" />
+                  </e>
+                  <e p="SFN_PixelSize" t="Include">
+                    <e p="SFN_PixelSize.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Posterize" t="Include">
+                    <e p="SFN_Posterize.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Power" t="Include">
+                    <e p="SFN_Power.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ProjectionParameters" t="Include">
+                    <e p="SFN_ProjectionParameters.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Reciprocal" t="Include">
+                    <e p="SFN_Reciprocal.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Reflect" t="Include">
+                    <e p="SFN_Reflect.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Relay" t="Include">
+                    <e p="SFN_Relay.shader" t="Include" />
+                  </e>
+                  <e p="SFN_RemapRange" t="Include">
+                    <e p="SFN_RemapRange.shader" t="Include" />
+                  </e>
+                  <e p="SFN_RemapRangeAdvanced" t="Include">
+                    <e p="SFN_RemapRangeAdvanced.shader" t="Include" />
+                  </e>
+                  <e p="SFN_RgbToHsv" t="Include">
+                    <e p="SFN_RgbToHsv.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Rotator" t="Include">
+                    <e p="SFN_Rotator_ANG.shader" t="Include" />
+                    <e p="SFN_Rotator_PIV.shader" t="Include" />
+                    <e p="SFN_Rotator_PIV_ANG.shader" t="Include" />
+                    <e p="SFN_Rotator_PIV_SPD.shader" t="Include" />
+                    <e p="SFN_Rotator_PIV_SPD_ANG.shader" t="Include" />
+                    <e p="SFN_Rotator_REQONLY.shader" t="Include" />
+                    <e p="SFN_Rotator_SPD.shader" t="Include" />
+                    <e p="SFN_Rotator_SPD_ANG.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Round" t="Include">
+                    <e p="SFN_Round.shader" t="Include" />
+                  </e>
+                  <e p="SFN_SceneColor" t="Include">
+                    <e p="SFN_SceneColor.shader" t="Include" />
+                  </e>
+                  <e p="SFN_SceneDepth" t="Include">
+                    <e p="SFN_SceneDepth.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ScreenParameters" t="Include">
+                    <e p="SFN_ScreenParameters.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ScreenPos" t="Include">
+                    <e p="SFN_ScreenPos.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Set" t="Include">
+                    <e p="SFN_Set.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Sign" t="Include">
+                    <e p="SFN_Sign.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Sin" t="Include">
+                    <e p="SFN_Sin.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Smoothstep" t="Include">
+                    <e p="SFN_Smoothstep.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Sqrt" t="Include">
+                    <e p="SFN_Sqrt.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Step" t="Include">
+                    <e p="SFN_Step.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Subtract" t="Include">
+                    <e p="SFN_Subtract.shader" t="Include" />
+                  </e>
+                  <e p="SFN_SwitchProperty" t="Include">
+                    <e p="SFN_SwitchProperty.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Tan" t="Include">
+                    <e p="SFN_Tan.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Tangent" t="Include">
+                    <e p="SFN_Tangent.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Tex2d" t="Include">
+                    <e p="SFN_Tex2d_MIP.shader" t="Include" />
+                    <e p="SFN_Tex2d_NoInputs.shader" t="Include" />
+                    <e p="SFN_Tex2d_UV.shader" t="Include" />
+                    <e p="SFN_Tex2d_UV_MIP.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Tex2dAsset" t="Include">
+                    <e p="SFN_Tex2dAsset.shader" t="Include" />
+                  </e>
+                  <e p="SFN_TexCoord" t="Include">
+                    <e p="SFN_TexCoord.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Time" t="Include">
+                    <e p="SFN_Time.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Transform" t="Include">
+                    <e p="SFN_Transform.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Transpose" t="Include">
+                    <e p="SFN_Transpose.shader" t="Include" />
+                  </e>
+                  <e p="SFN_Trunc" t="Include">
+                    <e p="SFN_Trunc.shader" t="Include" />
+                  </e>
+                  <e p="SFN_UVTile" t="Include">
+                    <e p="SFN_UVTile.shader" t="Include" />
+                  </e>
+                  <e p="SFN_VectorProjection" t="Include">
+                    <e p="SFN_VectorProjection.shader" t="Include" />
+                  </e>
+                  <e p="SFN_VectorRejection" t="Include">
+                    <e p="SFN_VectorRejection.shader" t="Include" />
+                  </e>
+                  <e p="SFN_VertexColor" t="Include">
+                    <e p="SFN_VertexColor.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ViewPosition" t="Include">
+                    <e p="SFN_ViewPosition.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ViewReflectionVector" t="Include">
+                    <e p="SFN_ViewReflectionVector.shader" t="Include" />
+                  </e>
+                  <e p="SFN_ViewVector" t="Include">
+                    <e p="SFN_ViewVector.shader" t="Include" />
+                  </e>
+                </e>
+                <e p="Inspectors" t="Include">
+                  <e p="ShaderForgeInspector.cs" t="Include" />
+                  <e p="ShaderForgeMaterialInspector.cs" t="Include" />
+                </e>
+                <e p="Shader Presets" t="Include">
+                  <e p="PresetBasic.shader" t="Include" />
+                  <e p="PresetCustomLighting.shader" t="Include" />
+                  <e p="PresetParticleAdditive.shader" t="Include" />
+                  <e p="PresetParticleAlphaBlended.shader" t="Include" />
+                  <e p="PresetParticleMultiplicative.shader" t="Include" />
+                  <e p="PresetPBR.shader" t="Include" />
+                  <e p="PresetPostEffect.shader" t="Include" />
+                  <e p="PresetSky.shader" t="Include" />
+                  <e p="PresetSprite.shader" t="Include" />
+                  <e p="PresetUnlit.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="ZappaTools" t="Include">
+          <e p="BlankSpace" t="Include">
+            <e p="BlankSpace.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="BlankSpaceEdit.cs" t="Include" />
+            </e>
+          </e>
+          <e p="BoolSwitch" t="Include">
+            <e p="_BoolSwitches.cs" t="Include" />
+            <e p="BoolSwitch.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="BoolSwitchWindow.cs" t="Include" />
+              <e p="CreateEditorSwitches.cs" t="Include" />
+            </e>
+          </e>
+          <e p="COLOR" t="Include">
+            <e p="COLOR.cs" t="Include" />
+            <e p="COLOR_Info.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="COLORWindow.cs" t="Include" />
+            </e>
+            <e p="Example" t="Include">
+              <e p="ShowCOLORs.cs" t="Include" />
+            </e>
+          </e>
+          <e p="DRAW" t="Include">
+            <e p="DRAW.cs" t="Include" />
+            <e p="DRAW_Classes.cs" t="Include" />
+            <e p="DRAW_Info.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="+DRAW_Execution.cs" t="Include" />
+            </e>
+            <e p="EnableDRAW.cs" t="Include" />
+            <e p="Resources" t="Include">
+              <e p="DRAW_Polygon.shader" t="Include" />
+            </e>
+            <e p="vectorArrayExt.cs" t="Include" />
+          </e>
+          <e p="EditorSceneLayers" t="Include">
+            <e p="Editor" t="Include">
+              <e p="EditorSceneLayers.cs" t="Include" />
+            </e>
+            <e p="SceneLayers.cs" t="Include" />
+          </e>
+          <e p="LogDisplay" t="Include">
+            <e p="LogShow.cs" t="Include" />
+          </e>
+          <e p="QuickSelector" t="Include">
+            <e p="Editor" t="Include">
+              <e p="_QS_ProjectList.cs" t="Include" />
+              <e p="QS_ListManager.cs" t="Include" />
+              <e p="QuickSelector.cs" t="Include" />
+            </e>
+            <e p="Guide.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="QS_List.cs" t="Include" />
+              <e p="QS_SceneList.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ScriptInfo" t="Include">
+            <e p="Editor" t="Include">
+              <e p="InspectorHeaderDrawer.cs" t="Include" />
+            </e>
+            <e p="InspectorHeader.cs" t="Include" />
+          </e>
+          <e p="StaticReset" t="Include">
+            <e p="StaticReset.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SPIN UP.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+  <component name="RiderRiderContentModelStore">
+    <excludedPaths>
+      <Path>Temp</Path>
+      <Path>Library</Path>
+    </excludedPaths>
+  </component>
+</project>

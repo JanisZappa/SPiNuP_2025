@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: onlyArms
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: GuyRot1:polySurface1
+    m_Weight: 0
+  - m_Path: Main
+    m_Weight: 0
+  - m_Path: Main/HandAnchor
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms
+    m_Weight: 1
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm
+    m_Weight: 1
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/LeftArm/pasted__t
+      1
+    m_Weight: 1
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm
+    m_Weight: 1
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Arms/RightArm/pasted__t
+      2
+    m_Weight: 1
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Head/pasted__t
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/LeftLeg/pasted__t
+      3
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg
+    m_Weight: 0
+  - m_Path: Main/HandAnchor/FootAnchor/ShoulderLean/HipLean/Body/Legs/RightLeg/pasted__t
+      4
+    m_Weight: 0

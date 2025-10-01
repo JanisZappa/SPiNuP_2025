@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 443f8bd17f5b82c499b9d8e409527694, type: 3}
+  m_Name: CostumeColor_Zombie
+  m_EditorClassIdentifier: 
+  colors:
+  - partType: 1
+    colorID: 4093
+    matCap: 0
+    realColor: {r: 0.6784314, g: 0.8470589, b: 0.7294118, a: 1}
+  - partType: 0
+    colorID: 4094
+    matCap: 0
+    realColor: {r: 0.5411765, g: 0.7490196, b: 0.5411765, a: 1}
+  - partType: 14
+    colorID: 4094
+    matCap: 2
+    realColor: {r: 0.5411765, g: 0.7490196, b: 0.5411765, a: 1}
+  - partType: 9
+    colorID: 4063
+    matCap: 0
+    realColor: {r: 0.18598615, g: 0.55494565, b: 0.58823526, a: 1}
+  - partType: 7
+    colorID: 4093
+    matCap: 2
+    realColor: {r: 0.6784314, g: 0.8470589, b: 0.7294118, a: 1}
+  - partType: 10
+    colorID: 4063
+    matCap: 0
+    realColor: {r: 0.18598615, g: 0.55494565, b: 0.58823526, a: 1}
+  - partType: 2
+    colorID: 4095
+    matCap: 2
+    realColor: {r: 0.31806877, g: 0.7774884, b: 0.8161765, a: 1}

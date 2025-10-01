@@ -1,0 +1,26 @@
+2048 % 128 = 16
+256 % 16 = 16
+16 * 256 = 4096
+8  * 256 = 2048
+
+
+lets say (Color) is 1788 and (MatCap) is 3
+then I write into (R) = (Color) % 256 = 1788 - (6 * 256 = 1536) = 252
+         and into (G) = (6 * 16 = MatCapOffset) + (MatCap) = 99
+
+
+and I read 
+	(R) = 252 and (G) = 99
+then
+	colorOffset = (G) / 16 = 6
+	(Color)  = 256 * colorOffset + (R) = 1788
+	(MatCap) = (G) % 16 = 99 - 96 = 3
+	
+	
+	
+	
+(B) should be the shadowmask
+
+
+
+

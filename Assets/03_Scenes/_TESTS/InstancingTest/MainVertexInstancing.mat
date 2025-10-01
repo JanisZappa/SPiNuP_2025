@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MainVertexInstancing
+  m_Shader: {fileID: 4800000, guid: 24e4f866bf3c4fc4a92a1a653046cf5b, type: 3}
+  m_ShaderKeywords: USETEX_OFF
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    SimpleToggle: ON
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - MatCap:
+        m_Texture: {fileID: 2800000, guid: 6adfdf0d1a03e6f459c67a0b5f0cf0a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap:
+        m_Texture: {fileID: 2800000, guid: 6adfdf0d1a03e6f459c67a0b5f0cf0a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - MYTOGGLE: 0
+    - SIMPLE: 0
+    - SimpleToggle: 1
+    - USETEX: 0
+    m_Colors:
+    - _Color: {r: 0.7794118, g: 0.37784877, b: 0.32093424, a: 1}

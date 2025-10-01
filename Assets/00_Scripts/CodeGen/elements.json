@@ -1,0 +1,171 @@
+{
+	"Items":
+	[
+		{ 
+			"name"  : "Stick",
+			"info"  : ["Shake", "Grab", "Move", "Button", "!Item"], "group" : ["Stick"],
+			"inst"  : 50, "damp"  : 15, "accel" : 0.05
+		},
+		{ 
+			"name"  : "WarpStickA",
+			"info"  : ["Shake", "Grab", "Warp", "Warp_Start", "Warp_Side", "Button"],
+			"inst"  : 20, "damp"  : 15, "accel" : 0.05, "debug" : "green.lime"
+		},
+		{ 
+			"name"  : "WarpStickB",
+			"info"  : ["Shake", "Grab", "Warp", "Warp_Side"],
+			"inst"  : 20, "damp"  : 15, "accel" : 0.05, "debug" : "green.lime"
+		},
+		{ 
+			"name"  : "WarpStickC",
+			"info"  : ["Shake", "Grab", "Warp", "Warp_Start", "Button"],
+			"inst"  : 20, "damp"  : 15, "accel" : 0.05, "debug" : "green.lime"
+		},
+		{ 
+			"name"  : "WarpStickD",
+			"info"  : ["Shake", "Grab", "Warp"],
+			"inst"  : 20, "damp"  : 15, "accel" : 0.05, "debug" : "green.lime"
+		},
+		{
+			"name"  : "StartStick",
+			"info"  : ["Shake", "Grab", "Move"], "group" : ["Stick"],
+			"inst"  : 1, "radius": 0.17, "damp"  : 15, "accel" : 0.05
+		},
+		{
+			"name"  : "EndStick",
+			"info"  : ["Shake", "Grab", "Move"], "group" : ["Stick"],
+			"inst"  : 1, "radius": 0.17, "damp"  : 15, "accel" : 0.05
+		},
+		{
+			"name"  : "ArrowStick",
+			"info"  : ["Shake", "Grab", "Move"], "group" : ["Stick"],
+			"inst"  : 20, "radius": 0.17, "damp"  : 15, "accel" : 0.05
+		},
+		{ 
+			"name"  : "Bouncy",
+			"info"  : ["Shake", "Button", "Action"],
+			"radius": 1, "inst"  : 50, "mass"  : 2, "damp"  : 14, "accel" : 0.3,
+			"debug" : "red.tomato"
+		},
+		{ 
+			"name"  : "InOutStick",
+			"info"  : ["Shake"]
+		},
+		{ 
+			"name"  : "Branch",
+			"info"  : ["Shake", "Grab", "Move", "Button"],
+			"radius": 0.17,	"inst"  : 20, "mass"  : 0.75, "damp"  : 8, "accel" : -0.05
+		},
+		{ 
+			"name"  : "Probe",
+			"info"  : ["Shake", "Move", "Button"], "group" : ["Probes"],
+			"radius": 1, "inst"  : 20, "damp"  : 5, "accel" : -0.15
+		},
+		{
+			"name"  : "Probe_Orange",
+			"info"  : ["Shake", "Move", "Button"], "group" : ["Probes"],
+			"radius": 1, "inst"  : 20, "damp"  : 4, "accel" : -0.17
+		},
+		{ 
+			"name"  : "Stick_SmallTip",
+			"info"  : ["Shake", "Grab", "Move", "Button"], "group" : ["Stick"],
+			"inst"  : 50, "damp"  : 15, "accel" : 0.05
+		}
+	],
+
+	
+	
+
+	"Collectables":
+	[
+		{
+			"name"  : "Coin",
+			"info"  : ["Move", "Shake","Button", "!Collectable"], "group" : ["Pills"],
+			"radius": 1.25, "inst"  : 400, "mass"  : 0.25, "damp"  : 275, "accel" : 0.3, "lazy"  : 0.175, 
+			"value" : 100
+		},
+		{
+			"name"  : "Pill",
+			"info"  : ["Move", "Shake", "Button"], "group" : ["Pills"],
+			"radius": 1.25, "inst"  : 200, "mass"  : 0.25, "damp"  : 275, "accel" : 0.3, "lazy"  : 0.175,
+			"value" : 200
+		},
+		{
+			"name"  : "Pill_Green",
+			"info"  : ["Move", "Shake", "Button"], "group" : ["Pills"],
+			"radius": 1.25, "inst"  : 200, "mass"  : 0.25, "damp"  : 275, "accel" : 0.3, "lazy" : 0.175,
+			"value" : 500
+		}
+	],
+	
+	
+	
+	
+	"Fluff":
+	[
+		{
+			"name"  : "DebugCube",
+			"info"  : ["Hide", "Move", "Button", "!Fluff"], "group" : ["DebugCube"],
+			"radius": 0.5, "inst"  : 40
+		},
+		{
+			"name"  : "Flower",
+			"info"  : ["Shake", "Move", "Hide", "Button"], "group" : ["Flower"],
+			"radius": 0.7, "inst"  : 40, "mass"  : 0.2, "damp"  : 10, "accel" : -0.2, "lazy"  : 0.175
+		},
+		{
+			"name"  : "Flower2",
+			"info"  : ["Shake", "Move", "Hide", "Button"], "group" : ["Flower"],
+			"radius": 0.7, "inst" : 30, "mass" : 0.22, "damp" : 10, "accel" : -0.2, "lazy" : 0.175
+		},
+		{
+			"name"  : "Flower3",
+			"info"  : ["Shake", "Move", "Hide", "Button"], "group" : ["Flower"],
+			"radius": 0.7, "inst" : 20, "mass" : 0.2, "damp" : 10, "accel" : -0.2, "lazy"  : 0.195
+		},
+		{
+			"name"  : "Leaf",
+			"info"  : ["Shake", "Move", "Button"], "group" : ["Leaves"],
+			"radius": 0.8,  "inst"  : 40, "mass"  : 0.2, "damp"  : 8, "accel" : -0.2, "lazy" : 0.195
+		},
+		{
+			"name"  : "LeafBlue",
+			"info"  : ["Shake", "Move", "Button"], "group" : ["Leaves"],
+			"radius": 0.8, "inst" : 40, "mass"  : 0.18, "damp" : 7, "accel" : -0.2, "lazy" : 0.195
+		},
+		{
+			"name"  : "DebugCube2",
+			"info"  : ["Hide", "Move", "Button"], "group" : ["DebugCube"],
+			"radius": 0.5, "inst"  : 20
+		},
+		{
+			"name"  : "TrackGap",
+			"info"  : ["Hide", "Move"]
+		}
+	],
+
+	
+
+
+	"Tracks":
+	[
+		{
+			"name"  : "PingPong",
+			"info"  : ["TrackTurn", "Button", "!Track"],
+			"vector": 10,
+			"debug" : "yellow.fresh"
+		},
+		{
+			"name"  : "Circular",
+			"info"  : ["Button"],
+			"vector": 5,
+			"max"   : 20,
+			"debug" : "red.tomato"
+		},
+		{
+			"name"  : "Arc",
+			"info"  : ["TrackTurn", "TrackGrow", "Button"],
+			"vector": 5
+		}
+	]
+}

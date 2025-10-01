@@ -1,0 +1,33 @@
+{
+	"Clips":
+	[
+		{ 
+			"name"  : "Jump",
+			"info"  : ["IsJump", "Serializable"]
+		},
+		{
+			"name"  : "Swing",
+			"info"  : ["IsSwing"]
+		},
+		{
+			"name"  : "Bump",
+			"info"  : []
+		},
+		{
+			"name"  : "AirLaunch",
+			"info"  : ["IsJump", "Serializable"]
+		},
+		{
+			"name"  : "Dead",
+			"info"  : ["Serializable", "NotPlaying"]
+		},
+		{
+			"name"  : "Spawn",
+			"info"  : ["IsSwing", "Serializable"]
+		},
+		{
+			"name"  : "SlipOff",
+			"info"  : ["IsJump"]
+		}
+	]
+}

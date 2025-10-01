@@ -1,0 +1,7 @@
+//  NewSpinnerShadow  //
+    Vector3 up = placement.rot * V3.up;
+                                                                                         Vector2 flatUp = up.SetZ(0);
+                                                                                         float multi = flatUp.magnitude / 1f;
+                                                                                                      
+                                                                                         float angle = Q.FTR(V3.up, (placement.rot * V3.up).SetZ(0).normalized).eulerAngles.z * Mathf.Deg2Rad;
+                                                                                         nSS.UpdateTransform(placement.pos, bend, turn, angle, squashScale.MultiY(multi));

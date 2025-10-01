@@ -1,0 +1,1300 @@
+?	?	?	?	?	?	?	?
+
+AnimLerps are basically my animationcurves
+Each one lerps a float
+
+I have divided the body into two halfs ... each with its own animationslerps
+
+
+Would be cool if I could combine it somewhat
+
+
+
+
+
+
+
+
+
+OOOOOF
+Man this is so complicated 
+So I have array Slots for each Item to hold states for example
+So ID maps to Array position
+
+
+Then there are Lists where I want to get the "item" that fits a time
+
+Then there are Lists(Squash) where several Items can fit a time
+There I add them together
+
+In those time-lookup-cases I never want to start at the very beginning
+
+I don't like this relaying via static classes like "SQUASH.GetSquash(int id).GetSquash(float time)"
+
+
+Make some secondary animations and effects not timeline dependent ... they just happen
+So even if you pause they animate 
+
+Joint Force is different 
+Figure out how to do it
+
+
+Actually make level dependent on loaded level
+
+Tell Item how extruded it is
+Depth?
+
+
+
+Describe somehow what kind of details a zone can have
+json propably
+
+
+
+extrusion zones front seams back seams
+make pieces
+specific front pieces back pieces
+
+
+
+mark extrusion seams
+
+extrusion rules per zone
+(need room on top for roof - or roots in the bottom)
+
+Building / Air      Extrude / Flat      Zone Transition     Zones       Size        Surface     Side    Variation
+15                  15                  15                  9999        99          9           1       99
+
+1515159999999199
+
+15 Zones!!
+Side    Corners     Size    Surface
+1       999999      99      9         
+
+Variations are extra
+
+
+Gaps per zone Rules
+Windows not in gaps 
+One cell things like pillars and drainage pipes
+Balconys 
+Split Holes in two?
+
+
+
+Detect Seams between Zones
+Make sure that each Cell has only Transition between 2 zones (and air (EDGE))
+
+
+
+Clouds
+Pillars
+
+
+Variations of Piece ...
+Masks to Houdini
+
+
+Fix Bottom
+Grow Corners inwards if possible
+Grow Edges Inwards if possible
+Generate Houdini Tiles for it
+
+Grow Corners outwards if possible
+Grow Edges outwards if possible
+Generate Houdini Tiles for it
+
+
+Windows, Pillars, Roofs
+
+
+
+THE MISSON:
+
+Generate Tile Receipts for Houdini Tiles
+Meaning what are the Cell Dimensions
+
+Corners | Dimensions | Zones
+1001 | 13 | 0100
+
+
+
+
+Handle Edges seperatley from Fills
+Edges always get displayed but only the fills of the current side
+
+Detect Edges
+
+
+Use more biomes
+Try rect biomes
+
+
+
+* How To Speed up Workflow if total export/import time is that long ...
+    --------First Of All Just Export The Current Piece
+    --------Another Node with Buttons and Configurations that I can apply to the Switch Node (Python)
+    Some kind of test piece
+    So a network where you can wire modeling modules together (roof + citywall) 
+
+* Houdini Studio Setup
+
+* ColorPalette 1024 or 2048 Hue Scale Colors
+  The Rest Driven by Houdini
+  Whenever I press update Colors Button Houdini Updates Color Palette
+  and sends new Txt File to Unity
+  Unity checks it on import and makes the same ColorPalettte as Houdini
+
+* Rework Shader Shadows so that Big and Cast are combined
+
+
+
+
+Sin Curve Fun
+ElementTypeAnim has to go
+
+
+
+
+Spin convert to radians (third try)
+Turn Arms and Legs as well
+Make Arms and Legs always stick when grabbing
+Floor Bounce
+
+
+
+
+Generalize Event System
+Event always get placed into a timeline
+They fire when the timecursor passes them
+Some of them every time (Sounds)
+others only once (Score)
+the timeline gets trimmed before rewind point
+future events can be removed when the player rewinds
+removal is only happening for specified player
+
+
+
+
+
+
+
+
+
+
+
+Split up cell lists into sides
+Or split up cells into sides frontcells back cells
+
+
+Do the modolo index thing to squashes
+
+Generalise StateChange
+
+
+
+
+
+
+
+
+Events
+Squash
+Shake
+Scoring and StickColorChange
+ColorChanging
+
+
+
+//  Keyboard
+
+ABCDEFG 123
+HIJKLMN 456
+OPQRSTU 789
+VWXYZ     0
+
+ÄÖÜ
+
+
+//  User Flow  //
+
+1. Checking if the Game is connected to an User Account
+   The -Name -Email -Password is saved in an encrypted file if the login succeded
+   and the file doesn't exist or the values are different
+   
+2. Create an Account or log into an account
+
+3. Create User  -Name -Email -Password
+          Login -Name -Email -Password
+   
+4. Server gives back a response
+   -Success
+   -Wrong Email
+   -Wrong Password
+   
+5. If new game show Tutorial and create Character
+
+6. If already competing
+   - If there are Results for Last Day show the to player (Trainer)
+
+   - Get GameDay
+   - Sync Device Time with Server Time
+   - Get Highscore Table
+   - Get Friend Stats
+   - Get gossip
+   - Get Prices Preview
+
+
+//  Player  // 
+//  Visible to You
+        - Friends
+        - Result for last Day
+
+
+//  Visible to Everyone
+    Global:
+        - Achievements
+        - Level
+        -  Best Score
+        -  Best Height
+        -  Days Played
+        - Total Plays
+        - DeviceType
+        
+        - Country (optional)
+
+    That day:
+        - Starting Number
+        - Number of trys
+        - Score
+        - Height
+
+
+//  Global Stats  //
+
+Daily PlayerCount
+Country Average
+Country PlayerCount
+
+
+
+
+So there is a newsperson behind a desk
+And a newsperson on the field (maybe several)
+Trainer
+
+
+Preperation Room with TV
+News on TV
+
+
+So under Level there are several rooms
+
+
+000 None
+
+001 Skin
+002 Eye
+003 Pupil
+004 Mouth
+005 Nose
+006 Ear
+007 Brow
+008 Hair
+009 Beard
+010 Shirt
+
+011 Pants
+012 Socks
+013 Underwear
+014 Accessory
+015 Belt
+
+
+
+GameManager States
+
+                
+
+
+
+
+
+Generate Color Palette
+Put it on the same texture as other textures -> one shader
+
+
+
+
+
+
+
+
+
+ForeForound Mesh
+BranchMesh
+
+
+
+Camera Swipe Range is relative to Side Dir
+
+
+Inertia
+
+
+The weightforce thing is also questionably (it being serialized and not used by the jump initialization)
+
+Seems to be stupid to actually shift each clip and stuff ...
+I think it's only important because of the shifted items
+But the base spinner behaviour doesn't care if its the shift item or the base item it interacts with
+Only for the actual animation it asks for the item animation and there something should interject and say ... no this is your actual item
+Also when it pushes it's interactions on the surrounding items something needs to interpret
+But it's bad to do this overwrite check thing each frame ... (right?)
+
+Get Rid of SpinMulti (AGAIN!!!)
+
+
+Collision Progress
+
+
+Collision TestScene with Circle and Line (with shell)
+Just keep solving it
+Count Collisions
+
+
+
+
+
+We'll see whats next then (propably spin stuff)
+
+Ring Indicator
+
+
+
+
+Stacking Rectangles without tipping over
+Stack from left and Right as Well
+Different Stacking Parameters dependent on Height
+Different Stacking Parameters dependent on Zone Proximity
+Use Broad Strokes Lines as Zones
+
+
+
+
+
+linktype Action
+
+elementtype action
+
+so when I connect (maybe also when I jump)
+I tell the ActorAnimator to do an action
+
+
+
+So I want to know the distance to an element
+Tracks should consider the biggest item radius
+Item should consider its radius
+
+
+element getdistance
+
+
+
+Measure distance between spinner and track
+maybe even return a lerp as the closest point
+if the lerp of an item is close enough (explain) then measure actual distance ...
+
+Might be more expensive ... but is kinda more pure math
+
+
+Dot Product to Rad 
+
+Must be easy ...........!!!!!!
+
+
+start with is spinner close enough to track
+
+
+state stuff
+
+
+
+so this is when it started
+and this is where it ended
+
+if it now starts earlier than it endeded
+look for how long this is going on
+
+if it starts later 
+safe the last range to a vector2 
+
+if its over, do the same
+
+
+
+clipbounds returns time of the last clipboundend
+
+next update we'll start there ....
+
+
+.1f step check
+-r
+
+
+
+00000000000
+11111111111
+00001111000
+11110000111
+
+
+
+boundary prediction
+if jump add all jumpbounds
+if swing add for one loop
+
+problem is that you don't know how long the spinner will be on a stick
+(in a replay we do .. but whatever)
+so when we jump we actually know an we have to update everyone
+so while on a stick we have to check boundarys regulary .. 
+
+so maybe every second we look one loop into the future
+if we encounter an overlap we check when it starts occuring
+if we already got that encounter then we skip
+if not we add
+
+if we already expected an encounter that now doesn't happen anymore we erase that
+Update Avoidance system accordingly
+
+
+If a spinner already started avoiding because of an presumed encounter that now doesn't happen anymore ... 
+than it can go back to normal after
+
+
+
+
+
+
+
+
+Frustum update
+Check Cells
+Check if Cells are Completely inside CamBounds or Not
+If not check each Item bounds and each Track Subbound for intersection
+
+
+
+
+
+Apply FatSquashing to RigPart
+
+
+There is a damp factor. That de
+
+
+
+
+Generalised Mesh Plane Generation algorithm !?!?!?!?! (I'm repeating myself ;/)
+
+
+!!!!!!!
+ShadowSpine
+Then I can get the points of the shadow spine which averages the arms on top and the legs at the bottom
+
+-
+-
+-
+-
+-
+-
+
+
+!!!!!!!!!!!
+Put in the new squashing behaviour (Kinda like a Shake .. Huh!?)
+
+Squash isn't part of the pose anymore but Spinner.Squash.Get(int ID, float time)
+can be asked for the current squash
+Just like a Stick Shake they can be precomputed and also erased again if we rewind
+
+
+
+
+
+
+Define twist range
+Define bend range (For Elbows / Knees)
+
+    ........
+    ........
+    ........
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    xxxxxxxx
+    ........
+    ........
+    ........
+    
+    
+- Twist the Character around torso (Needs to happen first - Important for bend positions)
+
+
+. Limb bending for poses (Sharper bend at the elbow / knee)
+
+
+- Put in Hands for grabbing (Kinda like LEGO hands I think)
+
+
+- Extra Motion in Upper Body or Lower Body (Hip / Shoulders - For Looking around, Grabbing, etc ...)
+
+
+- Anticipate Impact
+
+
+- Jump Motion
+
+
+Turn and Twist the character
+Bend the Character
+Pose Rigpart Roots
+Set  Transforms
+
+
+
+
+OldList
+OldSet
+
+
+NewList 
+NewSet
+
+
+Reimplement old Rig (sigh ..) to compare again
+Get the the body to turn again
+Collect some Coins
+
+
+
+
+
+
+
+
+MakeTumblePose
+SinWave Body
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure out Wind That Track Creates
+Figure out Item Dip
+
+
+Item 
+
+
+
+
+
+Item that is still
+Item that is child of something
+Item that is parent of something and is child of something
+
+
+
+
+ShapeSet
+edges
+
+
+
+
+
+
+
+
+
+
+
+
+
+if track is different trackclass
+then switch tracks out in editmode will mean copying speed, size etc
+or resetting!
+
+
+Linear ->
+
+Get Track Length
+Linear AB
+Back Forth AB + BA
+
+
+
+What if each Item was its own class 
+inheriting from Item
+from it's own pool
+
+As well as each Track its own class
+inherting from track
+from it's own pool
+
+
+ID isn't hard baked into class anymore
+maybe getID where static int++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There could be a way to calculate a Squash Axis Alligned Bounding Box for each Pose
+just by including all Bone Positions
+Then I Would Know The Volume
+Anyway squashing the bones along that axis would require them to be parented to squashbones
+The actual SkinBones would have to counterrotate then  
+
+
+The chainbones of a part are actually chained
+That means I have to find out what alligning them to a circle means for each bone in the chain
+It should mean that each bone gets the same local rotation 
+
+
+
+
+
+
+
+
+
+
+Body Twist
+Body Bend Amount
+Body Bend Dir
+
+
+Bend And Twist Torso First
+
+
+
+
+
+
+Issue with the Limbs
+Either make the Part-Bones all localspace 
+or transform them all in rigspace
+
+
+
+
+Apply Whole Body Stretch
+(Should the Body Keep Its BendRadius And Keep that?)
+
+Body Knows It height and always uses that for bend
+If the Y Size Compresses it just isn't that far along that curve
+
+Arm    Body    Legs
+-      ----    -
+
+
+Radius Bend Gets Applied to Part and it either keeps straight or bends with the radius
+It Returns the segment length it occupies
+
+
+Compression is per part
+
+
+Body Bend (Maybe Bend For Hole Body and SubBends for Parts)
+How to still align Spinner to Surface)
+
+
+
+Pivot Lerp Defines which end aligns with Y Axis
+(swing also counter rotates bend so that both unscaled pivots are on the Y Axis) 
+
+
+
+BodyTwtst of Limbs alligns them between rootPoint and Pipe point
+
+
+
+
+
+InOutStick
+
+When Stick comes out of wall,
+all stickanim events that came before are neglected  (can be trimmed)
+
+While Diving in the leanrange gets lerped   (Important for Prediction)
+
+
+Prediction has to be able to work with it
+So Item has a ZAnim
+
+Could work like position
+If Element has parent then ZAnim is the ZAnim of the parent
+
+
+
+
+
+
+
+
+
+
+
+Divide Elements up into height groups
+Should propably be cell based
+0000 - 0999
+1000 - 1999
+2000 - 2999
+
+So, if I was conntected to 2001
+And will connect to 82
+I know it's above me
+
+
+Maybe there is a limited amount of stuff each segment
+
+Disk -- Circular
+
+Track with dive pattern
+
+
+The SubClass Route
+Group has elements 
+
+Group has behaviour
+
+
+Group may have parent
+
+Motion
+
+If I want controlling units for several sticks .. how about that?
+
+
+
+ClubMaster
+
+- Restructure ReplaySpawning
+- Implement Timeout for ClubMembers (shouldn't search all the time)
+- Optimise Character Spawning (Maybe take several Frames)
+    -   Get Replay
+    -   Is it usable ?
+    -   Offset
+    -   Create Costume
+    -   Spawn
+    
+- Avoid (Both) Frustums (Maybe a bound for both)
+- Also avoid the Frustum in the Past ... (For Rewind Amount)
+- Spawn in Frustum when Player Starts
+    
+- Spawn more Characters
+
+
+
+Camera use pathlink etc...
+
+
+Collision Rings
+Clip_Jump grab
+
+
+I have the general problem that the level will generate forever
+The idea is that the level gets split up into segments
+That way each segment can reuse ItemIDs and ItemStates etc
+
+
+Connection 
+
+Connection List activeConnections;
+
+
+
+ConnectionManager
+    RangeChange
+    Check which Connections should be active
+    
+    Path Guides are just there to guide the Camera along a path
+    They don't save any state 
+    They just appear when the range changes
+    
+    
+    Jump Connection 
+    if(!done && NewConnectionEvent)
+        
+    
+    
+    
+There might be a lot of items who don't have any path connection
+So storing the info inside an Item is shitty
+
+
+Connection
+
+    ConnectionType
+
+    Element A
+    Element B
+    
+    
+    
+    Setup(element A, element B)
+    {
+        calculate bounds from element positions
+        Add to Cells
+    }
+    
+    
+Jump Connection . Connection
+{
+    bool done
+    
+    Setup(element A, element B)
+    {
+        base.Setup(elementA
+    }
+}
+
+
+
+Every Element can point at another element
+
+
+
+
+Connections should also be saved in cell
+
+
+Track.UpdateItemBounds:
+    SetPos
+    FindShortestSegment
+    ChangeMovementOrDeleteTrack()
+    
+    ModeCreator
+        EditTrackSize
+        EditTrackOffset
+        EditTrackAngle
+
+--------------------------------------------
+
+            Element
+     Group          Item    Fluff
+Track   Cluster
+
+
+
+
+Cell has list for items
+Cell has list for tracks
+
+these are the current items
+these are the current tracks
+    hey each track - what are your items
+    
+track knows which cells it's overlapping
+so maybe it can have a bool list for segments of a loop
+so
+visible, visible, visible, visible, notvisible, notvisible
+so after a track has been selected as visible
+it calculates segment visibility
+on update it checks if the item is visible
+
+So we divide the looptime into 4 let's say
+So the LevelManager not only sends an activeitem update when the cells change
+also when it "pulses"
+The it only asks the tracks to update their items that will be visible this pulse
+
+
+
+
+(Maybe an Element Can be attached to another Element)
+
+Items can be attached to Tracks and To Cluster
+Tracks can be attached to Cluster
+
+
+
+This thing could get out of hand fast
+The Cluster Idea
+
+
+
+I think it should be the case that an item, if it is attached to a track, shouldn't be a cell-element
+The track should, and also it can then be asked about its items
+
+
+
+Creator
+Place a Track independently
+Its always in motion of course
+
+
+
+Ellipse Ring
+Can an object still move at a steady pace?
+
+
+
+Maybe things can be attached with an Vector2 Offset
+Like a spinning disk with a wild bunch of items attached
+
+
+The main reason for all of this, is the fact, that I don't like items just hovering around, like it is right now
+They should either be
+    Attached to a Track, that is visible, and move around on it
+    Attached to some Geometry, that is moving them around  (Hand, Disk, Caruselle)
+    
+Also I like to place decorators on the wall, that are also moving with tracks/cluster
+
+
+    
+    
+Tracks could morph --- meh
+
+PingPong
+ConveyorBelt
+Circle
+Ellipse
+Disk
+Tree
+
+
+
+
+In Theory:
+GetItemsInBound
+    Get Items
+    Get Tracks
+
+
+
+
+!!! NEW RIG !!!
+
+Outer Arm Bend
+Pivot Transition
+So the Bodyparts already have an axis they are pointing along
+
+
+1. Squash stretch
+2. Pose
+3. Bend
+Add Animation Quaternions
+ 
+        
+Anchors
+    The Hand and FootAnchor are straight above and benath the tip pins
+    The distance is defined by the radius of the thing we're grabbing on to
+    During Jump each anchor lerps it's distance towards the value on contact
+    The Up Axis of the Anchor offset is defined by the lean of the bodypart
+    (Which is always on the x/y plane ?)
+   
+    
+BodyOffset
+    The bodyparts get transformed on the x-axis to put the pivot on the bodyline
+    
+    
+Create Rig From Costume
+    Load Torso and position at Zero     (defines Anchors for everything else)
+    Load Head  and position at Anchor
+    Load Arms  and position at Anchors
+    Load Legs  and position at Anchors
+    Find MidPoint and Shift Postions
+    Create Joints at Anchors
+    Rig Mesh
+    
+    
+Circle Thing
+    Measure Lengths
+    Do The Circle Thing
+    Added Motion For NonAttached Limbs
+    Turned Grabbing 
+    
+
+
+
+!!!   Slip Clip  !!!
+!!!   Group Track and/or Items     !!!
+!!!   Let's offset Player along the Stick (Players won't Collide)   !!!
+
+
+
+TODO
+
+Weight Influence of Player On Stick is Proportional
+To The Total PlayerWeight on the Stick
+
+Add Weight Event
+
+spinnerID
+Weight??
+Time
+Speed
+
+
+Remove Weight Event
+
+spinnerID
+Weight??
+Time
+Speed
+
+Connected Player :D ?!
+
+
+
+
+????????
+TimeSlicing is deactivated for now
+
+
+
+
+??????????
+InAirCollision
+Disable all Clips and Events that where to Follow CollisionTime
+
+
+
+
+???????????????????????????????????????
+How to get something done concerning Collision
+
+
+Collision-Clip should just be as long as the Character has Contact with the Level-Item
+It's followed by an "standard" Trajectory Clip
+
+
+
+???   Collision Testing should be done with the actual Character
+???   That means the First Clip of the ClipRecorder should be a Trajectory Clip
+???   OnLevelRestart should not always implant a default Swing-Clip into the SpinnerRecording
+
+
+
+Collision Testing should be a gameMode
+
+
+
+???   Spawn multiple Characters at once
+???   It makes Collision Testing easier and is a good step towards multiple character gameplay
+
+
+List The Last 20 Clips or so on Screen
+Clip-Debugging
+
+
+
+???????????????????????????????????????
+
+partnerstick logic goes into reactor
+
+NEXT
+
+Do the line gets alligned with circle surface with distance thing
+Try out some logic for soft collision with slide off
+If you get that right then this is on next level
+
+
+I jump
+I notice a Collision in prediction
+I adjust rotation for that
+Thats it
+What I know then is:
+That I will Collide with X at t
+So I can Prepare the character for that
+
+....
+
+next frame 
+I solve the collision and predict the trajectory again
+Will I collide again?
+Will I grab a Stick?
+Adjust rotation for that
+
+....
+
+So where is this next frame prediction The Cliprecorder could do it
+
+
+...
+
+More Complex Overlap Check
+step through looptime for both shapes
+
+
+
+UI Touch Interface
+Cast Problem StickWeightPlayer
+
+
+
+
+?	?	?	?	?	?	?	?
+
+????????? Collision Stuff ?????????
+________________
+LOGIC
+
+When the Spinner jumps it gets its SpinSpeed from the SwingData
+The SpinSpeed slows down constantly until it is zero
+We can calculate how long the Spinner is still spinning
+That's the maximum time we have to grab onto a stick
+After that the Spinner collides with a stick if it is in its pass
+
+Also we check the MV each SearchStep
+If we are flying too fast we crash as well
+
+________________
+COLLISION
+
+The basic idea is, that we adjust the SpinSpeed so that the Spinner never hits a stick
+with its hands or feet ( it should never look like it could have grabbed it)
+Maybe up to 45?
+
+Issues that need to be thought through:
+When we adjust the SpinSpeed, does the Spinner still hit?
+When we adjust the SpinSpeed, does the Spinner hit a stick we thought he had avoided?
+
+Maybe a way to go:
+If stick is close enough, we check for collision
+If there was none we keep looking for the next stick
+If there is a collision we check if we have to adjust the angle
+If not: DONE
+Else something clever
+
+?????????       ?????????
+
+
+????????? CRASH SPEED ?????????
+
+If the Spinner exeeds CrashSpeed he crashes and looses a Heart
+The he is stunned for StunTime
+Inside StunTime he Crashes as Well (Maybe less Damage)
+Lightning can Stun the Player 
+
+There can be a Super Cool Invincebility Item 
+that allows you too never Crash
+That way I can keep those super fast ridiculous Spins
+and they are more special ans satisfying
+
+If there ever is something like a coolnes factor that gets
+set by you playing in a confident way, then taht can also push the 
+CrashSpeed a bit higher
+
+?????????       ?????????
+
+
+????????? PRECISSION ?????????
+
+Prediction can still miss a stick
+Even though the player bounding box is bigger to detect a stick
+the radius of the player is exact
+That means a stick can be too far away on two successive steps
+
+I need something like a SphereCast
+Two circles and a box maybe ...
+More expensive of course
+
+?????????       ?????????
+
+
+Lets make the InOut behaviour be a different motiontype for now
+Later It would be great if it could get combined with other motions
+
+
+
+............................................		
+Close Misses should be a Proximity Pass
+-------------
+	
+- It can be used for the animation of the character
+- It can be used in combination with the camera viewrect for the Reactor
+- It can be used for Stick Proximity Sounds (Whoosh) 
+............................................
+
+
+
+.................................
+Understanding SP_Swing
+
+Variables
+*********
+spinAnimLerp:
+		0? - 360? mapped to 0 - 1 		
+		Set in Rotate - GetAngle
+.................................
+
+
+Input could also check Bot Inputs
+
+
+
+/*float tinyStep = stepLength * .5f;
+                                            flightTime -= tinyStep;
+            
+                                            for(int u = 0; u < 5; u++ )
+                                            {
+                                                tinyStep *= .5f;
+                
+                                                midPoint   = GamePhysics.Get_FlightPos(pos, flightTime, dirJumpV);
+                                                checkAngle = angle + GamePhysics.Get_SpinAngle_Deg(spin, flightTime);
+                                                bodyLine   = collisionLine.Rotate(checkAngle);
+                                                feetPos    = midPoint - bodyLine * .5f;
+                                                itemPos    = item.GetMoveState(time + flightTime).posAndLean;
+
+                                                flightTime += Line.IsCloserSqr(feetPos, bodyLine, itemPos, itemRadiusSqr)? -tinyStep : tinyStep;
+                                            }*/

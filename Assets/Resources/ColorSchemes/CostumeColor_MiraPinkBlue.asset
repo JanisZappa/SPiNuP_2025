@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 443f8bd17f5b82c499b9d8e409527694, type: 3}
+  m_Name: CostumeColor_MiraPinkBlue
+  m_EditorClassIdentifier: 
+  colors:
+  - partType: 1
+    colorID: 4056
+    matCap: 0
+    realColor: {r: 0.8310986, g: 0.9067384, b: 0.9264706, a: 1}
+  - partType: 0
+    colorID: 4064
+    matCap: 0
+    realColor: {r: 0.89705884, g: 0.67939013, b: 0.67939013, a: 1}
+  - partType: 14
+    colorID: 4065
+    matCap: 2
+    realColor: {r: 0.9485294, g: 0.8351209, b: 0.46031573, a: 1}
+  - partType: 9
+    colorID: 4066
+    matCap: 0
+    realColor: {r: 0.38927335, g: 0.6437846, b: 0.7352941, a: 1}
+  - partType: 7
+    colorID: 4062
+    matCap: 2
+    realColor: {r: 0.38235295, g: 0.32331315, b: 0.33315313, a: 1}
+  - partType: 10
+    colorID: 4067
+    matCap: 0
+    realColor: {r: 0.67288, g: 0.4977833, b: 0.6838235, a: 1}
+  - partType: 2
+    colorID: 3906
+    matCap: 2
+    realColor: {r: 0, g: 0, b: 0, a: 1}

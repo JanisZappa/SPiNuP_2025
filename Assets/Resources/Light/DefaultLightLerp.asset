@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecb5dae42df7cc34eb0f68e703531a69, type: 3}
+  m_Name: DefaultLightLerp
+  m_EditorClassIdentifier: 
+  lerps:
+  - t: 0
+    a: {fileID: 11400000, guid: c130eb52a5e217b45b2f0d1f6a5bb567, type: 2}
+    pow: 1
+    inversePow: 1
+  - t: 0.08
+    a: {fileID: 11400000, guid: f627a8e5cf351bb47965e13fa8a9a18c, type: 2}
+    pow: 3
+    inversePow: 1
+  - t: 0.5
+    a: {fileID: 11400000, guid: 057387ef2c0cc194b997e792122bb951, type: 2}
+    pow: 3
+    inversePow: 0
+  - t: 0.92
+    a: {fileID: 11400000, guid: f11142ca8ae3e86449c877548b39fa4f, type: 2}
+    pow: 1
+    inversePow: 0
+  - t: 1
+    a: {fileID: 11400000, guid: c130eb52a5e217b45b2f0d1f6a5bb567, type: 2}
+    pow: 1
+    inversePow: 0

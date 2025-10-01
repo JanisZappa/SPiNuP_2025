@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 4Channel_Purple 2
+  m_Shader: {fileID: 4800000, guid: b0a9d4df42a55de49a838652a827411d, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Diff:
+        m_Texture: {fileID: 2800000, guid: bc337cb3e429da946aa52aa1c79e9ac7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Map:
+        m_Texture: {fileID: 2800000, guid: f0c31314f94d6c74b924a08abf342809, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Ref:
+        m_Texture: {fileID: 2800000, guid: f961d3147dee244409266a5b0496eefa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Add: 0.5
+    m_Colors:
+    - _Ambient: {r: 0.3406142, g: 0.34179035, b: 0.44117647, a: 1}
+    - _Color: {r: 0.9632353, g: 0.1487349, b: 0.1487349, a: 1}
+    - _Floor: {r: 0.31228372, g: 0.31516722, b: 0.5588235, a: 1}
+    - _Fuck: {r: 1, g: 1, b: 1, a: 1}
+    - _Left: {r: 0.58823526, g: 0.58823526, b: 0.58823526, a: 1}
+    - _MainColor: {r: 1, g: 0, b: 0, a: 1}
+    - _Right: {r: 0.75, g: 0.75, b: 0.75, a: 1}
+    - _node_7593: {r: 0.1411765, g: 0.5960785, b: 0.8666667, a: 1}
