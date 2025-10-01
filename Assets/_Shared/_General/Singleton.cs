@@ -6,8 +6,16 @@ public abstract class Singleton<T> : MonoBehaviour where T : Singleton<T>
     private static T _inst;
     public static T Inst
     {
-        get { return _inst ? _inst : _inst = FindObjectOfType<T>(); }
+        get
+        {
+            if(!_inst)
+                _inst = FindObjectOfType<T>();
+            
+            return _inst; 
+        }
     }
+
+    
 
     private void Awake()
     {
