@@ -25,8 +25,8 @@ public class GameManager : Singleton<GameManager>
 
     public static Mode SavedMode
     {
-        get { return (Mode) (Application.isEditor? PlayerPrefs.GetInt("GameMode") : 1); }
-        set { PlayerPrefs.SetInt("GameMode", (int)value); }
+        get => Mode.SpinUp;//(Mode) (Application.isEditor? PlayerPrefs.GetInt("GameMode") : 1);
+        set => PlayerPrefs.SetInt("GameMode", (int)value);
     }
     
     private static Mode currentMode;
