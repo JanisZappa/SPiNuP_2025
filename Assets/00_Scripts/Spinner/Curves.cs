@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
+using UnityEngine.Scripting;
 
-
+[Preserve]
 public class Curves : Singleton<Curves> 
 {
     public AnimationCurve swingLeanAnim;
