@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 
@@ -26,6 +27,7 @@ public class ScreenControll : MonoBehaviour
 
 	private void Start()
 	{
+		Debug.Log("Screencontroll Start");
 		Screen.autorotateToLandscapeLeft      = false;
 		Screen.autorotateToLandscapeRight     = false;
 		Screen.autorotateToPortrait           = false;
@@ -54,6 +56,8 @@ public class ScreenControll : MonoBehaviour
 
 	private static void CamUpdate()
 	{
+		Debug.Log("Screencontroll CamUpdate");
+		
 		Camera cam = Camera.main;
 		
 		Width     = cam ? cam.pixelWidth  : Screen.width; 
@@ -95,5 +99,10 @@ public class ScreenControll : MonoBehaviour
 		checkHeight = Height;
 		
 		onOrientationChange?.Invoke();
+	}
+
+	private void OnDisable()
+	{
+		Debug.Log("WTF");
 	}
 }

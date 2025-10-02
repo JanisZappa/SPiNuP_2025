@@ -50,9 +50,9 @@ public class GameCam : MonoBehaviour
                 Debug.Log("aspectRatio: " + aspectRatio);
 		
                 const float portraitFov     = 17,
-                    portraitAspect  = 9f / 16f,
-                    landscapeAspect = 16f / 9f,
-                    radAngle        = portraitFov * Mathf.Deg2Rad;
+                            portraitAspect  = 9f / 16f,
+                            landscapeAspect = 16f / 9f,
+                            radAngle        = portraitFov * Mathf.Deg2Rad;
 		
                 float lerp    = Mathf.InverseLerp(portraitAspect, landscapeAspect, aspectRatio);
                 float radHFOV = 2 * Mathf.Atan(Mathf.Tan(radAngle * .5f) * portraitAspect);
