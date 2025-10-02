@@ -96,7 +96,7 @@ public class PlacerMeshes : ScriptableObject
 	}
 
 
-	public void Setup()
+	public void Setup(Transform parent)
 	{		 
 		PieceObjects.Pieces = new PieceDictionary(pieceShadows);
 
@@ -105,7 +105,7 @@ public class PlacerMeshes : ScriptableObject
 		
 		poolPieces = new Stack<PieceObjects>(poolSize);
 		for (int i = 0; i < poolSize; i++)
-			poolPieces.Push(new PieceObjects(mat, shadowMat));
+			poolPieces.Push(new PieceObjects(mat, shadowMat, parent));
 	}
 
 
@@ -245,11 +245,12 @@ public class PlacerMeshes : ScriptableObject
 		public static PieceDictionary Pieces;
 
 		public static int ActiveCount;
-		
-		public PieceObjects(Material pieceMat, Material shadowMat)
+
+		public PieceObjects(Material pieceMat, Material shadowMat, Transform parent)
 		{
 			{
 				GameObject gO = new GameObject("Piece");
+                gO.transform.parent = parent;
 			
 				pieceTransform  = gO.transform;
 				pieceFilter     = gO.AddComponent<MeshFilter>();
@@ -260,7 +261,8 @@ public class PlacerMeshes : ScriptableObject
 			}
 			{
 				GameObject gO = new GameObject("Shadow");
-			
+                gO.transform.parent = parent;
+                
 				shadowTransform  = gO.transform;
 				shadowFilter     = gO.AddComponent<MeshFilter>();
 				shadowRenderer   = gO.AddComponent<MeshRenderer>();

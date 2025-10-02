@@ -119,7 +119,7 @@ public partial class HouseGen : Singleton<HouseGen>
     public static void GameLoad()
     {
         if(Inst && Inst.gameObject.activeInHierarchy && Inst.mesher)
-            Inst.mesher.meshes.Setup();
+            Inst.mesher.meshes.Setup(Inst.transform);
     }
 
 

@@ -8,7 +8,7 @@ public static class Interaction
     {
         FunctionalResponse(clip);
         Sounds(clip);
-        //EnvironmentAnimation(clip);
+        EnvironmentAnimation(clip);
     }
     
     
