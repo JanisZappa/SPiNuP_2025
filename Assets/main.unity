@@ -5558,7 +5558,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1948359230184412, guid: 906879ed015b15a4da2ad0ef185fd429, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1948359230184412, guid: 906879ed015b15a4da2ad0ef185fd429, type: 3}
       propertyPath: m_TagString
@@ -12304,7 +12304,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1711814357
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13052,7 +13052,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6f3a816dad96bdb41a5945aa9a281cf4,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13955,7 +13955,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1347124245043102, guid: 633679ac52ff4a244922ab2e08dc2408, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1347124245043102, guid: 633679ac52ff4a244922ab2e08dc2408, type: 3}
       propertyPath: m_TagString
@@ -15819,8 +15819,8 @@ SceneRoots:
   - {fileID: 50}
   - {fileID: 1907961391}
   - {fileID: 1711814361}
-  - {fileID: 1923394375}
   - {fileID: 1867789190}
+  - {fileID: 1923394375}
   - {fileID: 1016295241}
   - {fileID: 1135012250}
   - {fileID: 783972261}
