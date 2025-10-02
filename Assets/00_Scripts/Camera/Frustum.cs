@@ -39,7 +39,7 @@ public class Frustum
     
 //  Hull & Wrapping  //
     private static int hullCount;
-    private readonly Vector2[] hull = new Vector2[6];
+    private readonly Vector2[] hull = new Vector2[20];
    
     private static readonly Line[] wrapLines = new Line[6];
     
