@@ -174,12 +174,12 @@ public static class ActorAnimator
             if (elementT.InstanceCount() > 0)
             {
                 GameObject prefab = Resources.Load("Level/Items/" + elementT) as GameObject;
-                if (prefab == null)
+                if (!prefab)
                     continue;
                 
                 Transform parent = Application.isEditor? new GameObject(elementT + "s").transform : null;
 
-                if (parent != null)
+                if (parent)
                 {
                     if(Mask.IsItem.Fits(elementT))
                         parent.parent = SceneLocator.Items;
@@ -337,7 +337,7 @@ public static class ActorAnimator
         if(priority)
             ActorAnim.AddNewShake(Shake.Get(shake.Swing, clip.startTime, clip.startStick.Item, clip.startMotion, clip));
         
-        ElementMask filter = priority ? Mask.ShakeItem as ElementMask: Mask.ShakeFluff;
+        ElementMask filter = priority ? Mask.ShakeItem: Mask.ShakeFluff;
         
         ImpactPulse(clip.startMotion, clip.startTime, clip.startStick.Item, clip, 1, filter);
     }
