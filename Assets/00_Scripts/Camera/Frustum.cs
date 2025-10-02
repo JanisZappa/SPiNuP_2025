@@ -54,7 +54,6 @@ public class Frustum
     public void Update()
     {
         Vector3 camPos     = camTransform.position;
-        Debug.Log(camPos.ToString("F5"));
         Vector3 camForward = camTransform.forward;
         Quaternion camRot  = camTransform.rotation;
         
