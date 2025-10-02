@@ -16,17 +16,17 @@ public partial class Rig : MonoBehaviour
 	
 	public readonly Transform[]    bones      = new Transform[maxBones];
 	public readonly Vector3[]      bindPos    = new Vector3[maxBones];
-	private readonly List<Color32> readColors = new List<Color32>(10000);
-	private readonly List<Vector2> readUVs    = new List<Vector2>(10000);
+	private readonly List<Color32> readColors = new(10000);
+	private readonly List<Vector2> readUVs    = new(10000);
 	
-	private readonly List<byte> colorMask = new List<byte>(10000), 
-		                        shadeMask = new List<byte>(10000);
+	private readonly List<byte> colorMask = new(10000), 
+		                        shadeMask = new(10000);
 	
 	private readonly CombineInstance[] combineInstances = new CombineInstance[partCount + headParts];
 	
 	private readonly Mesh[] sourceMeshes = new Mesh[4];
 
-	public readonly RigHead rigHead = new RigHead();
+	public readonly RigHead rigHead = new();
 	public readonly RigPart[] rigParts  = CollectionInit.Array<RigPart>(bendParts);
 	
 	private SkinnedMeshRenderer skin;
@@ -44,14 +44,12 @@ public partial class Rig : MonoBehaviour
 		poser = new RigPoser(this, spinner);
 		debug = new RigDebug(poser);
 
-		
 		for (int i = 0; i < bones.Length; i++)
 		{
 			bones[i] = (Application.isEditor? new GameObject("Bone " + i.ToString("D3")) : new GameObject()).transform;
 			bones[i].SetParent(transform);
 		}
 
-		
 		mesh = new Mesh();
 		skin = GetComponent<SkinnedMeshRenderer>();
 		

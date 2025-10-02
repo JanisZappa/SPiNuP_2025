@@ -33,14 +33,13 @@ public class Frustum
 
     private readonly float[] quadDepths = { -Level.BorderDepth, -Level.WallDepth, Level.WallDepth, Level.BorderDepth };
     private readonly Quad[]  quads = CollectionInit.Array<Quad>(4);
-    private readonly Quad shadowQuad = new Quad();
+    private readonly Quad shadowQuad = new();
     private Color[] colors;
     
     
 //  Hull & Wrapping  //
     private static int hullCount;
-    private readonly Vector2[] hull = new Vector2[20];
-   
+    private readonly Vector2[] hull = new Vector2[6];
     private static readonly Line[] wrapLines = new Line[6];
     
     

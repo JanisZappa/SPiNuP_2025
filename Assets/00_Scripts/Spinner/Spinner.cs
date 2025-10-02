@@ -10,9 +10,7 @@ public partial class Spinner
     private Spinner(int ID, Rig rig)
     {
         this.ID = ID;
-
         this.rig = rig;
-        
         rig.Setup(this);
 
         size = rig.poser.size.RotY(90);
