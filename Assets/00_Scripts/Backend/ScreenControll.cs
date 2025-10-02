@@ -105,4 +105,9 @@ public class ScreenControll : MonoBehaviour
 	{
 		Debug.Log("WTF");
 	}
+	
+	private void OnDestroy()
+	{
+		Debug.Log("Destroyed");
+	}
 }
