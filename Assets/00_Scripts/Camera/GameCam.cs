@@ -179,7 +179,7 @@ public class GameCam : MonoBehaviour
             
     //  Update FOV and Culling Masks  //
         cam.fieldOfView = GetFOV;
-        Debug.Log("FOV: " + cam.fieldOfView);
+        //Debug.Log("FOV: " + cam.fieldOfView);
     
         if (!mapShow)
         {
