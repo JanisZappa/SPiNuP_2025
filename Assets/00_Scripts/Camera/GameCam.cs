@@ -47,6 +47,7 @@ public class GameCam : MonoBehaviour
             if (!f.Same(aspectRatio, ScreenControll.Aspect))
             {
                 aspectRatio = ScreenControll.Aspect;
+                Debug.Log("aspectRatio: " + aspectRatio);
 		
                 const float portraitFov     = 17,
                     portraitAspect  = 9f / 16f,
