@@ -66,7 +66,10 @@ public class ScreenControll : MonoBehaviour
 		
 		Aspect    = Width / Height;
 		Landscape = Width >= Height;
+		
+		Debug.Log(".. " + Aspect);
 	}
+	
 	
 	
 	private static void SetNewOrientation()

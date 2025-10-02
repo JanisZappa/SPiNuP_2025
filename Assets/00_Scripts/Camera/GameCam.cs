@@ -39,7 +39,7 @@ public class GameCam : MonoBehaviour
     
     private int cullingMask;
 	
-    private static float aspectRatio, FOV;
+    private static float aspectRatio = -1, FOV;
     private static float GetFOV
     {
         get
