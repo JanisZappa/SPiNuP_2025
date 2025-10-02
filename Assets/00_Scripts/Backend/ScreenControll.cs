@@ -58,6 +58,12 @@ public class ScreenControll : MonoBehaviour
 		
 		Width     = cam ? cam.pixelWidth  : Screen.width; 
 		Height    = cam ? cam.pixelHeight : Screen.height;
+		
+#if UNITY_IOS
+		Width     = Screen.width; 
+		Height    = Screen.height;
+#endif
+		
 		Aspect    = Width / Height;
 		Landscape = Width >= Height;
 	}
