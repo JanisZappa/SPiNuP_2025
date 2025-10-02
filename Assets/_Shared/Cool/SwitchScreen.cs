@@ -23,7 +23,7 @@ public class SwitchScreen : MonoBehaviour
 
         if (Application.isMobilePlatform)
         {
-            Destroy(gameObject);
+            enabled = false;
             return;
         }
         
