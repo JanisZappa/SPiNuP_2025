@@ -64,17 +64,12 @@ public static class GTime
         {
             LastFrame = Now;
             
-            if (SaveMeshFrameRange.Saving)
-                Now = SaveMeshFrameRange.GetFrameTime;
-            else
-            {
-                Now += Time.deltaTime * Speed;
-                if (Now < 0)
-                    Now = 0;
-                
-                if (resetLoop)
-                    Now = Mathf.Repeat(Now, LoopTime);
-            }
+            Now += Time.deltaTime * Speed;
+            if (Now < 0)
+                Now = 0;
+            
+            if (resetLoop)
+                Now = Mathf.Repeat(Now, LoopTime);
         }
     }
 

@@ -33,7 +33,7 @@ public class Height : MonoBehaviour
 
     private void LateUpdate()
     {
-        if(!GameManager.Running || SaveMeshFrameRange.Saving)
+        if(!GameManager.Running)
             return;
 
         Clip clip = Spinner.CurrentPlayerClip;
@@ -70,7 +70,7 @@ public class Height : MonoBehaviour
     public static void ResetHeight()
     {
         height = 0;
-        if(heightText != null)
+        if(heightText)
             heightText.text = height.PrepString();
     }
     

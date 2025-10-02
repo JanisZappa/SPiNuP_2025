@@ -64,9 +64,6 @@ public class GameManager : Singleton<GameManager>
         Sound.SoundUpdate();
         Level.Refresh();
         ActorAnimator.LatePoseSet();
-        
-        if(SaveMeshFrameRange.Saving)
-            SaveMeshFrameRange.WriteToFile();
     }
     
     
