@@ -1,13 +1,8 @@
 ﻿using UnityEngine;
 
-public class Curves : MonoBehaviour
+public class Curves : Singleton<Curves>
 {
     public AnimationCurve swingLeanAnim;
 
-    public static AnimationCurve SwingLeanAnim;
-
-    private void Awake()
-    {
-        SwingLeanAnim = swingLeanAnim;
-    }
+    public static AnimationCurve SwingLeanAnim => Inst.swingLeanAnim;
 }

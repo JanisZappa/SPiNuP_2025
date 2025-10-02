@@ -93,12 +93,12 @@ public static class UI_Manager
             {
                 case UIType.SpinUp:
                 case UIType.Creator:
-                    Debug.Log("UI: SpinUp Creator");
+                    //Debug.Log("UI: SpinUp Creator");
                     Fade.Transition(v=> ShowUI(type, v), v=> ShowUI(UIType.MainMenu, v));
                     break;
                 
                 case UIType.MainMenu:
-                    Debug.Log("UI: MainMenu");
+                    //Debug.Log("UI: MainMenu");
                     Fade.Transition(v=> ShowUI(UIType.MainMenu, v), v=> showFrame.Set(v));
                     break;
             } 

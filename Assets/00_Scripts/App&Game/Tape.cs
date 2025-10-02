@@ -16,10 +16,10 @@ public partial class Tape
     
     private readonly Clip[] clips = new Clip[arrayLength];
     private int min, max;
-    private int first  { get { return min % arrayLength; }}
-    private int last   { get { return (max - 1) % arrayLength; }}
-    private int length { get { return max - min; }}
-    
+    private int first  => min % arrayLength;
+    private int last   => (max - 1) % arrayLength;
+    private int length => max - min;
+
     private readonly TapeSerializer tapeSerializer;
 
     

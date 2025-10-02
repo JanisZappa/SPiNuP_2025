@@ -100,9 +100,8 @@ public class PlacerMeshes : ScriptableObject
 	{		 
 		PieceObjects.Pieces = new PieceDictionary(pieceShadows);
 
-		if (mat == null)
+		if (!mat)
 			mat = Resources.Load<Material>("Mats/MainVertexMat");
-		
 		
 		poolPieces = new Stack<PieceObjects>(poolSize);
 		for (int i = 0; i < poolSize; i++)

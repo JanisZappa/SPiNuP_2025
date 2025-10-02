@@ -31,8 +31,8 @@ public class GameManager : Singleton<GameManager>
     
     private static Mode currentMode;
     public static bool Running;
-    public static bool IsCreator { get { return currentMode == Mode.Creator; }}
-    
+    public static bool IsCreator => currentMode == Mode.Creator;
+
     private static IGameMode mode;
     private static readonly IGameMode[] modes = { null, new Mode_SpinUp(), new Creator(), null };
     
