@@ -41,12 +41,9 @@ public partial class Spinner
 
     public bool isPlayer;
 
-    public bool isFocus
-    {
-        get { return this == focus; }
-    }
-    
-    
+    public bool isFocus => this == focus;
+
+
     public float ConnectRadius(Item item = null)
     {
         return size.y * .5f + (item?.radius ?? Item.DefaultRadius);

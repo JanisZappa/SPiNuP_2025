@@ -45,9 +45,10 @@ namespace Clips
 
         public virtual void Activate()
         {
-            if(!activated)
-                Interaction.ActivateClip(this);
-            
+            if (activated)
+                return;
+         
+            Interaction.ActivateClip(this);
             activated = true;
         }
 

@@ -6,12 +6,55 @@ public static class Interaction
 {
     public static void ActivateClip(Clip clip)
     {
+        FunctionalResponse(clip);
         Sounds(clip);
-        EnvironmentResponse(clip);
+        //EnvironmentAnimation(clip);
+    }
+    
+    
+    private static void FunctionalResponse(Clip clip)
+    {
+        switch (clip.Type)
+        {
+            case ClipType.Jump:
+            case ClipType.AirLaunch:
+            {
+                //  Collect Gets  //
+                Collector.CollectThings(clip as Jump);
+                break;
+            }
+                
+            case ClipType.Swing:
+            {
+            //  Mood  //
+                if (clip.spinner.isPlayer)
+                    Mood.OnSwing(clip.startTime);
+
+                goto case ClipType.Spawn;
+            }
+
+            case ClipType.Spawn:
+            {
+                Swing swing = clip as Swing;
+
+                Link.SwingResponse(swing);
+                Score.OnSwing(swing);
+                break;
+            }
+
+            case ClipType.Dead:
+            {
+                if (clip.spinner.isPlayer)
+                    Spinner.SetGameOver = true;
+                else
+                    ByteReplays.LoadRandomReplayFor(clip.spinner);
+                break;
+            }
+        }
     }
 
 
-    private static void EnvironmentResponse(Clip clip)
+    private static void EnvironmentAnimation(Clip clip)
     {
         switch (clip.Type)
         {
@@ -24,7 +67,7 @@ public static class Interaction
             case ClipType.AirLaunch:
             {
             //  Collect Gets  //
-                Collector.CollectThings(clip as Jump);
+                //Collector.CollectThings(clip as Jump);
 
                 if (clip.after is Swing swing)
                 {
@@ -45,38 +88,16 @@ public static class Interaction
                 break;
             }
 
-            case ClipType.Swing:
-            {
-            //  Mood  //
-                if (clip.spinner.isPlayer)
-                    Mood.OnSwing(clip.startTime);
-
-                goto case ClipType.Spawn;
-            }
-
             case ClipType.Spawn:
             {
                 Swing swing = clip as Swing;
-
-                Link.SwingResponse(swing);
-
                 ActorAnimator.OnSwing(swing, clip.Type == ClipType.Spawn);
-                Score.OnSwing(swing);
                 break;
             }
 
             case ClipType.Bump:
             {
                 ActorAnimator.OnBump(clip as Bump);
-                break;
-            }
-
-            case ClipType.Dead:
-            {
-                if (clip.spinner.isPlayer)
-                    Spinner.SetGameOver = true;
-                else
-                    ByteReplays.LoadRandomReplayFor(clip.spinner);
                 break;
             }
         }
