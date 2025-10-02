@@ -9,10 +9,12 @@ public class BoolSwitchList : MonoBehaviour
     private readonly StringBuilder builder = new();
     private int pick;
     private bool show;
+    private GameObject panel;
 
     private void Start()
     {
-        tmp.enabled = false;
+        panel = tmp.transform.parent.gameObject;
+        panel.SetActive(false);
     }
 
     private void Update()
@@ -20,7 +22,7 @@ public class BoolSwitchList : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha4))
         {
             show = !show;
-            tmp.enabled = show;
+            panel.SetActive(show);
         }
         
         if (show)

@@ -184,8 +184,6 @@ public partial class Level : Singleton<Level>
             if (!frustumCells[i].visible || frustumCells[i].cell == null)
                 continue;
             
-            
-            
             CellVis frontVis = frustumCells[i].frontVis;
             CellVis backVis  = frustumCells[i].backVis;
 

@@ -205,6 +205,7 @@ public static class ActorAnimator
     
     public static void GameStart(float restartShift)  
     {
+        ClearAll();
         ActorAnim.Clear();
         //ActorAnim.GameRestart(restartShift);
         
@@ -215,14 +216,14 @@ public static class ActorAnimator
     public static void LatePoseSet()
     {
         ActorAnim.Trimm();
-        
         ScoreStick.Trimm();
-        
         
         Profiler.BeginSample("ActorAnimator.LatePoseSet()");
         
         for (int i = 0; i < actorLists.Length; i++)
             actorLists[i].SetTransform();
+        
+        //Debug.Log(actorLists.Length);
         
         Profiler.EndSample();
     }
@@ -456,7 +457,7 @@ public static class ActorAnimator
         if (Mask.IsItem.Fits(element.elementType))
         {
             Actor actor = ActorList.allActors[element.ID];
-            if(actor != null)
+            if(actor)
                 ((IElementAction)actor).Action();
         }
     }
@@ -475,9 +476,9 @@ namespace ActorAnimation
 
         private readonly List<Shake> shakes = new List<Shake>(100);
 
-        private bool CanBeTrimmed { get { return endTime <= Mathf.Max(0, GTime.Now - GTime.RewindTime) && GetLeanNow() == V2.zero; }}
-        
-        
+        private bool CanBeTrimmed => endTime <= Mathf.Max(0, GTime.Now - GTime.RewindTime) && GetLeanNow() == V2.zero;
+
+
         private void TrimmShakes()
         {
             int count = shakes.Count;

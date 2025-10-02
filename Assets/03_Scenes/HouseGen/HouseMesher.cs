@@ -39,7 +39,7 @@ public class HouseMesher : MonoBehaviour
         PlacePieces(piecer.seamBackCorners);
         PlacePieces(piecer.seams);
 
-        PlacerMeshes.Report();
+        //PlacerMeshes.Report();
     }
 
 
