@@ -1,20 +1,13 @@
 ﻿using UnityEngine;
-using UnityEngine.Scripting;
 
-[Preserve]
-public class Curves : Singleton<Curves> 
+public class Curves : MonoBehaviour
 {
     public AnimationCurve swingLeanAnim;
 
-    public static AnimationCurve SwingLeanAnim
+    public static AnimationCurve SwingLeanAnim;
+
+    private void Awake()
     {
-        get
-        {
-            if (Inst == null)
-            {
-                Debug.Log("Fuuuck");
-            }
-            return Inst.swingLeanAnim;
-        }
+        SwingLeanAnim = swingLeanAnim;
     }
 }
