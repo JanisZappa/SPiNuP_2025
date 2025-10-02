@@ -74,7 +74,7 @@ public class GameManager : Singleton<GameManager>
     {
         State = state;
         
-        Debug.Log("Change State " + state);
+        //Debug.Log("Change State " + state);
 
         switch (state)
         {
